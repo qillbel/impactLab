@@ -1,0 +1,1 @@
+{"nodes": [{"group": "0", "id": "WC", "hasSizeMember": 1, "nodes": ["<a href='WC[Shaunavon].html' target='_blank'>WC[Shaunavon]</a><br/>"]}, {"group": "1", "id": "Route", "hasSizeMember": 1, "nodes": ["<a href='Route[Shaunavon].html' target='_blank'>Route[Shaunavon]</a><br/>"]}], "links": [{"source": "WC", "target": "Route", "value": 1}]}

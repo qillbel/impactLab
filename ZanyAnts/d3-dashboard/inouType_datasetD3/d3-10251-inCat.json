@@ -1,0 +1,1 @@
+{"nodes": [{"group": "0", "id": "WC", "hasSizeMember": 1, "nodes": ["<a href='WC[Rosetown].html' target='_blank'>WC[Rosetown]</a><br/>"]}, {"group": "1", "id": "Region", "hasSizeMember": 1, "nodes": ["<a href='Region[2---Saskatoon].html' target='_blank'>Region[2 - Saskatoon]</a><br/>"]}], "links": [{"source": "Region", "target": "WC", "value": 1}]}

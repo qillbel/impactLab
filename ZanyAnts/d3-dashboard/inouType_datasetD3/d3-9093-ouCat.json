@@ -1,0 +1,1 @@
+{"nodes": [{"group": "0", "id": "TaskType", "hasSizeMember": 1, "nodes": ["<a href='TaskType[CC].html' target='_blank'>TaskType[CC]</a><br/>"]}, {"group": "1", "id": "Group", "hasSizeMember": 1, "nodes": ["<a href='Group[_Shift---Payphones].html' target='_blank'>Group[_Shift - Payphones]</a><br/>"]}], "links": [{"source": "TaskType", "target": "Group", "value": 1}]}

@@ -1,0 +1,1 @@
+{"nodes": [{"group": "0", "id": "WC", "hasSizeMember": 1, "nodes": ["<a href='WC[Shellbrook].html' target='_blank'>WC[Shellbrook]</a><br/>"]}, {"group": "1", "id": "Region", "hasSizeMember": 1, "nodes": ["<a href='Region[3---Prince-Albert].html' target='_blank'>Region[3 - Prince Albert]</a><br/>"]}], "links": [{"source": "Region", "target": "WC", "value": 1}]}

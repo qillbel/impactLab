@@ -1,14 +1,33 @@
 <!DOCTYPE html>
 <html>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<style>
+ol {
+	list-style-type: none;
+	counter-reset: li;
+}
+/*li { font-size: 2rem; }*/
+
+li:before {
+  counter-increment: li;
+  content: counter(li, decimal-leading-zero);
+	color: red;
+	margin-right: 0.25em;
+}
+</style>
+
+
 <body>
 
-<h1>Category Idx</h1>
-<ol>
+<h1>Visualize item based on category</h1>
+<!--<ol class="w3-ul w3-hoverable w3-small">
   <li> WC Property <a href="lib/jsonTemp.html?cat=WC Property[Key]&JSON=d3-10268-ouCat.json" target="_blank">(d3-10268-ouCat)</a></li>
   <li>Tea</li>
   <li>Milk</li>
-</ol>
+</ol>-->
 
+<ol id="theCat" class="w3-ul w3-hoverable w3-small">
 <script>
 // As with JSON, use the Fetch API & ES6
 fetch('Xoom_lib/id_name_html.txt')
@@ -16,9 +35,12 @@ fetch('Xoom_lib/id_name_html.txt')
   .then(data => {
   	// Do something with your data
   	console.log(data);
-  	document.write(data);
+  	//document.write(data);
+  	document.getElementById('theCat').innerHTML += data;
+
   });
 </script>
+</ol>
 
 </body>
 </html>
