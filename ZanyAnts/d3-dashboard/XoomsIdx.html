@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Category Idx</h1>
+<ol>
+  <li> WC Property <a href="lib/jsonTemp.html?cat=WC Property[Key]&JSON=d3-10268-ouCat.json" target="_blank">(d3-10268-ouCat)</a></li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+
+<script>
+// As with JSON, use the Fetch API & ES6
+fetch('Xoom_lib/id_name_html.txt')
+  .then(response => response.text())
+  .then(data => {
+  	// Do something with your data
+  	console.log(data);
+  	document.write(data);
+  });
+</script>
+
+</body>
+</html>
