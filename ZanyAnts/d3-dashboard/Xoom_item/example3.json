@@ -1,1 +1,1 @@
-{'itemId': 'ABCapacityLimits Index[Key]', 'identities': [{'id': 'ABCapacityLimits Index[Key]', 'type': 'ABCapacityLimits Index', 'fields': {'IdName': 'Key'}}], 'ownerItem': 'Collection[ABCapacityLimits]', 'dependencies': ['ABCapacityLimits Property[Key]']}
+{"itemId": "ABCapacityLimits Index[Key]", "identities": [{"id": "ABCapacityLimits Index[Key]", "type": "ABCapacityLimits Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ABCapacityLimits]", "dependencies": ["ABCapacityLimits Property[Key]"]}
