@@ -1,0 +1,1 @@
+{"itemId": "W6SO_USER_GROUPS_CRUDS Property[CanUpdate]", "identities": [{"id": "W6SO_USER_GROUPS_CRUDS Property[CanUpdate]", "type": "W6SO_USER_GROUPS_CRUDS Property", "fields": {"IdName": "CanUpdate"}}], "ownerItem": "Collection[SOUserGroup]"}

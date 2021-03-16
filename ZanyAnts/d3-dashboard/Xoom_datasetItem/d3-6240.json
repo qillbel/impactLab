@@ -1,0 +1,1 @@
+{"itemId": "RosterCoverageObjective Property[Key]", "identities": [{"id": "RosterCoverageObjective Property[Key]", "type": "RosterCoverageObjective Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[RosterCoverageObjective]", "dependencies": ["Collection[RosterCoverageObjective]", "RosterCoverageObjective Property[Name]"]}

@@ -1,0 +1,1 @@
+{"itemId": "ScheduleIdleResourceStage Property[LowPriorityTasksGroup]", "identities": [{"id": "ScheduleIdleResourceStage Property[LowPriorityTasksGroup]", "type": "ScheduleIdleResourceStage Property", "fields": {"IdName": "LowPriorityTasksGroup"}}], "ownerItem": "Collection[ScheduleIdleResourceStage]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

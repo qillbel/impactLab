@@ -1,0 +1,1 @@
+{"itemId": "W6TASKS_REQUIRED_SKILLS2 Property[Key]", "identities": [{"id": "W6TASKS_REQUIRED_SKILLS2 Property[Key]", "type": "W6TASKS_REQUIRED_SKILLS2 Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[Task]", "dependencies": ["Collection[Skill]", "Skill Property[Name]"]}

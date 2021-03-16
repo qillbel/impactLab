@@ -1,0 +1,1 @@
+{"itemId": "Task Property[BundledItems]", "identities": [{"id": "Task Property[BundledItems]", "type": "Task Property", "fields": {"IdName": "BundledItems"}}], "ownerItem": "Collection[Task]", "dependencies": ["BundledItem Property[CallID]", "Collection[BundledItem]"]}

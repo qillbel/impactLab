@@ -1,0 +1,1 @@
+{"itemId": "EnhancedMatchPropertiesObjective Index[Key]", "identities": [{"id": "EnhancedMatchPropertiesObjective Index[Key]", "type": "EnhancedMatchPropertiesObjective Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[EnhancedMatchPropertiesObjective]", "dependencies": ["EnhancedMatchPropertiesObjective Property[Key]"]}

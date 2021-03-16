@@ -1,0 +1,1 @@
+{"itemId": "RosterMaxWorkingHoursRule Property[AvailabilityTypes]", "identities": [{"id": "RosterMaxWorkingHoursRule Property[AvailabilityTypes]", "type": "RosterMaxWorkingHoursRule Property", "fields": {"IdName": "AvailabilityTypes"}}], "ownerItem": "Collection[RosterMaxWorkingHoursRule]", "dependencies": ["AvailabilityType Property[Name]", "Collection[AvailabilityType]"]}

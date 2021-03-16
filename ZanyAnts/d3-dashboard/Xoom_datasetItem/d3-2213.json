@@ -1,0 +1,1 @@
+{"itemId": "Certification Property[Key]", "identities": [{"id": "Certification Property[Key]", "type": "Certification Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[Certification]", "dependencies": ["Certification Property[Name]", "Collection[Certification]"]}

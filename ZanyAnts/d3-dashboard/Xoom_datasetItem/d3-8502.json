@@ -1,0 +1,1 @@
+{"itemId": "SOUserGroup Property[Permissions]", "identities": [{"id": "SOUserGroup Property[Permissions]", "type": "SOUserGroup Property", "fields": {"IdName": "Permissions"}}], "ownerItem": "Collection[SOUserGroup]", "dependencies": ["Collection[SOUserGroupFilter]", "SOUserGroupFilter Property[FilterID]"]}

@@ -1,0 +1,1 @@
+{"itemId": "Connection Index[Name]", "identities": [{"id": "Connection Index[Name]", "type": "Connection Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[Connection]", "dependencies": ["Connection Property[Name]"]}

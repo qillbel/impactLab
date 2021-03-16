@@ -1,0 +1,1 @@
+{"itemId": "Group[BRs with state]", "identities": [{"id": "Group[BRs with state]", "type": "Group", "fields": {"Name": "BRs with state", "GroupType": "Task"}}], "dependencies": ["Collection[Task]", "SourceSystem[SALESREQUEST]", "Task Property[BRAssignmentInfo]", "Task Property[SourceSystem]", "Task Property[TaskType]", "TaskType[PS]"]}

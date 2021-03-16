@@ -1,0 +1,1 @@
+{"itemId": "PartUsed Index[ExternalRefID]", "identities": [{"id": "PartUsed Index[ExternalRefID]", "type": "PartUsed Index", "fields": {"IdName": "ExternalRefID"}}], "ownerItem": "Collection[PartUsed]", "dependencies": ["PartUsed Property[ExternalRefID]"]}

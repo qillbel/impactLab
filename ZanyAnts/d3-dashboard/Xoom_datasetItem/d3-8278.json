@@ -1,0 +1,1 @@
+{"itemId": "ShiftTemplate Property[AvailabilityType]", "identities": [{"id": "ShiftTemplate Property[AvailabilityType]", "type": "ShiftTemplate Property", "fields": {"IdName": "AvailabilityType"}}], "ownerItem": "Collection[ShiftTemplate]", "dependencies": ["AvailabilityType Property[Name]", "Collection[AvailabilityType]"]}

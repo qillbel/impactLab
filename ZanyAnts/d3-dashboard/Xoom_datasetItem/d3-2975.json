@@ -1,0 +1,1 @@
+{"itemId": "ContractorInvoiceCode Property[Key]", "identities": [{"id": "ContractorInvoiceCode Property[Key]", "type": "ContractorInvoiceCode Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ContractorInvoiceCode]", "dependencies": ["Collection[ContractorInvoiceCode]", "ContractorInvoiceCode Property[Name]"]}

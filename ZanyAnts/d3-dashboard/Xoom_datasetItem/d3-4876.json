@@ -1,0 +1,1 @@
+{"itemId": "Metric Index[LogicProgID]", "identities": [{"id": "Metric Index[LogicProgID]", "type": "Metric Index", "fields": {"IdName": "LogicProgID"}}], "ownerItem": "Collection[Metric]", "dependencies": ["Metric Property[LogicProgID]"]}

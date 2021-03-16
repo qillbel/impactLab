@@ -1,0 +1,1 @@
+{"itemId": "BusinessEvent Index[RelatedPlan,PlanScenario]", "identities": [{"id": "BusinessEvent Index[RelatedPlan,PlanScenario]", "type": "BusinessEvent Index", "fields": {"IdName": "RelatedPlan,PlanScenario"}}], "ownerItem": "Collection[BusinessEvent]", "dependencies": ["BusinessEvent Property[PlanScenario]", "BusinessEvent Property[RelatedPlan]"]}

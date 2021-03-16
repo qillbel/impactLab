@@ -1,0 +1,1 @@
+{"itemId": "IntegrationPollingThread Property[LastRunningTime]", "identities": [{"id": "IntegrationPollingThread Property[LastRunningTime]", "type": "IntegrationPollingThread Property", "fields": {"IdName": "LastRunningTime"}}], "ownerItem": "Collection[IntegrationPollingThread]"}

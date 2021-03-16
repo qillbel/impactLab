@@ -1,0 +1,1 @@
+{"itemId": "CapacityLimitsEnforceReason Index[Name]", "identities": [{"id": "CapacityLimitsEnforceReason Index[Name]", "type": "CapacityLimitsEnforceReason Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[CapacityLimitsEnforceReason]", "dependencies": ["CapacityLimitsEnforceReason Property[Name]"]}

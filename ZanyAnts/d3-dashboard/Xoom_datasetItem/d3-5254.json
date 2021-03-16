@@ -1,0 +1,1 @@
+{"itemId": "OutgoingMessage Property[Key]", "identities": [{"id": "OutgoingMessage Property[Key]", "type": "OutgoingMessage Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[OutgoingMessage]", "dependencies": ["Collection[OutgoingMessage]"]}

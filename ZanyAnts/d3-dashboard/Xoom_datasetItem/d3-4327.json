@@ -1,0 +1,1 @@
+{"itemId": "Group[Required Tech]", "identities": [{"id": "Group[Required Tech]", "type": "Group", "fields": {"Name": "Required Tech", "GroupType": "Task"}}], "dependencies": ["Collection[Task]", "Task Property[RequiredEngineers]"]}

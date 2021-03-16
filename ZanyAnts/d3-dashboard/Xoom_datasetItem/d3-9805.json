@@ -1,0 +1,1 @@
+{"itemId": "W6CLOCK_REPORTS Property[ClockReportType]", "identities": [{"id": "W6CLOCK_REPORTS Property[ClockReportType]", "type": "W6CLOCK_REPORTS Property", "fields": {"IdName": "ClockReportType"}}], "ownerItem": "Collection[Timesheet]", "dependencies": ["ClockReportType Property[Name]", "Collection[ClockReportType]"]}

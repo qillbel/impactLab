@@ -1,0 +1,1 @@
+{"itemId": "TravelCostBVF Index[Name]", "identities": [{"id": "TravelCostBVF Index[Name]", "type": "TravelCostBVF Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[TravelCostBVF]", "dependencies": ["TravelCostBVF Property[Name]"]}

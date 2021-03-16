@@ -1,0 +1,1 @@
+{"itemId": "ShiftTemplate Index[Key]", "identities": [{"id": "ShiftTemplate Index[Key]", "type": "ShiftTemplate Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ShiftTemplate]", "dependencies": ["ShiftTemplate Property[Key]"]}

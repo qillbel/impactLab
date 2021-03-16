@@ -1,0 +1,1 @@
+{"itemId": "RosterMaxWorkingDaysRule Property[ShiftGroupKey]", "identities": [{"id": "RosterMaxWorkingDaysRule Property[ShiftGroupKey]", "type": "RosterMaxWorkingDaysRule Property", "fields": {"IdName": "ShiftGroupKey"}}], "ownerItem": "Collection[RosterMaxWorkingDaysRule]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

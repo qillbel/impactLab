@@ -1,0 +1,1 @@
+{"itemId": "ServiceAlert Property[Region]", "identities": [{"id": "ServiceAlert Property[Region]", "type": "ServiceAlert Property", "fields": {"IdName": "Region"}}], "ownerItem": "Collection[ServiceAlert]", "dependencies": ["Collection[Region]", "Region Property[Name]"]}

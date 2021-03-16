@@ -1,0 +1,1 @@
+{"itemId": "TaskType[SPROTECTOR]", "identities": [{"id": "TaskType[SPROTECTOR]", "type": "TaskType", "fields": {"Name": "SPROTECTOR"}}], "dependencies": ["TaskTypeCategory[Service Order]"]}

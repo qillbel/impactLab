@@ -1,0 +1,1 @@
+{"itemId": "AppointmentBookingParameters Index[SubCategory]", "identities": [{"id": "AppointmentBookingParameters Index[SubCategory]", "type": "AppointmentBookingParameters Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[AppointmentBookingParameters]", "dependencies": ["AppointmentBookingParameters Property[SubCategory]"]}

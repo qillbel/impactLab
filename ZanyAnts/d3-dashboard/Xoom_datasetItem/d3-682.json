@@ -1,0 +1,1 @@
+{"itemId": "BackReporting Property[BackReportingType]", "identities": [{"id": "BackReporting Property[BackReportingType]", "type": "BackReporting Property", "fields": {"IdName": "BackReportingType"}}], "ownerItem": "Collection[BackReporting]", "dependencies": ["BackReportingType Property[Name]", "Collection[BackReportingType]"]}

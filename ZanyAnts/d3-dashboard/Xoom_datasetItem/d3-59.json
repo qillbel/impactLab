@@ -1,0 +1,1 @@
+{"itemId": "AbsenceRequestInfo Property[OverlappingAssignments]", "identities": [{"id": "AbsenceRequestInfo Property[OverlappingAssignments]", "type": "AbsenceRequestInfo Property", "fields": {"IdName": "OverlappingAssignments"}}], "ownerItem": "Collection[AbsenceRequestInfo]", "dependencies": ["Assignment Property[Comment]", "Collection[Assignment]"]}

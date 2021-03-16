@@ -1,0 +1,1 @@
+{"itemId": "Group[Band 6]", "identities": [{"id": "Group[Band 6]", "type": "Group", "fields": {"Name": "Band 6", "GroupType": "Task"}}], "dependencies": ["Collection[Task]", "EngineerType[Band 6]", "Skill[High Speed Install]", "Task Property[Duration]", "Task Property[EngineerType]", "Task Property[RequiredSkills1]", "W6TASKS_REQUIRED_SKILLS1 Property[Key]"]}

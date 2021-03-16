@@ -1,0 +1,1 @@
+{"itemId": "ServiceAlert Property[RelatedVacationCalendar]", "identities": [{"id": "ServiceAlert Property[RelatedVacationCalendar]", "type": "ServiceAlert Property", "fields": {"IdName": "RelatedVacationCalendar"}}], "ownerItem": "Collection[ServiceAlert]", "dependencies": ["Collection[VacationCalendar]", "VacationCalendar Property[Name]"]}

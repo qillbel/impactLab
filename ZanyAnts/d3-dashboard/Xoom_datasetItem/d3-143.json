@@ -1,0 +1,1 @@
+{"itemId": "Agent Instance[Night BGO - CMP]", "identities": [{"id": "Agent Instance[Night BGO - CMP]", "type": "Agent Instance", "fields": {"Name": "Night BGO - CMP"}}], "ownerItem": "Setting[[Application]|Agents|AgentsManager|]", "dependencies": ["Agent[Schedule|Night BGO - CMP]", "Server[SWS00719]"]}

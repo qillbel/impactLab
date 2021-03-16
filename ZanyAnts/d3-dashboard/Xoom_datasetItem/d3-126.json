@@ -1,0 +1,1 @@
+{"itemId": "Agent Instance[Cancel 30 Day Old CMP Tasks]", "identities": [{"id": "Agent Instance[Cancel 30 Day Old CMP Tasks]", "type": "Agent Instance", "fields": {"Name": "Cancel 30 Day Old CMP Tasks"}}], "ownerItem": "Setting[[Application]|Agents|AgentsManager|]", "dependencies": ["Agent[Workflow Agent|Cancel 30 Day Old CMP Tasks]", "Server[SWS00719]"]}

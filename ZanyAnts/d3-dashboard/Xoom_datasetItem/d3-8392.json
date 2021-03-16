@@ -1,0 +1,1 @@
+{"itemId": "Skill[Splice Fibre]", "identities": [{"id": "Skill[Splice Fibre]", "type": "Skill", "fields": {"Name": "Splice Fibre"}}], "dependencies": ["ServiceType[Con]"]}

@@ -1,0 +1,1 @@
+{"itemId": "W6PAIN_TYPES_RELEVANT_AV_TYPES Property[AvailabilityType]", "identities": [{"id": "W6PAIN_TYPES_RELEVANT_AV_TYPES Property[AvailabilityType]", "type": "W6PAIN_TYPES_RELEVANT_AV_TYPES Property", "fields": {"IdName": "AvailabilityType"}}], "ownerItem": "Collection[PainType]", "dependencies": ["AvailabilityType Property[Name]", "Collection[AvailabilityType]"]}

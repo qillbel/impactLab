@@ -1,0 +1,1 @@
+{"itemId": "MobileMessage Index[Engineer,Task]", "identities": [{"id": "MobileMessage Index[Engineer,Task]", "type": "MobileMessage Index", "fields": {"IdName": "Engineer,Task"}}], "ownerItem": "Collection[MobileMessage]", "dependencies": ["MobileMessage Property[Engineer]", "MobileMessage Property[Task]"]}

@@ -1,0 +1,1 @@
+{"itemId": "PredictiveTaskDuration Property[Key]", "identities": [{"id": "PredictiveTaskDuration Property[Key]", "type": "PredictiveTaskDuration Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[PredictiveTaskDuration]", "dependencies": ["Collection[PredictiveTaskDuration]", "PredictiveTaskDuration Property[Name]"]}

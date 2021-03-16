@@ -1,0 +1,1 @@
+{"itemId": "RosterMaxResourcePairingRule Property[DemandGroupKey]", "identities": [{"id": "RosterMaxResourcePairingRule Property[DemandGroupKey]", "type": "RosterMaxResourcePairingRule Property", "fields": {"IdName": "DemandGroupKey"}}], "ownerItem": "Collection[RosterMaxResourcePairingRule]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

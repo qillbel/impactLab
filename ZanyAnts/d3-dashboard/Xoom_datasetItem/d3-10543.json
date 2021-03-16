@@ -1,0 +1,1 @@
+{"itemId": "W6ROSTERMAXC_40000019_50000288 Property[Item]", "identities": [{"id": "W6ROSTERMAXC_40000019_50000288 Property[Item]", "type": "W6ROSTERMAXC_40000019_50000288 Property", "fields": {"IdName": "Item"}}], "ownerItem": "Collection[RosterMaxConsecutiveWorkRule]", "dependencies": ["AvailabilityType Property[Name]", "Collection[AvailabilityType]"]}

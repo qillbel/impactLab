@@ -1,0 +1,1 @@
+{"itemId": "W6ASSETS_ASSETS_LIST Property[AssetKey]", "identities": [{"id": "W6ASSETS_ASSETS_LIST Property[AssetKey]", "type": "W6ASSETS_ASSETS_LIST Property", "fields": {"IdName": "AssetKey"}}], "ownerItem": "Collection[Asset]", "dependencies": ["Asset Property[Name]", "Collection[Asset]"]}

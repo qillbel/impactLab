@@ -1,0 +1,1 @@
+{"itemId": "MatchBonusBVF Property[RelevanceGroup]", "identities": [{"id": "MatchBonusBVF Property[RelevanceGroup]", "type": "MatchBonusBVF Property", "fields": {"IdName": "RelevanceGroup"}}], "ownerItem": "Collection[MatchBonusBVF]", "dependencies": ["Collection[RelevanceGroup]", "RelevanceGroup Property[Name]"]}

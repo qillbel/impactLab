@@ -1,0 +1,1 @@
+{"itemId": "RosterCoverageObjective Property[ResourceRelevancyGroup]", "identities": [{"id": "RosterCoverageObjective Property[ResourceRelevancyGroup]", "type": "RosterCoverageObjective Property", "fields": {"IdName": "ResourceRelevancyGroup"}}], "ownerItem": "Collection[RosterCoverageObjective]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

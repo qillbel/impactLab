@@ -1,0 +1,1 @@
+{"itemId": "RosterGeneralSettings Index[Name]", "identities": [{"id": "RosterGeneralSettings Index[Name]", "type": "RosterGeneralSettings Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[RosterGeneralSettings]", "dependencies": ["RosterGeneralSettings Property[Name]"]}

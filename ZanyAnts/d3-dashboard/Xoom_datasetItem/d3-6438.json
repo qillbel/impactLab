@@ -1,0 +1,1 @@
+{"itemId": "RosterFairnessObjective Property[PainTypeReference]", "identities": [{"id": "RosterFairnessObjective Property[PainTypeReference]", "type": "RosterFairnessObjective Property", "fields": {"IdName": "PainTypeReference"}}], "ownerItem": "Collection[RosterFairnessObjective]", "dependencies": ["Collection[PainType]", "PainType Property[Name]"]}

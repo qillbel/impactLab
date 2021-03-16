@@ -1,0 +1,1 @@
+{"itemId": "RosterRotation Property[ShiftPattern]", "identities": [{"id": "RosterRotation Property[ShiftPattern]", "type": "RosterRotation Property", "fields": {"IdName": "ShiftPattern"}}], "ownerItem": "Collection[RosterRotation]", "dependencies": ["Collection[ShiftPattern]", "ShiftPattern Property[Name]"]}

@@ -1,0 +1,1 @@
+{"itemId": "LogicDomainSetting Index[Key]", "identities": [{"id": "LogicDomainSetting Index[Key]", "type": "LogicDomainSetting Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[LogicDomainSetting]", "dependencies": ["LogicDomainSetting Property[Key]"]}

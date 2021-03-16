@@ -1,0 +1,1 @@
+{"itemId": "W6ROSTERMINR_40000026_50000294 Property[Item]", "identities": [{"id": "W6ROSTERMINR_40000026_50000294 Property[Item]", "type": "W6ROSTERMINR_40000026_50000294 Property", "fields": {"IdName": "Item"}}], "ownerItem": "Collection[RosterMinRestTimeBetweenShiftsRule]", "dependencies": ["AvailabilityType Property[Name]", "Collection[AvailabilityType]"]}

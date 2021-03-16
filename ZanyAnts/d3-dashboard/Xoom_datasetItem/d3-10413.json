@@ -1,0 +1,1 @@
+{"itemId": "ZLookupBookingAreaDistrict Property[Key]", "identities": [{"id": "ZLookupBookingAreaDistrict Property[Key]", "type": "ZLookupBookingAreaDistrict Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ZLookupBookingAreaDistrict]", "dependencies": ["Collection[ZLookupBookingAreaDistrict]", "ZLookupBookingAreaDistrict Property[Name]"]}

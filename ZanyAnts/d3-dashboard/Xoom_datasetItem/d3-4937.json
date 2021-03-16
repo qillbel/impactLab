@@ -1,0 +1,1 @@
+{"itemId": "MinimizeUseOfElasticityObjective Index[Name]", "identities": [{"id": "MinimizeUseOfElasticityObjective Index[Name]", "type": "MinimizeUseOfElasticityObjective Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[MinimizeUseOfElasticityObjective]", "dependencies": ["MinimizeUseOfElasticityObjective Property[Name]"]}

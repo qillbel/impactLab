@@ -1,0 +1,1 @@
+{"itemId": "AgentOperation Index[Key]", "identities": [{"id": "AgentOperation Index[Key]", "type": "AgentOperation Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[AgentOperation]", "dependencies": ["AgentOperation Property[Key]"]}

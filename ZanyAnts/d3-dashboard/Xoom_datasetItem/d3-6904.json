@@ -1,0 +1,1 @@
+{"itemId": "RosterResourceCrewAssociation Index[ResourceCrewID]", "identities": [{"id": "RosterResourceCrewAssociation Index[ResourceCrewID]", "type": "RosterResourceCrewAssociation Index", "fields": {"IdName": "ResourceCrewID"}}], "ownerItem": "Collection[RosterResourceCrewAssociation]", "dependencies": ["RosterResourceCrewAssociation Property[ResourceCrewID]"]}

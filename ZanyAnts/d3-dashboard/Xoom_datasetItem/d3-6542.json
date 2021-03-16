@@ -1,0 +1,1 @@
+{"itemId": "RosterGroupedDemandsCoverageObjective Index[Name]", "identities": [{"id": "RosterGroupedDemandsCoverageObjective Index[Name]", "type": "RosterGroupedDemandsCoverageObjective Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[RosterGroupedDemandsCoverageObjective]", "dependencies": ["RosterGroupedDemandsCoverageObjective Property[Name]"]}

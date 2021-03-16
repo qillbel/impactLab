@@ -1,0 +1,1 @@
+{"itemId": "Engineer Property[Shift]", "identities": [{"id": "Engineer Property[Shift]", "type": "Engineer Property", "fields": {"IdName": "Shift"}}], "ownerItem": "Collection[Engineer]", "dependencies": ["Collection[Shifts]", "Shifts Property[Name]"]}

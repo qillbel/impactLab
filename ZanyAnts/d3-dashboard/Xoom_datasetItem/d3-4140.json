@@ -1,0 +1,1 @@
+{"itemId": "Group[_Shift - Convert to Fibre]", "identities": [{"id": "Group[_Shift - Convert to Fibre]", "type": "Group", "fields": {"Name": "_Shift - Convert to Fibre", "GroupType": "Task"}}], "dependencies": ["Collection[Task]", "Task Property[TaskType]", "TaskType[CTF]"]}

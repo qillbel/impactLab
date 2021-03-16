@@ -1,0 +1,1 @@
+{"itemId": "StatusTransition[Bundled|Completed|1]", "identities": [{"id": "StatusTransition[Bundled|Completed|1]", "type": "StatusTransition", "fields": {"StatusBefore": "Bundled", "StatusAfter": "Completed", "StatusContext": "1"}}], "dependencies": ["TaskStatus[Bundled]", "TaskStatus[Completed]"]}

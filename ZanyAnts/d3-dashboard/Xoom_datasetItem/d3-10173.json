@@ -1,0 +1,1 @@
+{"itemId": "W6UPD_BY_INTG_LOGICITEMS Property[LogicDomain]", "identities": [{"id": "W6UPD_BY_INTG_LOGICITEMS Property[LogicDomain]", "type": "W6UPD_BY_INTG_LOGICITEMS Property", "fields": {"IdName": "LogicDomain"}}], "ownerItem": "Collection[UpdatesThroughIntegration]", "dependencies": ["Collection[LogicDomainSetting]", "LogicDomainSetting Property[SubCategory]"]}

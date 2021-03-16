@@ -1,0 +1,1 @@
+{"itemId": "CustomerAccount Index[WorkOrders.All.WorkOrderKey]", "identities": [{"id": "CustomerAccount Index[WorkOrders.All.WorkOrderKey]", "type": "CustomerAccount Index", "fields": {"IdName": "WorkOrders.All.WorkOrderKey"}}], "ownerItem": "Collection[CustomerAccount]", "dependencies": ["CustomerAccount Property[WorkOrders]", "W6CUSTOMER_ACCOUNTS_WOS Property[WorkOrderKey]"]}

@@ -1,0 +1,1 @@
+{"itemId": "MobileAppType Property[Key]", "identities": [{"id": "MobileAppType Property[Key]", "type": "MobileAppType Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[MobileAppType]", "dependencies": ["Collection[MobileAppType]", "MobileAppType Property[Name]"]}

@@ -1,0 +1,1 @@
+{"itemId": "RosterWorkingRestrictionsRule Property[Key]", "identities": [{"id": "RosterWorkingRestrictionsRule Property[Key]", "type": "RosterWorkingRestrictionsRule Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[RosterWorkingRestrictionsRule]", "dependencies": ["Collection[RosterWorkingRestrictionsRule]", "RosterWorkingRestrictionsRule Property[Name]"]}

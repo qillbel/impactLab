@@ -1,0 +1,1 @@
+{"itemId": "SimpleCondition Index[Key]", "identities": [{"id": "SimpleCondition Index[Key]", "type": "SimpleCondition Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[SimpleCondition]", "dependencies": ["SimpleCondition Property[Key]"]}

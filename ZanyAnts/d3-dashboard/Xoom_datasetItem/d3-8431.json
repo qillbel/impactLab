@@ -1,0 +1,1 @@
+{"itemId": "SLAProfile Index[Name]", "identities": [{"id": "SLAProfile Index[Name]", "type": "SLAProfile Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[SLAProfile]", "dependencies": ["SLAProfile Property[Name]"]}

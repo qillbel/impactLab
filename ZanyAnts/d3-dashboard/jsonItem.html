@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>JSON VIEW</title>
+	<title>Xoom Item</title>
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="Xoom_lib/jsonview.bundle.css">
 </head>
@@ -10,7 +10,9 @@
 
   <script type="text/javascript" src="Xoom_lib/jsonview.bundle.js"></script>
   <script type="text/javascript">
-    fetch('Xoom_datasetItem/d3-2662.json')
+	var itemJSON = location.search.split('item=')[1];
+	//window.alert('Xoom_datasetItem/'+itemJSON);
+    fetch('Xoom_datasetItem/'+itemJSON)
     .then((res)=> {
       return res.text();
     })

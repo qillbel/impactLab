@@ -1,0 +1,1 @@
+{"itemId": "District[Lloydminster City]", "identities": [{"id": "District[Lloydminster City]", "type": "District", "fields": {"Name": "Lloydminster City"}}], "dependencies": ["Country[CANADA]", "District[Lloydminster City]", "Region[6 - North Battleford - Lloydminster]"]}

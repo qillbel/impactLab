@@ -1,0 +1,1 @@
+{"itemId": "CenterOfWorkRule Index[Key]", "identities": [{"id": "CenterOfWorkRule Index[Key]", "type": "CenterOfWorkRule Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[CenterOfWorkRule]", "dependencies": ["CenterOfWorkRule Property[Key]"]}

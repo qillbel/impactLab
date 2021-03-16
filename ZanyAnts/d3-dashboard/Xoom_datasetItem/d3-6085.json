@@ -1,0 +1,1 @@
+{"itemId": "ReserveCapacityInApptBookingRule Property[EngineerDailyWorkHours]", "identities": [{"id": "ReserveCapacityInApptBookingRule Property[EngineerDailyWorkHours]", "type": "ReserveCapacityInApptBookingRule Property", "fields": {"IdName": "EngineerDailyWorkHours"}}], "ownerItem": "Collection[ReserveCapacityInApptBookingRule]"}

@@ -1,0 +1,1 @@
+{"itemId": "StandardSetting Index[Category,SubCategory]", "identities": [{"id": "StandardSetting Index[Category,SubCategory]", "type": "StandardSetting Index", "fields": {"IdName": "Category,SubCategory"}}], "ownerItem": "Collection[StandardSetting]", "dependencies": ["StandardSetting Property[Category]", "StandardSetting Property[SubCategory]"]}

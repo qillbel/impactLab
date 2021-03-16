@@ -1,0 +1,1 @@
+{"itemId": "W6ROSTERMATC_40000018_50000287 Property[Item]", "identities": [{"id": "W6ROSTERMATC_40000018_50000287 Property[Item]", "type": "W6ROSTERMATC_40000018_50000287 Property", "fields": {"IdName": "Item"}}], "ownerItem": "Collection[RosterMatchLocationRule]", "dependencies": ["AvailabilityType Property[Name]", "Collection[AvailabilityType]"]}

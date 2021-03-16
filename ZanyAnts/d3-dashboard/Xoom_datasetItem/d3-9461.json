@@ -1,0 +1,1 @@
+{"itemId": "UpdatesThroughIntegration Index[SubCategory]", "identities": [{"id": "UpdatesThroughIntegration Index[SubCategory]", "type": "UpdatesThroughIntegration Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[UpdatesThroughIntegration]", "dependencies": ["UpdatesThroughIntegration Property[SubCategory]"]}

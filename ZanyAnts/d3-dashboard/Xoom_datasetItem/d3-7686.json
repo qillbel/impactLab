@@ -1,0 +1,1 @@
+{"itemId": "ServiceType Index[Key]", "identities": [{"id": "ServiceType Index[Key]", "type": "ServiceType Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ServiceType]", "dependencies": ["ServiceType Property[Key]"]}

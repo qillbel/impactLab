@@ -1,0 +1,1 @@
+{"itemId": "ScheduleIdleResourceStage Property[Key]", "identities": [{"id": "ScheduleIdleResourceStage Property[Key]", "type": "ScheduleIdleResourceStage Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ScheduleIdleResourceStage]", "dependencies": ["Collection[ScheduleIdleResourceStage]", "ScheduleIdleResourceStage Property[SubCategory]"]}

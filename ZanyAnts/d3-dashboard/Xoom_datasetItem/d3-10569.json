@@ -1,0 +1,1 @@
+{"itemId": "W6TASKS_PARTS_USED Property[PartUsedKey]", "identities": [{"id": "W6TASKS_PARTS_USED Property[PartUsedKey]", "type": "W6TASKS_PARTS_USED Property", "fields": {"IdName": "PartUsedKey"}}], "ownerItem": "Collection[Task]", "dependencies": ["Collection[PartUsed]", "PartUsed Property[Name]"]}

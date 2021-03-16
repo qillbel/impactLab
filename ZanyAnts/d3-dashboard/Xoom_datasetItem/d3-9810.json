@@ -1,0 +1,1 @@
+{"itemId": "W6CONTRACTS_INFO_RESTRICTIONS Property[Calendar]", "identities": [{"id": "W6CONTRACTS_INFO_RESTRICTIONS Property[Calendar]", "type": "W6CONTRACTS_INFO_RESTRICTIONS Property", "fields": {"IdName": "Calendar"}}], "ownerItem": "Collection[ContractInfo]", "dependencies": ["Calendar Property[Name]", "Collection[Calendar]"]}

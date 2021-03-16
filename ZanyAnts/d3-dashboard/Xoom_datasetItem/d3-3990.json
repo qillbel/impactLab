@@ -1,0 +1,1 @@
+{"itemId": "GenericEventDefinition[Clear BR State]", "identities": [{"id": "GenericEventDefinition[Clear BR State]", "type": "GenericEventDefinition", "fields": {"Name": "Clear BR State"}}], "dependencies": ["Action Type[Set property]", "Collection[Task]", "Group[BRs with state]", "Task Property[BRAssignmentInfo]", "Task Property[Status]"]}

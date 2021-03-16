@@ -1,0 +1,1 @@
+{"itemId": "DatePropertyForClientQuery Index[Key]", "identities": [{"id": "DatePropertyForClientQuery Index[Key]", "type": "DatePropertyForClientQuery Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[DatePropertyForClientQuery]", "dependencies": ["DatePropertyForClientQuery Property[Key]"]}

@@ -1,0 +1,1 @@
+{"itemId": "W6BUTLER_TRIGGERS_CONDITIONS Property[ButlerCondition]", "identities": [{"id": "W6BUTLER_TRIGGERS_CONDITIONS Property[ButlerCondition]", "type": "W6BUTLER_TRIGGERS_CONDITIONS Property", "fields": {"IdName": "ButlerCondition"}}], "ownerItem": "Collection[ButlerTrigger]", "dependencies": ["ButlerCondition Property[Name]", "Collection[ButlerCondition]"]}

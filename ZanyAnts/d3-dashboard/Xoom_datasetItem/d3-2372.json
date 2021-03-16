@@ -1,0 +1,1 @@
+{"itemId": "ClickScheduleWebClientAdminSettings Property[ParentUserSetting]", "identities": [{"id": "ClickScheduleWebClientAdminSettings Property[ParentUserSetting]", "type": "ClickScheduleWebClientAdminSettings Property", "fields": {"IdName": "ParentUserSetting"}}], "ownerItem": "Collection[ClickScheduleWebClientAdminSettings]", "dependencies": ["Collection[UserSetting]"]}

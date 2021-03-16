@@ -1,0 +1,1 @@
+{"itemId": "TaskType[SMDF]", "identities": [{"id": "TaskType[SMDF]", "type": "TaskType", "fields": {"Name": "SMDF"}}], "dependencies": ["TaskTypeCategory[Service Order]"]}

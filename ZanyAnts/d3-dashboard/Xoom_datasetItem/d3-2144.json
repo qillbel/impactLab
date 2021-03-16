@@ -1,0 +1,1 @@
+{"itemId": "CatalogProfile Property[ParentNotificationType]", "identities": [{"id": "CatalogProfile Property[ParentNotificationType]", "type": "CatalogProfile Property", "fields": {"IdName": "ParentNotificationType"}}], "ownerItem": "Collection[CatalogProfile]", "dependencies": ["BackReportingType Property[Name]", "Collection[BackReportingType]"]}

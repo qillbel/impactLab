@@ -1,0 +1,1 @@
+{"itemId": "BusinessEvent Property[RelatedPlan]", "identities": [{"id": "BusinessEvent Property[RelatedPlan]", "type": "BusinessEvent Property", "fields": {"IdName": "RelatedPlan"}}], "ownerItem": "Collection[BusinessEvent]", "dependencies": ["Collection[Plan]", "Plan Property[Name]"]}

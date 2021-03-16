@@ -1,0 +1,1 @@
+{"itemId": "Agent Instance[First Job Drip Feed Dispatch]", "identities": [{"id": "Agent Instance[First Job Drip Feed Dispatch]", "type": "Agent Instance", "fields": {"Name": "First Job Drip Feed Dispatch"}}], "ownerItem": "Setting[[Application]|Agents|AgentsManager|]", "dependencies": ["Agent[Workflow Agent|First Job Drip Feed Dispatch]", "Server[SWS00719]"]}

@@ -1,0 +1,1 @@
+{"itemId": "MatchCrewSizeRule Property[Key]", "identities": [{"id": "MatchCrewSizeRule Property[Key]", "type": "MatchCrewSizeRule Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[MatchCrewSizeRule]", "dependencies": ["Collection[MatchCrewSizeRule]", "MatchCrewSizeRule Property[Name]"]}

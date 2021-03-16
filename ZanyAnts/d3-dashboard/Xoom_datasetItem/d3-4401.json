@@ -1,0 +1,1 @@
+{"itemId": "GroupsCustomCondition Property[Key]", "identities": [{"id": "GroupsCustomCondition Property[Key]", "type": "GroupsCustomCondition Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[GroupsCustomCondition]", "dependencies": ["Collection[GroupsCustomCondition]", "GroupsCustomCondition Property[Name]"]}

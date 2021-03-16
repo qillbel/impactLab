@@ -1,0 +1,1 @@
+{"itemId": "EnhancedSkillsBVF Index[Name]", "identities": [{"id": "EnhancedSkillsBVF Index[Name]", "type": "EnhancedSkillsBVF Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[EnhancedSkillsBVF]", "dependencies": ["EnhancedSkillsBVF Property[Name]"]}

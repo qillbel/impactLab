@@ -1,0 +1,1 @@
+{"itemId": "GISPreset Property[Service]", "identities": [{"id": "GISPreset Property[Service]", "type": "GISPreset Property", "fields": {"IdName": "Service"}}], "ownerItem": "Collection[GISPreset]", "dependencies": ["Collection[GISPresetService]", "GISPresetService Property[Name]"]}

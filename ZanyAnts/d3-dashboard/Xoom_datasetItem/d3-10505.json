@@ -1,0 +1,1 @@
+{"itemId": "W6CUSTOMER_ACCOUNTS_LOCATIONS Property[LocationKey]", "identities": [{"id": "W6CUSTOMER_ACCOUNTS_LOCATIONS Property[LocationKey]", "type": "W6CUSTOMER_ACCOUNTS_LOCATIONS Property", "fields": {"IdName": "LocationKey"}}], "ownerItem": "Collection[CustomerAccount]", "dependencies": ["Collection[Location]", "Location Property[Name]"]}

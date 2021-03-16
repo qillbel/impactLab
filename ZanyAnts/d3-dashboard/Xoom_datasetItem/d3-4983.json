@@ -1,0 +1,1 @@
+{"itemId": "MobileMessage Property[Engineer]", "identities": [{"id": "MobileMessage Property[Engineer]", "type": "MobileMessage Property", "fields": {"IdName": "Engineer"}}], "ownerItem": "Collection[MobileMessage]", "dependencies": ["Collection[Engineer]", "Engineer Property[Name]"]}

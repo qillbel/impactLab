@@ -1,0 +1,1 @@
+{"itemId": "W6CAPACITYLIMITSWI_117_1170000 Property[District]", "identities": [{"id": "W6CAPACITYLIMITSWI_117_1170000 Property[District]", "type": "W6CAPACITYLIMITSWI_117_1170000 Property", "fields": {"IdName": "District"}}], "ownerItem": "Collection[CapacityLimitsWizardTemplate]", "dependencies": ["Collection[District]", "District Property[Name]"]}

@@ -1,0 +1,1 @@
+{"itemId": "Group[tech lookup]", "identities": [{"id": "Group[tech lookup]", "type": "Group", "fields": {"Name": "tech lookup", "GroupType": "Engineer"}}], "dependencies": ["Collection[Engineer]", "Engineer Property[Skills]", "Skill Property[Name]", "W6ENGINEERS_SKILLS Property[Key]"]}

@@ -1,0 +1,1 @@
+{"itemId": "ResourceAvailabilityRule Property[Key]", "identities": [{"id": "ResourceAvailabilityRule Property[Key]", "type": "ResourceAvailabilityRule Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ResourceAvailabilityRule]", "dependencies": ["Collection[ResourceAvailabilityRule]", "ResourceAvailabilityRule Property[Name]"]}

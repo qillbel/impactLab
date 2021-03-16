@@ -1,0 +1,1 @@
+{"itemId": "Group[Integration - SAP Construction Before]", "identities": [{"id": "Group[Integration - SAP Construction Before]", "type": "Group", "fields": {"Name": "Integration - SAP Construction Before", "GroupType": "Task"}}], "dependencies": ["Collection[Task]", "SourceSystem[SAPCONSTRUCTION]", "Task Property[CallID]", "Task Property[Number]", "Task Property[SourceSystem]"]}

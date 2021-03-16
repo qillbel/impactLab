@@ -1,0 +1,1 @@
+{"itemId": "RosterApplicationSettingsConfiguration Property[Key]", "identities": [{"id": "RosterApplicationSettingsConfiguration Property[Key]", "type": "RosterApplicationSettingsConfiguration Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[RosterApplicationSettingsConfiguration]", "dependencies": ["Collection[RosterApplicationSettingsConfiguration]"]}

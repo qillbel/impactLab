@@ -1,0 +1,1 @@
+{"itemId": "MatchConstRule Property[RelevanceGroup]", "identities": [{"id": "MatchConstRule Property[RelevanceGroup]", "type": "MatchConstRule Property", "fields": {"IdName": "RelevanceGroup"}}], "ownerItem": "Collection[MatchConstRule]", "dependencies": ["Collection[RelevanceGroup]", "RelevanceGroup Property[Name]"]}

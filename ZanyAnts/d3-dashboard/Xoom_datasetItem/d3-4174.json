@@ -1,0 +1,1 @@
+{"itemId": "Group[Availability Type - Non-Working Locked]", "identities": [{"id": "Group[Availability Type - Non-Working Locked]", "type": "Group", "fields": {"Name": "Availability Type - Non-Working Locked", "GroupType": "RosterShift"}}], "dependencies": ["AvailabilityType[Non-Working Locked]", "Collection[RosterShift]", "RosterShift Property[AvailabilityType]"]}

@@ -1,0 +1,1 @@
+{"itemId": "Shifts Index[Key]", "identities": [{"id": "Shifts Index[Key]", "type": "Shifts Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[Shifts]", "dependencies": ["Shifts Property[Key]"]}

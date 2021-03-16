@@ -1,0 +1,1 @@
+{"itemId": "TravelFromHomeBaseRule Property[Key]", "identities": [{"id": "TravelFromHomeBaseRule Property[Key]", "type": "TravelFromHomeBaseRule Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[TravelFromHomeBaseRule]", "dependencies": ["Collection[TravelFromHomeBaseRule]", "TravelFromHomeBaseRule Property[Name]"]}

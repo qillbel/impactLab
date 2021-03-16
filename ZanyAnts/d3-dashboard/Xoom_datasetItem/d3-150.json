@@ -1,0 +1,1 @@
+{"itemId": "Agent Instance[Purge - Bundled Items]", "identities": [{"id": "Agent Instance[Purge - Bundled Items]", "type": "Agent Instance", "fields": {"Name": "Purge - Bundled Items"}}], "ownerItem": "Setting[[Application]|Agents|AgentsManager|]", "dependencies": ["Agent[PurgeAgent|Purge - Bundled Items]", "Server[SWS00719]"]}

@@ -1,0 +1,1 @@
+{"itemId": "RosterMinRestTimeBetweenShiftsRule Index[Name]", "identities": [{"id": "RosterMinRestTimeBetweenShiftsRule Index[Name]", "type": "RosterMinRestTimeBetweenShiftsRule Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[RosterMinRestTimeBetweenShiftsRule]", "dependencies": ["RosterMinRestTimeBetweenShiftsRule Property[Name]"]}

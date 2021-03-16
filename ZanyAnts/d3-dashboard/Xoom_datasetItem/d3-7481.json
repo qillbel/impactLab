@@ -1,0 +1,1 @@
+{"itemId": "SchedulingStage Property[LogicDomain]", "identities": [{"id": "SchedulingStage Property[LogicDomain]", "type": "SchedulingStage Property", "fields": {"IdName": "LogicDomain"}}], "ownerItem": "Collection[SchedulingStage]", "dependencies": ["Collection[LogicDomainSetting]", "LogicDomainSetting Property[SubCategory]"]}

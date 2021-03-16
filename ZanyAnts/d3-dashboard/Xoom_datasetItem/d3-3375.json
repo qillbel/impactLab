@@ -1,0 +1,1 @@
+{"itemId": "District Property[Route]", "identities": [{"id": "District Property[Route]", "type": "District Property", "fields": {"IdName": "Route"}}], "ownerItem": "Collection[District]", "dependencies": ["Collection[Route]", "Route Property[Name]"]}

@@ -1,0 +1,1 @@
+{"itemId": "W6DATA_DOMAIN_ENGINEERDOMAIN Property[EngineerDomain]", "identities": [{"id": "W6DATA_DOMAIN_ENGINEERDOMAIN Property[EngineerDomain]", "type": "W6DATA_DOMAIN_ENGINEERDOMAIN Property", "fields": {"IdName": "EngineerDomain"}}], "ownerItem": "Collection[DataDomain]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

@@ -1,0 +1,1 @@
+{"itemId": "CancellationReason Property[Key]", "identities": [{"id": "CancellationReason Property[Key]", "type": "CancellationReason Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[CancellationReason]", "dependencies": ["CancellationReason Property[Name]", "Collection[CancellationReason]"]}

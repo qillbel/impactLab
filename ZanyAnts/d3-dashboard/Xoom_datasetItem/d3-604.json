@@ -1,0 +1,1 @@
+{"itemId": "AuditRosterShift Property[Key]", "identities": [{"id": "AuditRosterShift Property[Key]", "type": "AuditRosterShift Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[AuditRosterShift]", "dependencies": ["AuditRosterShift Property[Name]", "Collection[AuditRosterShift]"]}

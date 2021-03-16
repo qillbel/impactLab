@@ -1,0 +1,1 @@
+{"itemId": "EmployeeSubgroup Index[Key]", "identities": [{"id": "EmployeeSubgroup Index[Key]", "type": "EmployeeSubgroup Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[EmployeeSubgroup]", "dependencies": ["EmployeeSubgroup Property[Key]"]}

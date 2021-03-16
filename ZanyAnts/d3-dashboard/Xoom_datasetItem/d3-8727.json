@@ -1,0 +1,1 @@
+{"itemId": "SuspendedReason Index[Key]", "identities": [{"id": "SuspendedReason Index[Key]", "type": "SuspendedReason Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[SuspendedReason]", "dependencies": ["SuspendedReason Property[Key]"]}

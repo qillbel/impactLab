@@ -1,0 +1,1 @@
+{"itemId": "Region Index[Name]", "identities": [{"id": "Region Index[Name]", "type": "Region Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[Region]", "dependencies": ["Region Property[Name]"]}

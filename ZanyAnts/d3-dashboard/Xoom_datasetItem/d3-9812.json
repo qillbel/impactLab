@@ -1,0 +1,1 @@
+{"itemId": "W6CONTRACTS_TIME_PHASED_DATA Property[ContractInfo]", "identities": [{"id": "W6CONTRACTS_TIME_PHASED_DATA Property[ContractInfo]", "type": "W6CONTRACTS_TIME_PHASED_DATA Property", "fields": {"IdName": "ContractInfo"}}], "ownerItem": "Collection[Contract]", "dependencies": ["Collection[ContractInfo]", "ContractInfo Property[Description]"]}

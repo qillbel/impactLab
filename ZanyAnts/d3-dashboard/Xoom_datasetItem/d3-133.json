@@ -1,0 +1,1 @@
+{"itemId": "Agent Instance[Display Date Agent]", "identities": [{"id": "Agent Instance[Display Date Agent]", "type": "Agent Instance", "fields": {"Name": "Display Date Agent"}}], "ownerItem": "Setting[[Application]|Agents|AgentsManager|]", "dependencies": ["Agent[Workflow Agent|Display Date Agent]", "Server[SWS00719]"]}

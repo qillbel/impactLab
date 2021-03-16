@@ -1,0 +1,1 @@
+{"itemId": "RosterCoverageObjective Property[ShiftRelevancyGroup]", "identities": [{"id": "RosterCoverageObjective Property[ShiftRelevancyGroup]", "type": "RosterCoverageObjective Property", "fields": {"IdName": "ShiftRelevancyGroup"}}], "ownerItem": "Collection[RosterCoverageObjective]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

@@ -1,0 +1,1 @@
+{"itemId": "AllowUpdateOfPinnedAssignments Property[ExcludedTasksGroup]", "identities": [{"id": "AllowUpdateOfPinnedAssignments Property[ExcludedTasksGroup]", "type": "AllowUpdateOfPinnedAssignments Property", "fields": {"IdName": "ExcludedTasksGroup"}}], "ownerItem": "Collection[AllowUpdateOfPinnedAssignments]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

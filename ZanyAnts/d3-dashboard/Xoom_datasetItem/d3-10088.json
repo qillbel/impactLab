@@ -1,0 +1,1 @@
+{"itemId": "W6SO_VACATION_EMP_SELECTIONS Property[Employee]", "identities": [{"id": "W6SO_VACATION_EMP_SELECTIONS Property[Employee]", "type": "W6SO_VACATION_EMP_SELECTIONS Property", "fields": {"IdName": "Employee"}}], "ownerItem": "Collection[VacationCalendar]", "dependencies": ["Collection[Engineer]", "Engineer Property[Name]"]}

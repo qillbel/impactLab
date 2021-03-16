@@ -1,0 +1,1 @@
+{"itemId": "Decomposition Index[Key]", "identities": [{"id": "Decomposition Index[Key]", "type": "Decomposition Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[Decomposition]", "dependencies": ["Decomposition Property[Key]"]}

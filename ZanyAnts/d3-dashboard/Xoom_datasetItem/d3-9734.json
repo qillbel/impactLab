@@ -1,0 +1,1 @@
+{"itemId": "W6ABSENCE_REQS_OVERLAP_SHFTS Property[ShiftKey]", "identities": [{"id": "W6ABSENCE_REQS_OVERLAP_SHFTS Property[ShiftKey]", "type": "W6ABSENCE_REQS_OVERLAP_SHFTS Property", "fields": {"IdName": "ShiftKey"}}], "ownerItem": "Collection[AbsenceRequestInfo]", "dependencies": ["Collection[RosterShift]", "RosterShift Property[Name]"]}

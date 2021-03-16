@@ -1,0 +1,1 @@
+{"itemId": "W6TASKS_HAZARDCONTROLS Property[HazardControl]", "identities": [{"id": "W6TASKS_HAZARDCONTROLS Property[HazardControl]", "type": "W6TASKS_HAZARDCONTROLS Property", "fields": {"IdName": "HazardControl"}}], "ownerItem": "Collection[Task]", "dependencies": ["Collection[HazardControls]", "HazardControls Property[Name]"]}

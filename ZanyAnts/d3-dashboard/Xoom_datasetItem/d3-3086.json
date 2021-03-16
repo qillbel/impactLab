@@ -1,0 +1,1 @@
+{"itemId": "CustomerAccount Property[ContractType]", "identities": [{"id": "CustomerAccount Property[ContractType]", "type": "CustomerAccount Property", "fields": {"IdName": "ContractType"}}], "ownerItem": "Collection[CustomerAccount]", "dependencies": ["Collection[ContractType]", "ContractType Property[Name]"]}

@@ -1,0 +1,1 @@
+{"itemId": "Rule[Duration Rule]", "identities": [{"id": "Rule[Duration Rule]", "type": "Rule", "fields": {"Name": "Duration Rule", "ProgID": "W6Rules.W6DurationRule, W6Rules"}}, {"id": "DurationRule[Duration Rule]", "type": "DurationRule", "fields": {"Name": "Duration Rule"}}], "dependencies": ["Collection[Engineer]"]}

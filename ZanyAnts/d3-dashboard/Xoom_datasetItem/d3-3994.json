@@ -1,0 +1,1 @@
+{"itemId": "GenericEventDefinition[CMP Pump Manhole Abort]", "identities": [{"id": "GenericEventDefinition[CMP Pump Manhole Abort]", "type": "GenericEventDefinition", "fields": {"Name": "CMP Pump Manhole Abort"}}], "dependencies": ["Action Type[Abort]", "Collection[Task]", "Group[Generic Event CMP Pump Manhole Tasks Abort]"]}

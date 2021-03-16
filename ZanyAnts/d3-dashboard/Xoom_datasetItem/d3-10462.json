@@ -1,0 +1,1 @@
+{"itemId": "AlertDemandCoverageInfo Index[Key]", "identities": [{"id": "AlertDemandCoverageInfo Index[Key]", "type": "AlertDemandCoverageInfo Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[AlertDemandCoverageInfo]", "dependencies": ["AlertDemandCoverageInfo Property[Key]"]}

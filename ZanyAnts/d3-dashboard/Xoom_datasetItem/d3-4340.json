@@ -1,0 +1,1 @@
+{"itemId": "Group[Schedule Update Cancelled Rejected Tasks]", "identities": [{"id": "Group[Schedule Update Cancelled Rejected Tasks]", "type": "Group", "fields": {"Name": "Schedule Update Cancelled Rejected Tasks", "GroupType": "Task"}}], "dependencies": ["Collection[Task]", "Task Property[Status]", "TaskStatus[Cancelled]", "TaskStatus[Rejected]"]}

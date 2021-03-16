@@ -1,0 +1,1 @@
+{"itemId": "Group[_Shift - SmartHome]", "identities": [{"id": "Group[_Shift - SmartHome]", "type": "Group", "fields": {"Name": "_Shift - SmartHome", "GroupType": "Task"}}], "dependencies": ["Collection[Task]", "Task Property[TaskType]", "TaskType[CO]", "TaskType[SHI]", "TaskType[SMW]"]}

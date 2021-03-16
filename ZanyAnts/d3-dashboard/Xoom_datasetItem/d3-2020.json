@@ -1,0 +1,1 @@
+{"itemId": "Calendar Property[KeyOfBase]", "identities": [{"id": "Calendar Property[KeyOfBase]", "type": "Calendar Property", "fields": {"IdName": "KeyOfBase"}}], "ownerItem": "Collection[Calendar]", "dependencies": ["Calendar Property[Name]", "Collection[Calendar]"]}

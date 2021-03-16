@@ -1,0 +1,1 @@
+{"itemId": "PartsInStock Property[Name]", "identities": [{"id": "PartsInStock Property[Name]", "type": "PartsInStock Property", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[PartsInStock]"}

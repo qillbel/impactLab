@@ -1,0 +1,1 @@
+{"itemId": "ZLookupDuration Property[Key]", "identities": [{"id": "ZLookupDuration Property[Key]", "type": "ZLookupDuration Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ZLookupDuration]", "dependencies": ["Collection[ZLookupDuration]", "ZLookupDuration Property[Name]"]}

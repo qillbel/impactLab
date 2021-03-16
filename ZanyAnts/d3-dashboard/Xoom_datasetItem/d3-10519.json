@@ -1,0 +1,1 @@
+{"itemId": "W6GEOGRAPHICALBOUNDARY_ROUTES Property[Route]", "identities": [{"id": "W6GEOGRAPHICALBOUNDARY_ROUTES Property[Route]", "type": "W6GEOGRAPHICALBOUNDARY_ROUTES Property", "fields": {"IdName": "Route"}}], "ownerItem": "Collection[GeographicalBoundary]", "dependencies": ["Collection[Route]", "Route Property[Name]"]}

@@ -1,0 +1,1 @@
+{"itemId": "Polling Property[Key]", "identities": [{"id": "Polling Property[Key]", "type": "Polling Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[Polling]", "dependencies": ["Collection[Polling]", "Polling Property[Name]"]}

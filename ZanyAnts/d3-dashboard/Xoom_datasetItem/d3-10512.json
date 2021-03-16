@@ -1,0 +1,1 @@
+{"itemId": "W6DISTRICTS_ADJACENTDISTRICTS Property[District]", "identities": [{"id": "W6DISTRICTS_ADJACENTDISTRICTS Property[District]", "type": "W6DISTRICTS_ADJACENTDISTRICTS Property", "fields": {"IdName": "District"}}], "ownerItem": "Collection[District]", "dependencies": ["Collection[DisplayStatus]", "DisplayStatus Property[Name]"]}

@@ -1,0 +1,1 @@
+{"itemId": "SOUserGroupFilter Index[FilterID]", "identities": [{"id": "SOUserGroupFilter Index[FilterID]", "type": "SOUserGroupFilter Index", "fields": {"IdName": "FilterID"}}], "ownerItem": "Collection[SOUserGroupFilter]", "dependencies": ["SOUserGroupFilter Property[FilterID]"]}

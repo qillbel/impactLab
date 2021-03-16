@@ -1,0 +1,1 @@
+{"itemId": "OperationalPositionType Index[Name]", "identities": [{"id": "OperationalPositionType Index[Name]", "type": "OperationalPositionType Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[OperationalPositionType]", "dependencies": ["OperationalPositionType Property[Name]"]}

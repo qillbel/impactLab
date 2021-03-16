@@ -1,0 +1,1 @@
+{"itemId": "W6SO_USER_GROUPS_CRUDS Property[SoUserGroupFilterKey]", "identities": [{"id": "W6SO_USER_GROUPS_CRUDS Property[SoUserGroupFilterKey]", "type": "W6SO_USER_GROUPS_CRUDS Property", "fields": {"IdName": "SoUserGroupFilterKey"}}], "ownerItem": "Collection[SOUserGroup]", "dependencies": ["Collection[SOUserGroupFilter]", "SOUserGroupFilter Property[FilterID]"]}

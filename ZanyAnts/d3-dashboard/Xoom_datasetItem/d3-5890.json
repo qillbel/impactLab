@@ -1,0 +1,1 @@
+{"itemId": "RelevanceGroup[Contractors All]", "identities": [{"id": "RelevanceGroup[Contractors All]", "type": "RelevanceGroup", "fields": {"Name": "Contractors All"}}], "dependencies": ["Group[8FR Class of Service Tasks]", "Group[Contractors All]"]}

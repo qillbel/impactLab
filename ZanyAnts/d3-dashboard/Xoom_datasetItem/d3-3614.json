@@ -1,0 +1,1 @@
+{"itemId": "EngineerLocationState Index[Key]", "identities": [{"id": "EngineerLocationState Index[Key]", "type": "EngineerLocationState Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[EngineerLocationState]", "dependencies": ["EngineerLocationState Property[Key]"]}

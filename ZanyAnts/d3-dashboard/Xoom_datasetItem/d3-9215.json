@@ -1,0 +1,1 @@
+{"itemId": "TechnicalHistory Property[Key]", "identities": [{"id": "TechnicalHistory Property[Key]", "type": "TechnicalHistory Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[TechnicalHistory]", "dependencies": ["Collection[TechnicalHistory]", "TechnicalHistory Property[Name]"]}

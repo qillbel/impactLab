@@ -1,0 +1,1 @@
+{"itemId": "GeographicalBoundary Index[Key]", "identities": [{"id": "GeographicalBoundary Index[Key]", "type": "GeographicalBoundary Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[GeographicalBoundary]", "dependencies": ["GeographicalBoundary Property[Key]"]}

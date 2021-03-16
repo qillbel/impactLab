@@ -1,0 +1,1 @@
+{"itemId": "W6DATA_DOMAIN_TASKDOMAIN Property[TaskDomain]", "identities": [{"id": "W6DATA_DOMAIN_TASKDOMAIN Property[TaskDomain]", "type": "W6DATA_DOMAIN_TASKDOMAIN Property", "fields": {"IdName": "TaskDomain"}}], "ownerItem": "Collection[DataDomain]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

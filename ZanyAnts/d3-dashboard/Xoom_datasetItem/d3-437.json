@@ -1,0 +1,1 @@
+{"itemId": "Assignment Property[CountryID]", "identities": [{"id": "Assignment Property[CountryID]", "type": "Assignment Property", "fields": {"IdName": "CountryID"}}], "ownerItem": "Collection[Assignment]", "dependencies": ["Collection[Country]", "Country Property[Name]"]}

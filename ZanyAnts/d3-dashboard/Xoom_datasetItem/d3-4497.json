@@ -1,0 +1,1 @@
+{"itemId": "IntegrationPollingLock Index[Key]", "identities": [{"id": "IntegrationPollingLock Index[Key]", "type": "IntegrationPollingLock Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[IntegrationPollingLock]", "dependencies": ["IntegrationPollingLock Property[Key]"]}

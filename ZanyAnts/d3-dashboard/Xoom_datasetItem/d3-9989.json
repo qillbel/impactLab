@@ -1,0 +1,1 @@
+{"itemId": "W6ROSTER_SHIFTS_POSITIONS Property[OperationalPosition]", "identities": [{"id": "W6ROSTER_SHIFTS_POSITIONS Property[OperationalPosition]", "type": "W6ROSTER_SHIFTS_POSITIONS Property", "fields": {"IdName": "OperationalPosition"}}], "ownerItem": "Collection[RosterShift]", "dependencies": ["Collection[OperationalPosition]", "OperationalPosition Property[Name]"]}

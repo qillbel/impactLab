@@ -1,0 +1,1 @@
+{"itemId": "ContractorCapacityRule Property[Key]", "identities": [{"id": "ContractorCapacityRule Property[Key]", "type": "ContractorCapacityRule Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ContractorCapacityRule]", "dependencies": ["Collection[ContractorCapacityRule]", "ContractorCapacityRule Property[Name]"]}

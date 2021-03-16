@@ -1,0 +1,1 @@
+{"itemId": "ShiftPattern Property[District]", "identities": [{"id": "ShiftPattern Property[District]", "type": "ShiftPattern Property", "fields": {"IdName": "District"}}], "ownerItem": "Collection[ShiftPattern]", "dependencies": ["Collection[District]", "District Property[Name]"]}

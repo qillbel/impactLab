@@ -1,0 +1,1 @@
+{"itemId": "W6SERVICE_ALERTS_DESTINATIONS Property[District]", "identities": [{"id": "W6SERVICE_ALERTS_DESTINATIONS Property[District]", "type": "W6SERVICE_ALERTS_DESTINATIONS Property", "fields": {"IdName": "District"}}], "ownerItem": "Collection[ServiceAlert]", "dependencies": ["Collection[District]", "District Property[Name]"]}

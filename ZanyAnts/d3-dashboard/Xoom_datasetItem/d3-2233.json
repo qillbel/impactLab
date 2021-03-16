@@ -1,0 +1,1 @@
+{"itemId": "ClickMobileClassicUserSettings Index[Key]", "identities": [{"id": "ClickMobileClassicUserSettings Index[Key]", "type": "ClickMobileClassicUserSettings Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ClickMobileClassicUserSettings]", "dependencies": ["ClickMobileClassicUserSettings Property[Key]"]}

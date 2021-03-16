@@ -1,0 +1,1 @@
+{"itemId": "ABCapacityLimits Property[TaskType]", "identities": [{"id": "ABCapacityLimits Property[TaskType]", "type": "ABCapacityLimits Property", "fields": {"IdName": "TaskType"}}], "ownerItem": "Collection[ABCapacityLimits]", "dependencies": ["CapacityBucket Property[Name]", "Collection[CapacityBucket]"]}

@@ -1,0 +1,1 @@
+{"itemId": "SpecialDaysType Property[Team]", "identities": [{"id": "SpecialDaysType Property[Team]", "type": "SpecialDaysType Property", "fields": {"IdName": "Team"}}], "ownerItem": "Collection[SpecialDaysType]", "dependencies": ["Collection[Team]", "Team Property[Name]"]}

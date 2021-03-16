@@ -1,0 +1,1 @@
+{"itemId": "DisplayStatus Property[Key]", "identities": [{"id": "DisplayStatus Property[Key]", "type": "DisplayStatus Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[DisplayStatus]", "dependencies": ["Collection[DisplayStatus]", "DisplayStatus Property[Name]"]}

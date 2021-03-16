@@ -1,0 +1,1 @@
+{"itemId": "BulkDispatchPolicy Index[Key]", "identities": [{"id": "BulkDispatchPolicy Index[Key]", "type": "BulkDispatchPolicy Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[BulkDispatchPolicy]", "dependencies": ["BulkDispatchPolicy Property[Key]"]}

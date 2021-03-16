@@ -1,0 +1,1 @@
+{"itemId": "Rule[Match Shift]", "identities": [{"id": "Rule[Match Shift]", "type": "Rule", "fields": {"Name": "Match Shift", "ProgID": "W6Rules.W6ShiftRule, W6Rules"}}, {"id": "ShiftRule[Match Shift]", "type": "ShiftRule", "fields": {"Name": "Match Shift"}}], "dependencies": ["Collection[Engineer]"]}

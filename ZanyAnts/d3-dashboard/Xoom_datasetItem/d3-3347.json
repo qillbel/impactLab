@@ -1,0 +1,1 @@
+{"itemId": "District[SKTN Dist Rural SE]", "identities": [{"id": "District[SKTN Dist Rural SE]", "type": "District", "fields": {"Name": "SKTN Dist Rural SE"}}], "dependencies": ["Country[CANADA]", "District[SKTN Dist Rural SE]", "Region[2 - Saskatoon]"]}

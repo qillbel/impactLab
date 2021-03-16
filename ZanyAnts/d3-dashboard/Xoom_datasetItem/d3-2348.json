@@ -1,0 +1,1 @@
+{"itemId": "ClickRosterWebClientUserSettings Index[Key]", "identities": [{"id": "ClickRosterWebClientUserSettings Index[Key]", "type": "ClickRosterWebClientUserSettings Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ClickRosterWebClientUserSettings]", "dependencies": ["ClickRosterWebClientUserSettings Property[Key]"]}

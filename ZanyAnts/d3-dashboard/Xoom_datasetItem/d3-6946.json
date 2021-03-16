@@ -1,0 +1,1 @@
+{"itemId": "RosterResourcePriorityEnumerators Property[ResourcesGroups]", "identities": [{"id": "RosterResourcePriorityEnumerators Property[ResourcesGroups]", "type": "RosterResourcePriorityEnumerators Property", "fields": {"IdName": "ResourcesGroups"}}], "ownerItem": "Collection[RosterResourcePriorityEnumerators]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

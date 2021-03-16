@@ -1,0 +1,1 @@
+{"itemId": "GeographicalBoundary Property[Region]", "identities": [{"id": "GeographicalBoundary Property[Region]", "type": "GeographicalBoundary Property", "fields": {"IdName": "Region"}}], "ownerItem": "Collection[GeographicalBoundary]", "dependencies": ["Collection[Region]", "Region Property[Name]"]}

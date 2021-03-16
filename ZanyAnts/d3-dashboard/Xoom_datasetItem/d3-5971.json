@@ -1,0 +1,1 @@
+{"itemId": "Report[Gap Coverage]", "identities": [{"id": "Report[Gap Coverage]", "type": "Report", "fields": {"Name": "Gap Coverage", "ProductType": "1"}}], "dependencies": ["Collection[PlanDemand]", "PlanDemand Property[DemandID]", "PlanDemand Property[EstimatedWork]", "PlanDemand Property[WorkTime]"]}

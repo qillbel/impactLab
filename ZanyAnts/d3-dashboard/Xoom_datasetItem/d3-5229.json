@@ -1,0 +1,1 @@
+{"itemId": "OperationalPosition Property[Region]", "identities": [{"id": "OperationalPosition Property[Region]", "type": "OperationalPosition Property", "fields": {"IdName": "Region"}}], "ownerItem": "Collection[OperationalPosition]", "dependencies": ["Collection[Region]", "Region Property[Name]"]}

@@ -1,0 +1,1 @@
+{"itemId": "BackgroundOptimization Property[DataDomain]", "identities": [{"id": "BackgroundOptimization Property[DataDomain]", "type": "BackgroundOptimization Property", "fields": {"IdName": "DataDomain"}}], "ownerItem": "Collection[BackgroundOptimization]", "dependencies": ["Collection[DataDomain]", "DataDomain Property[SubCategory]"]}

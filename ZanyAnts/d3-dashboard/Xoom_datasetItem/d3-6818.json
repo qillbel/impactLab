@@ -1,0 +1,1 @@
+{"itemId": "RosterNARule Index[Name]", "identities": [{"id": "RosterNARule Index[Name]", "type": "RosterNARule Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[RosterNARule]", "dependencies": ["RosterNARule Property[Name]"]}

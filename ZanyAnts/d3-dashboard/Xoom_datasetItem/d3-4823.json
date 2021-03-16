@@ -1,0 +1,1 @@
+{"itemId": "MeasurementDocument Index[ExternalRefID]", "identities": [{"id": "MeasurementDocument Index[ExternalRefID]", "type": "MeasurementDocument Index", "fields": {"IdName": "ExternalRefID"}}], "ownerItem": "Collection[MeasurementDocument]", "dependencies": ["MeasurementDocument Property[ExternalRefID]"]}

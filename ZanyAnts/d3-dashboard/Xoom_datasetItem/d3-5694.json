@@ -1,0 +1,1 @@
+{"itemId": "PredictiveTaskDuration Index[District,TaskType]", "identities": [{"id": "PredictiveTaskDuration Index[District,TaskType]", "type": "PredictiveTaskDuration Index", "fields": {"IdName": "District,TaskType"}}], "ownerItem": "Collection[PredictiveTaskDuration]", "dependencies": ["PredictiveTaskDuration Property[District]", "PredictiveTaskDuration Property[TaskType]"]}

@@ -1,0 +1,1 @@
+{"itemId": "RosterCrewType Index[Region,District,Team]", "identities": [{"id": "RosterCrewType Index[Region,District,Team]", "type": "RosterCrewType Index", "fields": {"IdName": "Region,District,Team"}}], "ownerItem": "Collection[RosterCrewType]", "dependencies": ["RosterCrewType Property[District]", "RosterCrewType Property[Region]", "RosterCrewType Property[Team]"]}

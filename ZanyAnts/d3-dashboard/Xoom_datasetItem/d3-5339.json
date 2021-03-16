@@ -1,0 +1,1 @@
+{"itemId": "PartOrder Property[LocationSource]", "identities": [{"id": "PartOrder Property[LocationSource]", "type": "PartOrder Property", "fields": {"IdName": "LocationSource"}}], "ownerItem": "Collection[PartOrder]", "dependencies": ["Collection[PartLocation]", "PartLocation Property[Name]"]}

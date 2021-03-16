@@ -1,0 +1,1 @@
+{"itemId": "ABCapacityLimits Property[District]", "identities": [{"id": "ABCapacityLimits Property[District]", "type": "ABCapacityLimits Property", "fields": {"IdName": "District"}}], "ownerItem": "Collection[ABCapacityLimits]", "dependencies": ["Collection[District]", "District Property[Name]"]}

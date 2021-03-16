@@ -1,0 +1,1 @@
+{"itemId": "BundlerConfiguration Property[ProcessedDistrict]", "identities": [{"id": "BundlerConfiguration Property[ProcessedDistrict]", "type": "BundlerConfiguration Property", "fields": {"IdName": "ProcessedDistrict"}}], "ownerItem": "Collection[BundlerConfiguration]", "dependencies": ["Collection[District]", "District Property[Name]"]}

@@ -1,0 +1,1 @@
+{"itemId": "MeasurementPoint Property[Key]", "identities": [{"id": "MeasurementPoint Property[Key]", "type": "MeasurementPoint Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[MeasurementPoint]", "dependencies": ["Collection[MeasurementPoint]", "MeasurementPoint Property[Name]"]}

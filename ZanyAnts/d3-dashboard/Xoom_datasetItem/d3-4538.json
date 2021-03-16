@@ -1,0 +1,1 @@
+{"itemId": "IntegrationPollingThreadStep Property[LatestDateCovered]", "identities": [{"id": "IntegrationPollingThreadStep Property[LatestDateCovered]", "type": "IntegrationPollingThreadStep Property", "fields": {"IdName": "LatestDateCovered"}}], "ownerItem": "Collection[IntegrationPollingThreadStep]"}

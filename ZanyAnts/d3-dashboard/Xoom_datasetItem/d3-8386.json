@@ -1,0 +1,1 @@
+{"itemId": "Skill[Smart Home Consult]", "identities": [{"id": "Skill[Smart Home Consult]", "type": "Skill", "fields": {"Name": "Smart Home Consult"}}], "dependencies": ["ServiceType[Res]"]}

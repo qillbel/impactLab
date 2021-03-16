@@ -1,0 +1,1 @@
+{"itemId": "Group[CMP Tasks for Cancellation]", "identities": [{"id": "Group[CMP Tasks for Cancellation]", "type": "Group", "fields": {"Name": "CMP Tasks for Cancellation", "GroupType": "Task"}}], "dependencies": ["Collection[Task]", "SourceSystem[SAP]", "Task Property[SourceSystem]", "Task Property[Status]", "TaskStatus[Open]", "TaskStatus[Rejected]", "TaskStatus[Scheduled]"]}

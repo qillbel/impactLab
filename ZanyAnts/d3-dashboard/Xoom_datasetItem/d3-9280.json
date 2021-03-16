@@ -1,0 +1,1 @@
+{"itemId": "TimeIntervalAlignmentRule Property[Key]", "identities": [{"id": "TimeIntervalAlignmentRule Property[Key]", "type": "TimeIntervalAlignmentRule Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[TimeIntervalAlignmentRule]", "dependencies": ["Collection[TimeIntervalAlignmentRule]", "TimeIntervalAlignmentRule Property[Name]"]}

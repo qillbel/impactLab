@@ -1,0 +1,1 @@
+{"itemId": "ScheduleIdleResourceStage Property[UnmovableTasksGroup]", "identities": [{"id": "ScheduleIdleResourceStage Property[UnmovableTasksGroup]", "type": "ScheduleIdleResourceStage Property", "fields": {"IdName": "UnmovableTasksGroup"}}], "ownerItem": "Collection[ScheduleIdleResourceStage]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

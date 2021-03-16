@@ -1,0 +1,1 @@
+{"itemId": "UpdatesThroughIntegration Property[DripFeedCompletedGroup]", "identities": [{"id": "UpdatesThroughIntegration Property[DripFeedCompletedGroup]", "type": "UpdatesThroughIntegration Property", "fields": {"IdName": "DripFeedCompletedGroup"}}], "ownerItem": "Collection[UpdatesThroughIntegration]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

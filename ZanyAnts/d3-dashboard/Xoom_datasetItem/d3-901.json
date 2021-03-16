@@ -1,0 +1,1 @@
+{"itemId": "BusinessEvent Index[Active,Template]", "identities": [{"id": "BusinessEvent Index[Active,Template]", "type": "BusinessEvent Index", "fields": {"IdName": "Active,Template"}}], "ownerItem": "Collection[BusinessEvent]", "dependencies": ["BusinessEvent Property[Active]", "BusinessEvent Property[Template]"]}

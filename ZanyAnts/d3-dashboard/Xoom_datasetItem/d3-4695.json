@@ -1,0 +1,1 @@
+{"itemId": "LookupTaskTypeApptProfile Index[Name]", "identities": [{"id": "LookupTaskTypeApptProfile Index[Name]", "type": "LookupTaskTypeApptProfile Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[LookupTaskTypeApptProfile]", "dependencies": ["LookupTaskTypeApptProfile Property[Name]"]}

@@ -1,0 +1,1 @@
+{"itemId": "ContractType Index[Name]", "identities": [{"id": "ContractType Index[Name]", "type": "ContractType Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[ContractType]", "dependencies": ["ContractType Property[Name]"]}

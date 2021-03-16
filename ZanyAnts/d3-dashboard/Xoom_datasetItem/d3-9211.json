@@ -1,0 +1,1 @@
+{"itemId": "TechnicalHistory Index[ExternalRefID]", "identities": [{"id": "TechnicalHistory Index[ExternalRefID]", "type": "TechnicalHistory Index", "fields": {"IdName": "ExternalRefID"}}], "ownerItem": "Collection[TechnicalHistory]", "dependencies": ["TechnicalHistory Property[ExternalRefID]"]}

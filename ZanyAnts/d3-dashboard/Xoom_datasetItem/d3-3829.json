@@ -1,0 +1,1 @@
+{"itemId": "ExtendedOptimizer Index[Key]", "identities": [{"id": "ExtendedOptimizer Index[Key]", "type": "ExtendedOptimizer Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ExtendedOptimizer]", "dependencies": ["ExtendedOptimizer Property[Key]"]}

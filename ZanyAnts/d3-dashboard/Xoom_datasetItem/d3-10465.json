@@ -1,0 +1,1 @@
+{"itemId": "ConfigInstallerLog Index[Key]", "identities": [{"id": "ConfigInstallerLog Index[Key]", "type": "ConfigInstallerLog Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ConfigInstallerLog]", "dependencies": ["ConfigInstallerLog Property[Key]"]}

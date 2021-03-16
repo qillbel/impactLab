@@ -1,0 +1,1 @@
+{"itemId": "CustomerCategory Index[Name]", "identities": [{"id": "CustomerCategory Index[Name]", "type": "CustomerCategory Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[CustomerCategory]", "dependencies": ["CustomerCategory Property[Name]"]}

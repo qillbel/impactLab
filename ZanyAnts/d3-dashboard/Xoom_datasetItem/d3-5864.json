@@ -1,0 +1,1 @@
+{"itemId": "RejectedStatus Index[SubCategory]", "identities": [{"id": "RejectedStatus Index[SubCategory]", "type": "RejectedStatus Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[RejectedStatus]", "dependencies": ["RejectedStatus Property[SubCategory]"]}

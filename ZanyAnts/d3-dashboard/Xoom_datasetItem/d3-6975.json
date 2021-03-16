@@ -1,0 +1,1 @@
+{"itemId": "RosterRotation Property[District]", "identities": [{"id": "RosterRotation Property[District]", "type": "RosterRotation Property", "fields": {"IdName": "District"}}], "ownerItem": "Collection[RosterRotation]", "dependencies": ["Collection[District]", "District Property[Name]"]}

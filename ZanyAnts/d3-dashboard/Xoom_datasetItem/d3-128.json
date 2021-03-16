@@ -1,0 +1,1 @@
+{"itemId": "Agent Instance[Dashboard Agent]", "identities": [{"id": "Agent Instance[Dashboard Agent]", "type": "Agent Instance", "fields": {"Name": "Dashboard Agent"}}], "ownerItem": "Setting[[Application]|Agents|AgentsManager|]", "dependencies": ["Agent[Reports|Dashboard Agent]", "Server[SWS00719]"]}

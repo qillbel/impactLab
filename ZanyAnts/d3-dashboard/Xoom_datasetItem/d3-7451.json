@@ -1,0 +1,1 @@
+{"itemId": "ScheduleUpdateJeopardy Index[SubCategory]", "identities": [{"id": "ScheduleUpdateJeopardy Index[SubCategory]", "type": "ScheduleUpdateJeopardy Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[ScheduleUpdateJeopardy]", "dependencies": ["ScheduleUpdateJeopardy Property[SubCategory]"]}

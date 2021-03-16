@@ -1,0 +1,1 @@
+{"itemId": "Metric[Utilization]", "identities": [{"id": "Metric[Utilization]", "type": "Metric", "fields": {"Name": "Utilization", "LogicProgID": "W6Metrics.W6ResourceUtilization,W6Metrics"}}], "dependencies": ["Logic Domain[Standard Policy]"]}

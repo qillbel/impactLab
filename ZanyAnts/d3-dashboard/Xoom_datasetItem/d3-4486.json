@@ -1,0 +1,1 @@
+{"itemId": "IntegrationLock Property[Key]", "identities": [{"id": "IntegrationLock Property[Key]", "type": "IntegrationLock Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[IntegrationLock]", "dependencies": ["Collection[IntegrationLock]", "IntegrationLock Property[Name]"]}

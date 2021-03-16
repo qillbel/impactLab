@@ -1,0 +1,1 @@
+{"itemId": "PermanentLocation Property[Key]", "identities": [{"id": "PermanentLocation Property[Key]", "type": "PermanentLocation Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[PermanentLocation]", "dependencies": ["Collection[PermanentLocation]", "PermanentLocation Property[Name]"]}

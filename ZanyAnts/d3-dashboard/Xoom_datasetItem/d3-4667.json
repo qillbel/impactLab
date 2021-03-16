@@ -1,0 +1,1 @@
+{"itemId": "LookupGBAreaWorkgroup Index[Name]", "identities": [{"id": "LookupGBAreaWorkgroup Index[Name]", "type": "LookupGBAreaWorkgroup Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[LookupGBAreaWorkgroup]", "dependencies": ["LookupGBAreaWorkgroup Property[Name]"]}

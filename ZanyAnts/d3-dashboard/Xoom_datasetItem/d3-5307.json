@@ -1,0 +1,1 @@
+{"itemId": "PartiallyCreatedObject Property[Key]", "identities": [{"id": "PartiallyCreatedObject Property[Key]", "type": "PartiallyCreatedObject Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[PartiallyCreatedObject]", "dependencies": ["Collection[PartiallyCreatedObject]"]}

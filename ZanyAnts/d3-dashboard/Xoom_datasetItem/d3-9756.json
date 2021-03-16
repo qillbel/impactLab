@@ -1,0 +1,1 @@
+{"itemId": "W6BGO_STEPS Property[LogicDomainForSlicing]", "identities": [{"id": "W6BGO_STEPS Property[LogicDomainForSlicing]", "type": "W6BGO_STEPS Property", "fields": {"IdName": "LogicDomainForSlicing"}}], "ownerItem": "Collection[BackgroundOptimization]", "dependencies": ["Collection[LogicDomainSetting]", "LogicDomainSetting Property[SubCategory]"]}

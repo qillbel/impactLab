@@ -1,0 +1,1 @@
+{"itemId": "DynamicPrioritySetting Index[SubCategory,Name]", "identities": [{"id": "DynamicPrioritySetting Index[SubCategory,Name]", "type": "DynamicPrioritySetting Index", "fields": {"IdName": "SubCategory,Name"}}], "ownerItem": "Collection[DynamicPrioritySetting]", "dependencies": ["DynamicPrioritySetting Property[Name]", "DynamicPrioritySetting Property[SubCategory]"]}

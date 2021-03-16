@@ -1,0 +1,1 @@
+{"itemId": "PBMAgent Index[Key]", "identities": [{"id": "PBMAgent Index[Key]", "type": "PBMAgent Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[PBMAgent]", "dependencies": ["PBMAgent Property[Key]"]}

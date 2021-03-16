@@ -1,0 +1,1 @@
+{"itemId": "RosterRotation Property[Employee]", "identities": [{"id": "RosterRotation Property[Employee]", "type": "RosterRotation Property", "fields": {"IdName": "Employee"}}], "ownerItem": "Collection[RosterRotation]", "dependencies": ["Collection[Engineer]", "Engineer Property[Name]"]}

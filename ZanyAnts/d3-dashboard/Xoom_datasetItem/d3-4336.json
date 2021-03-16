@@ -1,0 +1,1 @@
+{"itemId": "Group[SaskTel - Full Time]", "identities": [{"id": "Group[SaskTel - Full Time]", "type": "Group", "fields": {"Name": "SaskTel - Full Time", "GroupType": "Engineer"}}], "dependencies": ["Collection[Engineer]", "EmployeeSubgroup[Permanent Full Time]", "Engineer Property[EmployeeSubgroup]", "Engineer Property[Team]", "Team[SaskTel]"]}

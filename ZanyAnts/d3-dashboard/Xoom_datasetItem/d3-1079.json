@@ -1,0 +1,1 @@
+{"itemId": "ButlerService Property[ApplicableMobileTemplates]", "identities": [{"id": "ButlerService Property[ApplicableMobileTemplates]", "type": "ButlerService Property", "fields": {"IdName": "ApplicableMobileTemplates"}}], "ownerItem": "Collection[ButlerService]", "dependencies": ["Collection[UserSetting]", "UserSetting Property[Owner]"]}

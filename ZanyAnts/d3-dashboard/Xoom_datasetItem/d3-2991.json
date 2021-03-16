@@ -1,0 +1,1 @@
+{"itemId": "CoWLocations Index[Name]", "identities": [{"id": "CoWLocations Index[Name]", "type": "CoWLocations Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[CoWLocations]", "dependencies": ["CoWLocations Property[Name]"]}

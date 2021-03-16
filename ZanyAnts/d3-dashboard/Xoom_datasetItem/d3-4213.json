@@ -1,0 +1,1 @@
+{"itemId": "Group[Contractors or non active engineers]", "identities": [{"id": "Group[Contractors or non active engineers]", "type": "Group", "fields": {"Name": "Contractors or non active engineers", "GroupType": "Engineer"}}], "dependencies": ["Collection[Engineer]", "Engineer Property[Active]", "Engineer Property[Internal]"]}

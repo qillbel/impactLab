@@ -1,0 +1,1 @@
+{"itemId": "VacationCalendarTimeUnit Index[Name]", "identities": [{"id": "VacationCalendarTimeUnit Index[Name]", "type": "VacationCalendarTimeUnit Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[VacationCalendarTimeUnit]", "dependencies": ["VacationCalendarTimeUnit Property[Name]"]}

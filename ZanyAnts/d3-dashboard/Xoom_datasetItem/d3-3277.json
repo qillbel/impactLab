@@ -1,0 +1,1 @@
+{"itemId": "District[EWY Dist Canora]", "identities": [{"id": "District[EWY Dist Canora]", "type": "District", "fields": {"Name": "EWY Dist Canora"}}], "dependencies": ["Country[CANADA]", "District[EWY Dist Canora]", "Region[5 - Yorkton - Estevan - Weyburn]"]}

@@ -1,0 +1,1 @@
+{"itemId": "RosterResourceAllocation Property[RelocSource]", "identities": [{"id": "RosterResourceAllocation Property[RelocSource]", "type": "RosterResourceAllocation Property", "fields": {"IdName": "RelocSource"}}], "ownerItem": "Collection[RosterResourceAllocation]", "dependencies": ["Collection[CrewAllocation]", "CrewAllocation Property[Name]"]}

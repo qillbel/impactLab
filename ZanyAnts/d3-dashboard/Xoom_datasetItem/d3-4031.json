@@ -1,0 +1,1 @@
+{"itemId": "GenericEventDefinition[Set IsAppointment flag to True]", "identities": [{"id": "GenericEventDefinition[Set IsAppointment flag to True]", "type": "GenericEventDefinition", "fields": {"Name": "Set IsAppointment flag to True"}}], "dependencies": ["Action Type[Set property]", "Collection[Task]", "Group[Appointment Start > year 2000]", "Task Property[IsAppointment]"]}

@@ -1,0 +1,1 @@
+{"itemId": "StatusTransition[On Site|Suspended|0]", "identities": [{"id": "StatusTransition[On Site|Suspended|0]", "type": "StatusTransition", "fields": {"StatusBefore": "On Site", "StatusAfter": "Suspended", "StatusContext": "0"}}], "dependencies": ["TaskStatus[On Site]", "TaskStatus[Suspended]"]}

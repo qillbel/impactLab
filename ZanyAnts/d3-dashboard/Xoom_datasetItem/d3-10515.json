@@ -1,0 +1,1 @@
+{"itemId": "W6ENGINEERS_TOOLS Property[Tool]", "identities": [{"id": "W6ENGINEERS_TOOLS Property[Tool]", "type": "W6ENGINEERS_TOOLS Property", "fields": {"IdName": "Tool"}}], "ownerItem": "Collection[Engineer]", "dependencies": ["Collection[Tool]", "Tool Property[Name]"]}

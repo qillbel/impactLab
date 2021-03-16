@@ -1,0 +1,1 @@
+{"itemId": "RosterGeneralSettingsTemplates Index[Key]", "identities": [{"id": "RosterGeneralSettingsTemplates Index[Key]", "type": "RosterGeneralSettingsTemplates Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[RosterGeneralSettingsTemplates]", "dependencies": ["RosterGeneralSettingsTemplates Property[Key]"]}

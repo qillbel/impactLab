@@ -1,0 +1,1 @@
+{"itemId": "RosterDemand Property[MaxNumberOfRequiredResources]", "identities": [{"id": "RosterDemand Property[MaxNumberOfRequiredResources]", "type": "RosterDemand Property", "fields": {"IdName": "MaxNumberOfRequiredResources"}}], "ownerItem": "Collection[RosterDemand]"}

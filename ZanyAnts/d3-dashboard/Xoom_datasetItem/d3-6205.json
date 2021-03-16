@@ -1,0 +1,1 @@
+{"itemId": "RosterAutomaticSchedulingPolicy Property[OptimizationStage]", "identities": [{"id": "RosterAutomaticSchedulingPolicy Property[OptimizationStage]", "type": "RosterAutomaticSchedulingPolicy Property", "fields": {"IdName": "OptimizationStage"}}], "ownerItem": "Collection[RosterAutomaticSchedulingPolicy]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

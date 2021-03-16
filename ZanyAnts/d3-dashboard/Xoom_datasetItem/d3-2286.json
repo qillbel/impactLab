@@ -1,0 +1,1 @@
+{"itemId": "ClickMobileSignalFrequency Property[Key]", "identities": [{"id": "ClickMobileSignalFrequency Property[Key]", "type": "ClickMobileSignalFrequency Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ClickMobileSignalFrequency]", "dependencies": ["Collection[ClickMobileSignalFrequency]"]}

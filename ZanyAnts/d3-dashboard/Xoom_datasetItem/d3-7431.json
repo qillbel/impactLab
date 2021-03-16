@@ -1,0 +1,1 @@
+{"itemId": "ScheduleUpdate Property[Key]", "identities": [{"id": "ScheduleUpdate Property[Key]", "type": "ScheduleUpdate Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ScheduleUpdate]", "dependencies": ["Collection[ScheduleUpdate]", "ScheduleUpdate Property[SubCategory]"]}

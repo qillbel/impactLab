@@ -1,0 +1,1 @@
+{"itemId": "W6BUSINESS_EVENTS_RANGES Property[District]", "identities": [{"id": "W6BUSINESS_EVENTS_RANGES Property[District]", "type": "W6BUSINESS_EVENTS_RANGES Property", "fields": {"IdName": "District"}}], "ownerItem": "Collection[BusinessEvent]", "dependencies": ["Collection[District]", "District Property[Name]"]}

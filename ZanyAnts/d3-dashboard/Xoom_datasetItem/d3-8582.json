@@ -1,0 +1,1 @@
+{"itemId": "StatusFlowTransition Property[Key]", "identities": [{"id": "StatusFlowTransition Property[Key]", "type": "StatusFlowTransition Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[StatusFlowTransition]", "dependencies": ["Collection[StatusFlowTransition]", "StatusFlowTransition Property[Name]"]}

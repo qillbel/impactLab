@@ -1,0 +1,1 @@
+{"itemId": "UpdatesThroughIntegration Index[Key]", "identities": [{"id": "UpdatesThroughIntegration Index[Key]", "type": "UpdatesThroughIntegration Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[UpdatesThroughIntegration]", "dependencies": ["UpdatesThroughIntegration Property[Key]"]}

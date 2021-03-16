@@ -1,0 +1,1 @@
+{"itemId": "SpecialDaysType Property[ResourcesGroup]", "identities": [{"id": "SpecialDaysType Property[ResourcesGroup]", "type": "SpecialDaysType Property", "fields": {"IdName": "ResourcesGroup"}}], "ownerItem": "Collection[SpecialDaysType]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

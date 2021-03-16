@@ -1,0 +1,1 @@
+{"itemId": "RosterSequenceRule Index[Name]", "identities": [{"id": "RosterSequenceRule Index[Name]", "type": "RosterSequenceRule Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[RosterSequenceRule]", "dependencies": ["RosterSequenceRule Property[Name]"]}

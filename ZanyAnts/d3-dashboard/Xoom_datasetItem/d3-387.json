@@ -1,0 +1,1 @@
+{"itemId": "Asset Property[AssignmentToPartners]", "identities": [{"id": "Asset Property[AssignmentToPartners]", "type": "Asset Property", "fields": {"IdName": "AssignmentToPartners"}}], "ownerItem": "Collection[Asset]", "dependencies": ["Address Property[Name]", "Collection[Address]"]}

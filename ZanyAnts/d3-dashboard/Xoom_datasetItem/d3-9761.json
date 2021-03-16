@@ -1,0 +1,1 @@
+{"itemId": "W6BGO_STEPS Property[SchedulingWorkflow]", "identities": [{"id": "W6BGO_STEPS Property[SchedulingWorkflow]", "type": "W6BGO_STEPS Property", "fields": {"IdName": "SchedulingWorkflow"}}], "ownerItem": "Collection[BackgroundOptimization]", "dependencies": ["Collection[SchedulingWorkflow]", "SchedulingWorkflow Property[SubCategory]"]}

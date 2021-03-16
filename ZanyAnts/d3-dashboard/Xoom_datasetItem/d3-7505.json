@@ -1,0 +1,1 @@
+{"itemId": "SchedulingTuningToolParameters Index[SubCategory]", "identities": [{"id": "SchedulingTuningToolParameters Index[SubCategory]", "type": "SchedulingTuningToolParameters Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[SchedulingTuningToolParameters]", "dependencies": ["SchedulingTuningToolParameters Property[SubCategory]"]}

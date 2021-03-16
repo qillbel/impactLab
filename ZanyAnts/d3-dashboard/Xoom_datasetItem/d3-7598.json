@@ -1,0 +1,1 @@
+{"itemId": "ServiceAlert Property[MeanTimeToRepairDD]", "identities": [{"id": "ServiceAlert Property[MeanTimeToRepairDD]", "type": "ServiceAlert Property", "fields": {"IdName": "MeanTimeToRepairDD"}}], "ownerItem": "Collection[ServiceAlert]"}

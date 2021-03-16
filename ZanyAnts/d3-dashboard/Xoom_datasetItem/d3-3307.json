@@ -1,0 +1,1 @@
+{"itemId": "District[PA43 Uranium City]", "identities": [{"id": "District[PA43 Uranium City]", "type": "District", "fields": {"Name": "PA43 Uranium City"}}], "dependencies": ["Country[CANADA]", "District[PA43 Uranium City]", "Region[3 - Prince Albert]"]}

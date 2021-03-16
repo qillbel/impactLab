@@ -1,0 +1,1 @@
+{"itemId": "Rule[GB Capacity]", "identities": [{"id": "Rule[GB Capacity]", "type": "Rule", "fields": {"Name": "GB Capacity", "ProgID": "W6Rules.W6CapacityReservationRule, W6Rules"}}, {"id": "CapacityReservationRule[GB Capacity]", "type": "CapacityReservationRule", "fields": {"Name": "GB Capacity"}}], "dependencies": ["Collection[Engineer]", "RelevanceGroup[Non City]"]}

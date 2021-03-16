@@ -1,0 +1,1 @@
+{"itemId": "LunchBreakException Property[Key]", "identities": [{"id": "LunchBreakException Property[Key]", "type": "LunchBreakException Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[LunchBreakException]", "dependencies": ["Collection[LunchBreakException]"]}

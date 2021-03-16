@@ -1,0 +1,1 @@
+{"itemId": "District[Construction Regina]", "identities": [{"id": "District[Construction Regina]", "type": "District", "fields": {"Name": "Construction Regina"}}], "dependencies": ["Country[CANADA]", "District[Construction Regina]", "Region[8 - Long Cycle Construction]"]}

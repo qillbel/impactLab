@@ -1,0 +1,1 @@
+{"itemId": "EngineerTravelData Property[ToArea]", "identities": [{"id": "EngineerTravelData Property[ToArea]", "type": "EngineerTravelData Property", "fields": {"IdName": "ToArea"}}], "ownerItem": "Collection[EngineerTravelData]", "dependencies": ["Collection[District]", "District Property[Name]"]}

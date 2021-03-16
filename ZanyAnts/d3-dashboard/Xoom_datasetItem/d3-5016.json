@@ -1,0 +1,1 @@
+{"itemId": "MultiDayTaskSpecialRules Property[Key]", "identities": [{"id": "MultiDayTaskSpecialRules Property[Key]", "type": "MultiDayTaskSpecialRules Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[MultiDayTaskSpecialRules]", "dependencies": ["Collection[MultiDayTaskSpecialRules]"]}

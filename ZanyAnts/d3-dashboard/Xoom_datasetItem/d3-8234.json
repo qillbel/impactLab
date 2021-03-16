@@ -1,0 +1,1 @@
+{"itemId": "ShiftRule Index[Key]", "identities": [{"id": "ShiftRule Index[Key]", "type": "ShiftRule Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ShiftRule]", "dependencies": ["ShiftRule Property[Key]"]}

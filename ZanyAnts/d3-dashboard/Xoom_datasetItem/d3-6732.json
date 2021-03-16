@@ -1,0 +1,1 @@
+{"itemId": "RosterMeasurementSet Index[SubCategory]", "identities": [{"id": "RosterMeasurementSet Index[SubCategory]", "type": "RosterMeasurementSet Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[RosterMeasurementSet]", "dependencies": ["RosterMeasurementSet Property[SubCategory]"]}

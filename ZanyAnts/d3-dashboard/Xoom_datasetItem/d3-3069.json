@@ -1,0 +1,1 @@
+{"itemId": "CrewType Index[Name]", "identities": [{"id": "CrewType Index[Name]", "type": "CrewType Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[CrewType]", "dependencies": ["CrewType Property[Name]"]}

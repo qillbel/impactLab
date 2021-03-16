@@ -1,0 +1,1 @@
+{"itemId": "Attachment Property[Key]", "identities": [{"id": "Attachment Property[Key]", "type": "Attachment Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[Attachment]", "dependencies": ["Attachment Property[FileName]", "Collection[Attachment]"]}

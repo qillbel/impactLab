@@ -1,0 +1,1 @@
+{"itemId": "Agent Instance[PBM - Update Shifts]", "identities": [{"id": "Agent Instance[PBM - Update Shifts]", "type": "Agent Instance", "fields": {"Name": "PBM - Update Shifts"}}], "ownerItem": "Setting[[Application]|Agents|AgentsManager|]", "dependencies": ["Agent[Proactive Business Monitoring|Update Shift]", "Server[SWS00719]"]}

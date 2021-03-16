@@ -1,0 +1,1 @@
+{"itemId": "Task Property[Disposition]", "identities": [{"id": "Task Property[Disposition]", "type": "Task Property", "fields": {"IdName": "Disposition"}}], "ownerItem": "Collection[Task]", "dependencies": ["Collection[Disposition]", "Disposition Property[Name]"]}

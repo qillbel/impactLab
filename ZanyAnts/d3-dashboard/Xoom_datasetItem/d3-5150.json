@@ -1,0 +1,1 @@
+{"itemId": "OfflineOperationSetType Property[Key]", "identities": [{"id": "OfflineOperationSetType Property[Key]", "type": "OfflineOperationSetType Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[OfflineOperationSetType]", "dependencies": ["Collection[OfflineOperationSetType]", "OfflineOperationSetType Property[Name]"]}

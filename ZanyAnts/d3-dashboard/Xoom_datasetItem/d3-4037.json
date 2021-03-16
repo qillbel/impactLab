@@ -1,0 +1,1 @@
+{"itemId": "GenericEventDefinition[Set ScheduleDate by Now]", "identities": [{"id": "GenericEventDefinition[Set ScheduleDate by Now]", "type": "GenericEventDefinition", "fields": {"Name": "Set ScheduleDate by Now"}}], "dependencies": ["Action Type[Set property]", "Collection[Task]", "Group[EarlyStart < now and IsAppointment=False]", "Task Property[ScheduleDate]"]}

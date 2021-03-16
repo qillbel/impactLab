@@ -1,0 +1,1 @@
+{"itemId": "RosterFairnessObjective Property[ShiftsGroupReference]", "identities": [{"id": "RosterFairnessObjective Property[ShiftsGroupReference]", "type": "RosterFairnessObjective Property", "fields": {"IdName": "ShiftsGroupReference"}}], "ownerItem": "Collection[RosterFairnessObjective]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

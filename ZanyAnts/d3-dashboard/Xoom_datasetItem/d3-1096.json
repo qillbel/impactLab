@@ -1,0 +1,1 @@
+{"itemId": "ButlerTrigger Index[Key]", "identities": [{"id": "ButlerTrigger Index[Key]", "type": "ButlerTrigger Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ButlerTrigger]", "dependencies": ["ButlerTrigger Property[Key]"]}

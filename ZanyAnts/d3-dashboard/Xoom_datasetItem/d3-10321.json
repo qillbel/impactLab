@@ -1,0 +1,1 @@
+{"itemId": "WorkOrderItem Index[Steps.All.StepKey]", "identities": [{"id": "WorkOrderItem Index[Steps.All.StepKey]", "type": "WorkOrderItem Index", "fields": {"IdName": "Steps.All.StepKey"}}], "ownerItem": "Collection[WorkOrderItem]", "dependencies": ["W6WO_ITEMS_STEPS Property[StepKey]", "WorkOrderItem Property[Steps]"]}

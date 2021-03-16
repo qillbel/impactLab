@@ -1,0 +1,1 @@
+{"itemId": "PainType[Regular]", "identities": [{"id": "PainType[Regular]", "type": "PainType", "fields": {"Name": "Regular"}}], "dependencies": ["AvailabilityType[Regular]", "Calendar[All Week]"]}

@@ -1,0 +1,1 @@
+{"itemId": "ServiceNotificationStatus Index[Key]", "identities": [{"id": "ServiceNotificationStatus Index[Key]", "type": "ServiceNotificationStatus Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ServiceNotificationStatus]", "dependencies": ["ServiceNotificationStatus Property[Key]"]}

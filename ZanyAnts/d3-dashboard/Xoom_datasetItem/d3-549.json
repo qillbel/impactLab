@@ -1,0 +1,1 @@
+{"itemId": "AuditABCapDynamic Property[EnforceCapacity]", "identities": [{"id": "AuditABCapDynamic Property[EnforceCapacity]", "type": "AuditABCapDynamic Property", "fields": {"IdName": "EnforceCapacity"}}], "ownerItem": "Collection[AuditABCapDynamic]"}

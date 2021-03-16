@@ -1,0 +1,1 @@
+{"itemId": "RosterActionRequest Property[SwapRequestStatus]", "identities": [{"id": "RosterActionRequest Property[SwapRequestStatus]", "type": "RosterActionRequest Property", "fields": {"IdName": "SwapRequestStatus"}}], "ownerItem": "Collection[RosterActionRequest]", "dependencies": ["Collection[ShiftsSwapRequestStatus]", "ShiftsSwapRequestStatus Property[Name]"]}

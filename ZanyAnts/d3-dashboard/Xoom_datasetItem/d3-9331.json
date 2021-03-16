@@ -1,0 +1,1 @@
+{"itemId": "Tool Index[Name]", "identities": [{"id": "Tool Index[Name]", "type": "Tool Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[Tool]", "dependencies": ["Tool Property[Name]"]}

@@ -1,0 +1,1 @@
+{"itemId": "ZLookupDefaultSkill Index[TaskType]", "identities": [{"id": "ZLookupDefaultSkill Index[TaskType]", "type": "ZLookupDefaultSkill Index", "fields": {"IdName": "TaskType"}}], "ownerItem": "Collection[ZLookupDefaultSkill]", "dependencies": ["ZLookupDefaultSkill Property[TaskType]"]}

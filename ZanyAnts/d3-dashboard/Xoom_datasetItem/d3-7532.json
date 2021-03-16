@@ -1,0 +1,1 @@
+{"itemId": "SchedulingWorkflow Index[SubCategory]", "identities": [{"id": "SchedulingWorkflow Index[SubCategory]", "type": "SchedulingWorkflow Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[SchedulingWorkflow]", "dependencies": ["SchedulingWorkflow Property[SubCategory]"]}

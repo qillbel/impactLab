@@ -1,0 +1,1 @@
+{"itemId": "GenericEventDefinition[Deleted Assignments]", "identities": [{"id": "GenericEventDefinition[Deleted Assignments]", "type": "GenericEventDefinition", "fields": {"Name": "Deleted Assignments"}}], "dependencies": ["Action Type[Send Mail]", "Collection[Assignment]", "Group[Rejected Tasks]"]}

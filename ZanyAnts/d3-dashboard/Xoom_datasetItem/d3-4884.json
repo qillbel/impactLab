@@ -1,0 +1,1 @@
+{"itemId": "Metric Property[MetricCategory]", "identities": [{"id": "Metric Property[MetricCategory]", "type": "Metric Property", "fields": {"IdName": "MetricCategory"}}], "ownerItem": "Collection[Metric]", "dependencies": ["Collection[MetricCategory]", "MetricCategory Property[Name]"]}

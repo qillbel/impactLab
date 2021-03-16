@@ -1,0 +1,1 @@
+{"itemId": "MatchTimeRule Index[Key]", "identities": [{"id": "MatchTimeRule Index[Key]", "type": "MatchTimeRule Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[MatchTimeRule]", "dependencies": ["MatchTimeRule Property[Key]"]}

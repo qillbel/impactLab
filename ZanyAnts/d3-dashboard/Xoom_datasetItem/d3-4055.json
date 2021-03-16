@@ -1,0 +1,1 @@
+{"itemId": "GenericEventDefinition[Update Cancelled MTs to 5555]", "identities": [{"id": "GenericEventDefinition[Update Cancelled MTs to 5555]", "type": "GenericEventDefinition", "fields": {"Name": "Update Cancelled MTs to 5555"}}], "dependencies": ["Action Type[Set property]", "Collection[Task]", "Group[PreventDuplicateMTs]", "Task Property[Number]", "Task Property[Status]"]}

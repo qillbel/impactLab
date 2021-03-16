@@ -1,0 +1,1 @@
+{"itemId": "IntegrationPollingThread Index[Name]", "identities": [{"id": "IntegrationPollingThread Index[Name]", "type": "IntegrationPollingThread Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[IntegrationPollingThread]", "dependencies": ["IntegrationPollingThread Property[Name]"]}

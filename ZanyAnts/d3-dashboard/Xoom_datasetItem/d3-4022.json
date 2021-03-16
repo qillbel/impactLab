@@ -1,0 +1,1 @@
+{"itemId": "GenericEventDefinition[Recurring Tasks Delete Event]", "identities": [{"id": "GenericEventDefinition[Recurring Tasks Delete Event]", "type": "GenericEventDefinition", "fields": {"Name": "Recurring Tasks Delete Event"}}], "dependencies": ["Action Type[RecurringTasksEvent]", "Collection[Task]", "Group[RT Recurring Task]"]}

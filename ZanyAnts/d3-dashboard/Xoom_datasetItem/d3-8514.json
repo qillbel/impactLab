@@ -1,0 +1,1 @@
+{"itemId": "SOUserGroupFilter Property[Key]", "identities": [{"id": "SOUserGroupFilter Property[Key]", "type": "SOUserGroupFilter Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[SOUserGroupFilter]", "dependencies": ["Collection[SOUserGroupFilter]", "SOUserGroupFilter Property[FilterID]"]}

@@ -1,0 +1,1 @@
+{"itemId": "WorkRevenueBVF Property[RelevanceGroup]", "identities": [{"id": "WorkRevenueBVF Property[RelevanceGroup]", "type": "WorkRevenueBVF Property", "fields": {"IdName": "RelevanceGroup"}}], "ownerItem": "Collection[WorkRevenueBVF]", "dependencies": ["Collection[RelevanceGroup]", "RelevanceGroup Property[Name]"]}

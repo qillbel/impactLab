@@ -1,0 +1,1 @@
+{"itemId": "DynamicPrioritySetting Property[SettingItems]", "identities": [{"id": "DynamicPrioritySetting Property[SettingItems]", "type": "DynamicPrioritySetting Property", "fields": {"IdName": "SettingItems"}}], "ownerItem": "Collection[DynamicPrioritySetting]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

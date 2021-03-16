@@ -1,0 +1,1 @@
+{"itemId": "Skill[MaxTV Stream]", "identities": [{"id": "Skill[MaxTV Stream]", "type": "Skill", "fields": {"Name": "MaxTV Stream"}}], "dependencies": ["ServiceType[Res]"]}

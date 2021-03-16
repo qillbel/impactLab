@@ -1,0 +1,1 @@
+{"itemId": "Agent Instance[Bulk Dispatch Contractor Agent]", "identities": [{"id": "Agent Instance[Bulk Dispatch Contractor Agent]", "type": "Agent Instance", "fields": {"Name": "Bulk Dispatch Contractor Agent"}}], "ownerItem": "Setting[[Application]|Agents|AgentsManager|]", "dependencies": ["Agent[Workflow Agent|Bulk Dispatch Contractor Agent]", "Server[SWS00719]"]}

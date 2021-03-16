@@ -1,0 +1,1 @@
+{"itemId": "RosterGroupByGroupEnumerators Index[Name]", "identities": [{"id": "RosterGroupByGroupEnumerators Index[Name]", "type": "RosterGroupByGroupEnumerators Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[RosterGroupByGroupEnumerators]", "dependencies": ["RosterGroupByGroupEnumerators Property[Name]"]}

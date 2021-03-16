@@ -1,0 +1,1 @@
+{"itemId": "GapRule Property[RelevanceGroup]", "identities": [{"id": "GapRule Property[RelevanceGroup]", "type": "GapRule Property", "fields": {"IdName": "RelevanceGroup"}}], "ownerItem": "Collection[GapRule]", "dependencies": ["Collection[RelevanceGroup]", "RelevanceGroup Property[Name]"]}

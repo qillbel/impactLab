@@ -1,0 +1,1 @@
+{"itemId": "District[NBFR Dist Rural]", "identities": [{"id": "District[NBFR Dist Rural]", "type": "District", "fields": {"Name": "NBFR Dist Rural"}}], "dependencies": ["Country[CANADA]", "District[NBFR Dist Rural]", "Region[6 - North Battleford - Lloydminster]"]}

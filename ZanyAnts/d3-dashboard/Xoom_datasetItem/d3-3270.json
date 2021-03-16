@@ -1,0 +1,1 @@
+{"itemId": "District[Construction Prince Albert]", "identities": [{"id": "District[Construction Prince Albert]", "type": "District", "fields": {"Name": "Construction Prince Albert"}}], "dependencies": ["Country[CANADA]", "District[Construction Prince Albert]", "Region[8 - Long Cycle Construction]"]}

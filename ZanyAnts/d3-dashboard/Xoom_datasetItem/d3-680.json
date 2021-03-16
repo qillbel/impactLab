@@ -1,0 +1,1 @@
+{"itemId": "BackReporting Index[ExternalRefID]", "identities": [{"id": "BackReporting Index[ExternalRefID]", "type": "BackReporting Index", "fields": {"IdName": "ExternalRefID"}}], "ownerItem": "Collection[BackReporting]", "dependencies": ["BackReporting Property[ExternalRefID]"]}

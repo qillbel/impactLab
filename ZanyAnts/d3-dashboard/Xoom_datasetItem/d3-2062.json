@@ -1,0 +1,1 @@
+{"itemId": "CapacityLimitsDynamic Property[BookingArea]", "identities": [{"id": "CapacityLimitsDynamic Property[BookingArea]", "type": "CapacityLimitsDynamic Property", "fields": {"IdName": "BookingArea"}}], "ownerItem": "Collection[CapacityLimitsDynamic]", "dependencies": ["Collection[District]", "District Property[Name]"]}

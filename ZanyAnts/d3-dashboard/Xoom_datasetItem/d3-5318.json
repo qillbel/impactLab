@@ -1,0 +1,1 @@
+{"itemId": "PartLocation Index[MobileKey]", "identities": [{"id": "PartLocation Index[MobileKey]", "type": "PartLocation Index", "fields": {"IdName": "MobileKey"}}], "ownerItem": "Collection[PartLocation]", "dependencies": ["PartLocation Property[MobileKey]"]}

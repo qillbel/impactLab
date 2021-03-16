@@ -1,0 +1,1 @@
+{"itemId": "AbsenceRequest Property[RelatedVacationCalendar]", "identities": [{"id": "AbsenceRequest Property[RelatedVacationCalendar]", "type": "AbsenceRequest Property", "fields": {"IdName": "RelatedVacationCalendar"}}], "ownerItem": "Collection[AbsenceRequest]", "dependencies": ["Collection[VacationCalendar]", "VacationCalendar Property[Name]"]}

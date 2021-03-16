@@ -1,0 +1,1 @@
+{"itemId": "PriorityByPropertyObjective Index[Key]", "identities": [{"id": "PriorityByPropertyObjective Index[Key]", "type": "PriorityByPropertyObjective Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[PriorityByPropertyObjective]", "dependencies": ["PriorityByPropertyObjective Property[Key]"]}

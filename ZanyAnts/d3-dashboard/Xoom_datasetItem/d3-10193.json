@@ -1,0 +1,1 @@
+{"itemId": "W6WORKFLOW_AGENT_CRITERIA Property[TaskGroupFilter]", "identities": [{"id": "W6WORKFLOW_AGENT_CRITERIA Property[TaskGroupFilter]", "type": "W6WORKFLOW_AGENT_CRITERIA Property", "fields": {"IdName": "TaskGroupFilter"}}], "ownerItem": "Collection[WorkflowAgent]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

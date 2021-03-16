@@ -1,0 +1,1 @@
+{"itemId": "BundledItem Index[Mobile_Key]", "identities": [{"id": "BundledItem Index[Mobile_Key]", "type": "BundledItem Index", "fields": {"IdName": "Mobile_Key"}}], "ownerItem": "Collection[BundledItem]", "dependencies": ["BundledItem Property[Mobile_Key]"]}

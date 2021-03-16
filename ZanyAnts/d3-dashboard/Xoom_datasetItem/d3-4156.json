@@ -1,0 +1,1 @@
+{"itemId": "Group[Agent Closed Date]", "identities": [{"id": "Group[Agent Closed Date]", "type": "Group", "fields": {"Name": "Agent Closed Date", "GroupType": "Task"}}], "dependencies": ["Collection[Task]", "Task Property[ClosedDate]", "Task Property[Status]", "Task Property[WasArchived]", "TaskStatus[Cancelled]", "TaskStatus[Completed]", "TaskStatus[Incomplete]"]}

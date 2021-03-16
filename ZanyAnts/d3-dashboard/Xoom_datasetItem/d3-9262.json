@@ -1,0 +1,1 @@
+{"itemId": "TimeCostBVF Property[RelevanceGroup]", "identities": [{"id": "TimeCostBVF Property[RelevanceGroup]", "type": "TimeCostBVF Property", "fields": {"IdName": "RelevanceGroup"}}], "ownerItem": "Collection[TimeCostBVF]", "dependencies": ["Collection[RelevanceGroup]", "RelevanceGroup Property[Name]"]}

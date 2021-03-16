@@ -1,0 +1,1 @@
+{"itemId": "SOUser Property[Key]", "identities": [{"id": "SOUser Property[Key]", "type": "SOUser Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[SOUser]", "dependencies": ["Collection[SOUser]", "SOUser Property[UserName]"]}

@@ -1,0 +1,1 @@
+{"itemId": "ResourceDependencyRule Index[Name]", "identities": [{"id": "ResourceDependencyRule Index[Name]", "type": "ResourceDependencyRule Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[ResourceDependencyRule]", "dependencies": ["ResourceDependencyRule Property[Name]"]}

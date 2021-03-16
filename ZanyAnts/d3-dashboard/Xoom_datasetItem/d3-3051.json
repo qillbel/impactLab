@@ -1,0 +1,1 @@
+{"itemId": "CrewAllocationRule Index[Name]", "identities": [{"id": "CrewAllocationRule Index[Name]", "type": "CrewAllocationRule Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[CrewAllocationRule]", "dependencies": ["CrewAllocationRule Property[Name]"]}

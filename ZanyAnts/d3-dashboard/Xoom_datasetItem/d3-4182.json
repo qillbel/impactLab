@@ -1,0 +1,1 @@
+{"itemId": "Group[BGO Tasks - MT Only]", "identities": [{"id": "Group[BGO Tasks - MT Only]", "type": "Group", "fields": {"Name": "BGO Tasks - MT Only", "GroupType": "Task"}}], "dependencies": ["Collection[Task]", "Task Property[CallID]", "Task Property[Latitude]", "Task Property[Longitude]", "Task Property[Pinned]", "Task Property[Status]", "TaskStatus[Open]"]}

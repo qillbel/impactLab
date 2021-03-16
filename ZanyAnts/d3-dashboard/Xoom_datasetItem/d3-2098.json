@@ -1,0 +1,1 @@
+{"itemId": "CapacityReservationRule Property[ExcludedEngineerGroup]", "identities": [{"id": "CapacityReservationRule Property[ExcludedEngineerGroup]", "type": "CapacityReservationRule Property", "fields": {"IdName": "ExcludedEngineerGroup"}}], "ownerItem": "Collection[CapacityReservationRule]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

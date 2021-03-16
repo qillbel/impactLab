@@ -1,0 +1,1 @@
+{"itemId": "OperationalActivityCoverageResult Property[Key]", "identities": [{"id": "OperationalActivityCoverageResult Property[Key]", "type": "OperationalActivityCoverageResult Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[OperationalActivityCoverageResult]", "dependencies": ["Collection[OperationalActivityCoverageResult]"]}

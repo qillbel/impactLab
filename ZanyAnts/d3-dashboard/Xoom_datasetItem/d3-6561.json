@@ -1,0 +1,1 @@
+{"itemId": "RosterLogicDomains Index[Key]", "identities": [{"id": "RosterLogicDomains Index[Key]", "type": "RosterLogicDomains Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[RosterLogicDomains]", "dependencies": ["RosterLogicDomains Property[Key]"]}

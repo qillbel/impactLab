@@ -1,0 +1,1 @@
+{"itemId": "Group[All Updateable Shifts]", "identities": [{"id": "Group[All Updateable Shifts]", "type": "Group", "fields": {"Name": "All Updateable Shifts", "GroupType": "RosterShift"}}], "dependencies": ["Collection[RosterShift]", "RosterShift Property[ShiftStatus]", "ShiftStatus[Closed]", "ShiftStatus[Locked]"]}

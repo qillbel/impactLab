@@ -1,0 +1,1 @@
+{"itemId": "ServiceAlertType Index[Name]", "identities": [{"id": "ServiceAlertType Index[Name]", "type": "ServiceAlertType Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[ServiceAlertType]", "dependencies": ["ServiceAlertType Property[Name]"]}

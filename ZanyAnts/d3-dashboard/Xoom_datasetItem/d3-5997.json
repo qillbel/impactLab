@@ -1,0 +1,1 @@
+{"itemId": "Report[Set Shifts to Close]", "identities": [{"id": "Report[Set Shifts to Close]", "type": "Report", "fields": {"Name": "Set Shifts to Close", "ProductType": "7"}}], "dependencies": ["Collection[RosterShift]", "GenericEventDefinition[PBM_Calculator_RosterShift_10/4/2013_14:15:1]", "RosterShift Property[FinishTime]"]}

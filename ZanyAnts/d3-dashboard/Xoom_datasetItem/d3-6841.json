@@ -1,0 +1,1 @@
+{"itemId": "RosterOptimizers Index[SubCategory]", "identities": [{"id": "RosterOptimizers Index[SubCategory]", "type": "RosterOptimizers Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[RosterOptimizers]", "dependencies": ["RosterOptimizers Property[SubCategory]"]}

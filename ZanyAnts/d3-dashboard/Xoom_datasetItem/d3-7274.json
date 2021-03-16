@@ -1,0 +1,1 @@
+{"itemId": "Rule[Crew Allocation Rule]", "identities": [{"id": "Rule[Crew Allocation Rule]", "type": "Rule", "fields": {"Name": "Crew Allocation Rule", "ProgID": "W6Rules.W6CrewAllocationRule, W6Rules"}}, {"id": "CrewAllocationRule[Crew Allocation Rule]", "type": "CrewAllocationRule", "fields": {"Name": "Crew Allocation Rule"}}], "dependencies": ["Collection[Engineer]"]}

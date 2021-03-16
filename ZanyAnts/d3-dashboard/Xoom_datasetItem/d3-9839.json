@@ -1,0 +1,1 @@
+{"itemId": "W6DYN_PRIORITY_SETTINGS_SETTS Property[TaskGroup]", "identities": [{"id": "W6DYN_PRIORITY_SETTINGS_SETTS Property[TaskGroup]", "type": "W6DYN_PRIORITY_SETTINGS_SETTS Property", "fields": {"IdName": "TaskGroup"}}], "ownerItem": "Collection[DynamicPrioritySetting]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

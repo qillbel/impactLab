@@ -1,0 +1,1 @@
+{"itemId": "JeopardyState Index[Name]", "identities": [{"id": "JeopardyState Index[Name]", "type": "JeopardyState Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[JeopardyState]", "dependencies": ["JeopardyState Property[Name]"]}

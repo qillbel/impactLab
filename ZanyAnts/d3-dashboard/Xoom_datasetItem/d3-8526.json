@@ -1,0 +1,1 @@
+{"itemId": "SpecialDaysType Index[Region,District,Team]", "identities": [{"id": "SpecialDaysType Index[Region,District,Team]", "type": "SpecialDaysType Index", "fields": {"IdName": "Region,District,Team"}}], "ownerItem": "Collection[SpecialDaysType]", "dependencies": ["SpecialDaysType Property[District]", "SpecialDaysType Property[Region]", "SpecialDaysType Property[Team]"]}

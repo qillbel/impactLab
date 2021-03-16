@@ -1,0 +1,1 @@
+{"itemId": "WorkflowAgent Index[Key]", "identities": [{"id": "WorkflowAgent Index[Key]", "type": "WorkflowAgent Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[WorkflowAgent]", "dependencies": ["WorkflowAgent Property[Key]"]}

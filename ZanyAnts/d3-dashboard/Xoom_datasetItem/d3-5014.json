@@ -1,0 +1,1 @@
+{"itemId": "MultiDayTaskSpecialRules Index[SubCategory]", "identities": [{"id": "MultiDayTaskSpecialRules Index[SubCategory]", "type": "MultiDayTaskSpecialRules Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[MultiDayTaskSpecialRules]", "dependencies": ["MultiDayTaskSpecialRules Property[SubCategory]"]}

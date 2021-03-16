@@ -1,0 +1,1 @@
+{"itemId": "SOUserGroup Property[ClickAnalyzeSetting]", "identities": [{"id": "SOUserGroup Property[ClickAnalyzeSetting]", "type": "SOUserGroup Property", "fields": {"IdName": "ClickAnalyzeSetting"}}], "ownerItem": "Collection[SOUserGroup]", "dependencies": ["Collection[UserSetting]", "UserSetting Property[Owner]"]}

@@ -1,0 +1,1 @@
+{"itemId": "CapacityBucket Index[Key]", "identities": [{"id": "CapacityBucket Index[Key]", "type": "CapacityBucket Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[CapacityBucket]", "dependencies": ["CapacityBucket Property[Key]"]}

@@ -1,0 +1,1 @@
+{"itemId": "RosterNARule Property[NAGroupReference]", "identities": [{"id": "RosterNARule Property[NAGroupReference]", "type": "RosterNARule Property", "fields": {"IdName": "NAGroupReference"}}], "ownerItem": "Collection[RosterNARule]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

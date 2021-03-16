@@ -1,0 +1,1 @@
+{"itemId": "W6WO_ITEMS_STEPS Property[StepKey]", "identities": [{"id": "W6WO_ITEMS_STEPS Property[StepKey]", "type": "W6WO_ITEMS_STEPS Property", "fields": {"IdName": "StepKey"}}], "ownerItem": "Collection[WorkOrderItem]", "dependencies": ["Collection[Step]", "Step Property[Name]"]}

@@ -1,0 +1,1 @@
+{"itemId": "DataDomain Index[Key]", "identities": [{"id": "DataDomain Index[Key]", "type": "DataDomain Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[DataDomain]", "dependencies": ["DataDomain Property[Key]"]}

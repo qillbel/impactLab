@@ -1,0 +1,1 @@
+{"itemId": "PartType Index[Key]", "identities": [{"id": "PartType Index[Key]", "type": "PartType Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[PartType]", "dependencies": ["PartType Property[Key]"]}

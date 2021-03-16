@@ -1,0 +1,1 @@
+{"itemId": "Group[Rejected Tasks]", "identities": [{"id": "Group[Rejected Tasks]", "type": "Group", "fields": {"Name": "Rejected Tasks", "GroupType": "Assignment"}}], "dependencies": ["Assignment Property[Task]", "Collection[Assignment]", "Task Property[RejectionReason]", "Task Property[Status]", "TaskStatus[Rejected]"]}

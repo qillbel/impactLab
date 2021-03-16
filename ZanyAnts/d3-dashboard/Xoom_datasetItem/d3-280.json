@@ -1,0 +1,1 @@
+{"itemId": "App Property[SupportedProducts]", "identities": [{"id": "App Property[SupportedProducts]", "type": "App Property", "fields": {"IdName": "SupportedProducts"}}], "ownerItem": "Collection[App]", "dependencies": ["AppProductType Property[Name]", "Collection[AppProductType]"]}

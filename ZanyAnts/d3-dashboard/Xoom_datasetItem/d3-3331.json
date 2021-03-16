@@ -1,0 +1,1 @@
+{"itemId": "District[REGN Dist FortQuAppelle]", "identities": [{"id": "District[REGN Dist FortQuAppelle]", "type": "District", "fields": {"Name": "REGN Dist FortQuAppelle"}}], "dependencies": ["Country[CANADA]", "District[REGN Dist FortQuAppelle]", "Region[1 - Regina]"]}

@@ -1,0 +1,1 @@
+{"itemId": "RosterShift Index[Region,District,StartTime]", "identities": [{"id": "RosterShift Index[Region,District,StartTime]", "type": "RosterShift Index", "fields": {"IdName": "Region,District,StartTime"}}], "ownerItem": "Collection[RosterShift]", "dependencies": ["RosterShift Property[District]", "RosterShift Property[Region]", "RosterShift Property[StartTime]"]}

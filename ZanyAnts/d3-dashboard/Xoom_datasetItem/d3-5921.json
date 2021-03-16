@@ -1,0 +1,1 @@
+{"itemId": "RelevanceGroup Property[TaskGroupKey]", "identities": [{"id": "RelevanceGroup Property[TaskGroupKey]", "type": "RelevanceGroup Property", "fields": {"IdName": "TaskGroupKey"}}], "ownerItem": "Collection[RelevanceGroup]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

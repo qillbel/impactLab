@@ -1,0 +1,1 @@
+{"itemId": "NumberOfRequiredEngineersRule Property[Key]", "identities": [{"id": "NumberOfRequiredEngineersRule Property[Key]", "type": "NumberOfRequiredEngineersRule Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[NumberOfRequiredEngineersRule]", "dependencies": ["Collection[NumberOfRequiredEngineersRule]", "NumberOfRequiredEngineersRule Property[Name]"]}

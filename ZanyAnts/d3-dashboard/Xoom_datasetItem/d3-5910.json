@@ -1,0 +1,1 @@
+{"itemId": "RelevanceGroup Index[Key]", "identities": [{"id": "RelevanceGroup Index[Key]", "type": "RelevanceGroup Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[RelevanceGroup]", "dependencies": ["RelevanceGroup Property[Key]"]}

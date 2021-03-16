@@ -1,0 +1,1 @@
+{"itemId": "Group[Roster Availability Rule]", "identities": [{"id": "Group[Roster Availability Rule]", "type": "Group", "fields": {"Name": "Roster Availability Rule", "GroupType": "Rule"}}], "dependencies": ["Collection[Rule]", "Rule Property[ProgID]"]}

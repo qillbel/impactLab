@@ -1,0 +1,1 @@
+{"itemId": "Group[MST\\MDT for Scheduling Workflow]", "identities": [{"id": "Group[MST\\MDT for Scheduling Workflow]", "type": "Group", "fields": {"Name": "MST\\MDT for Scheduling Workflow", "GroupType": "Task"}}], "dependencies": ["Collection[Task]", "Task Property[IsBundled]", "Task Property[IsMDT]", "Task Property[IsMST]", "Task Property[Revision]"]}

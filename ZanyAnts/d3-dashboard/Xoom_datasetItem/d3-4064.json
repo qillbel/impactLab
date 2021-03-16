@@ -1,0 +1,1 @@
+{"itemId": "GenericEventDefinition Index[Key]", "identities": [{"id": "GenericEventDefinition Index[Key]", "type": "GenericEventDefinition Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[GenericEventDefinition]", "dependencies": ["GenericEventDefinition Property[Key]"]}

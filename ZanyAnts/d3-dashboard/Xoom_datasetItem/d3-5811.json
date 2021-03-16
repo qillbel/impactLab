@@ -1,0 +1,1 @@
+{"itemId": "ProblemKeyword Index[Key]", "identities": [{"id": "ProblemKeyword Index[Key]", "type": "ProblemKeyword Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ProblemKeyword]", "dependencies": ["ProblemKeyword Property[Key]"]}

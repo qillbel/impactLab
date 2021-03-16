@@ -1,0 +1,1 @@
+{"itemId": "Task Index[Region,ScheduleDate]", "identities": [{"id": "Task Index[Region,ScheduleDate]", "type": "Task Index", "fields": {"IdName": "Region,ScheduleDate"}}], "ownerItem": "Collection[Task]", "dependencies": ["Task Property[Region]", "Task Property[ScheduleDate]"]}

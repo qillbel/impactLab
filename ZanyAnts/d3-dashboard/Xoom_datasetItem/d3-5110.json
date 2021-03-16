@@ -1,0 +1,1 @@
+{"itemId": "Objective Property[Key]", "identities": [{"id": "Objective Property[Key]", "type": "Objective Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[Objective]", "dependencies": ["Collection[Objective]", "Objective Property[Name]"]}

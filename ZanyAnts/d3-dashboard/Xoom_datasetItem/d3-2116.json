@@ -1,0 +1,1 @@
+{"itemId": "CapacityReservationSettings Index[SubCategory]", "identities": [{"id": "CapacityReservationSettings Index[SubCategory]", "type": "CapacityReservationSettings Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[CapacityReservationSettings]", "dependencies": ["CapacityReservationSettings Property[SubCategory]"]}

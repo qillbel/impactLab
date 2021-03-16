@@ -1,0 +1,1 @@
+{"itemId": "SchedulingWorkflow Property[SchedulingStages]", "identities": [{"id": "SchedulingWorkflow Property[SchedulingStages]", "type": "SchedulingWorkflow Property", "fields": {"IdName": "SchedulingStages"}}], "ownerItem": "Collection[SchedulingWorkflow]", "dependencies": ["Collection[SchedulingStage]", "SchedulingStage Property[SubCategory]"]}

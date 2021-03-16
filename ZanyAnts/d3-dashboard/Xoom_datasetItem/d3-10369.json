@@ -1,0 +1,1 @@
+{"itemId": "WorkRevenueBVF Index[Key]", "identities": [{"id": "WorkRevenueBVF Index[Key]", "type": "WorkRevenueBVF Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[WorkRevenueBVF]", "dependencies": ["WorkRevenueBVF Property[Key]"]}

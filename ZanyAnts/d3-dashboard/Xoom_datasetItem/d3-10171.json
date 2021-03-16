@@ -1,0 +1,1 @@
+{"itemId": "W6UPD_BY_INTG_IGNOREDSTATTRANS Property[ToStatus]", "identities": [{"id": "W6UPD_BY_INTG_IGNOREDSTATTRANS Property[ToStatus]", "type": "W6UPD_BY_INTG_IGNOREDSTATTRANS Property", "fields": {"IdName": "ToStatus"}}], "ownerItem": "Collection[UpdatesThroughIntegration]", "dependencies": ["Collection[TaskStatus]", "TaskStatus Property[Name]"]}

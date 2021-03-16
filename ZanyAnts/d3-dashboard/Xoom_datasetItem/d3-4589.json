@@ -1,0 +1,1 @@
+{"itemId": "LimitationsLog Property[Key]", "identities": [{"id": "LimitationsLog Property[Key]", "type": "LimitationsLog Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[LimitationsLog]", "dependencies": ["Collection[LimitationsLog]"]}

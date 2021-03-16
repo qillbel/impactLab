@@ -1,0 +1,1 @@
+{"itemId": "W6BGO_STEPS Property[LogicDomain]", "identities": [{"id": "W6BGO_STEPS Property[LogicDomain]", "type": "W6BGO_STEPS Property", "fields": {"IdName": "LogicDomain"}}], "ownerItem": "Collection[BackgroundOptimization]", "dependencies": ["Collection[LogicDomainSetting]", "LogicDomainSetting Property[SubCategory]"]}

@@ -1,0 +1,1 @@
+{"itemId": "GenericEventDefinition[Set DisplayDate by ScheduleDate]", "identities": [{"id": "GenericEventDefinition[Set DisplayDate by ScheduleDate]", "type": "GenericEventDefinition", "fields": {"Name": "Set DisplayDate by ScheduleDate"}}], "dependencies": ["Action Type[Copy property]", "Collection[Task]", "Task Property[DisplayDate]", "Task Property[ScheduleDate]"]}

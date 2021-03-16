@@ -1,0 +1,1 @@
+{"itemId": "WorkflowAgent Property[Decomposition]", "identities": [{"id": "WorkflowAgent Property[Decomposition]", "type": "WorkflowAgent Property", "fields": {"IdName": "Decomposition"}}], "ownerItem": "Collection[WorkflowAgent]", "dependencies": ["Collection[Decomposition]", "Decomposition Property[SubCategory]"]}
