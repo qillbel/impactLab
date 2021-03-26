@@ -1,0 +1,1 @@
+[{"itemId": "ABCapacityLimitsDynamic Index[Name]", "identities": [{"id": "ABCapacityLimitsDynamic Index[Name]", "type": "ABCapacityLimitsDynamic Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[ABCapacityLimitsDynamic]", "dependencies": ["ABCapacityLimitsDynamic Property[Name]"]}]
