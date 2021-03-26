@@ -1,1 +1,0 @@
-{"itemId": "StatusFlow Index[AssociatedCollectionName,Active]", "identities": [{"id": "StatusFlow Index[AssociatedCollectionName,Active]", "type": "StatusFlow Index", "fields": {"IdName": "AssociatedCollectionName,Active"}}], "ownerItem": "Collection[StatusFlow]", "dependencies": ["StatusFlow Property[Active]", "StatusFlow Property[AssociatedCollectionName]"]}

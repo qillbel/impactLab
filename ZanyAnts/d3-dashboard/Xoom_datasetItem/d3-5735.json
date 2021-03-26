@@ -1,1 +1,0 @@
-{"itemId": "PredictiveTravelByDistrict Property[FromArea]", "identities": [{"id": "PredictiveTravelByDistrict Property[FromArea]", "type": "PredictiveTravelByDistrict Property", "fields": {"IdName": "FromArea"}}], "ownerItem": "Collection[PredictiveTravelByDistrict]", "dependencies": ["Collection[District]", "District Property[Name]"]}

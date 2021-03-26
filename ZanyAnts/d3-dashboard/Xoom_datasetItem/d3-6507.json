@@ -1,1 +1,0 @@
-{"itemId": "RosterGetCandidatesPolicies Property[ShiftsGroupReference]", "identities": [{"id": "RosterGetCandidatesPolicies Property[ShiftsGroupReference]", "type": "RosterGetCandidatesPolicies Property", "fields": {"IdName": "ShiftsGroupReference"}}], "ownerItem": "Collection[RosterGetCandidatesPolicies]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

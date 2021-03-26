@@ -1,1 +1,0 @@
-{"itemId": "SchedulingStage Property[Key]", "identities": [{"id": "SchedulingStage Property[Key]", "type": "SchedulingStage Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[SchedulingStage]", "dependencies": ["Collection[SchedulingStage]", "SchedulingStage Property[SubCategory]"]}

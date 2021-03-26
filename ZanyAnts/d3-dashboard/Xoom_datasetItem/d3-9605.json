@@ -1,1 +1,0 @@
-{"itemId": "VacationCalendarSelectionStatus Index[Key]", "identities": [{"id": "VacationCalendarSelectionStatus Index[Key]", "type": "VacationCalendarSelectionStatus Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[VacationCalendarSelectionStatus]", "dependencies": ["VacationCalendarSelectionStatus Property[Key]"]}

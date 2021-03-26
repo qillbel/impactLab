@@ -1,1 +1,0 @@
-{"itemId": "GenericEventDefinition Property[PreConditionGroup]", "identities": [{"id": "GenericEventDefinition Property[PreConditionGroup]", "type": "GenericEventDefinition Property", "fields": {"IdName": "PreConditionGroup"}}], "ownerItem": "Collection[GenericEventDefinition]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

@@ -1,1 +1,0 @@
-{"itemId": "District[Prince Albert City]", "identities": [{"id": "District[Prince Albert City]", "type": "District", "fields": {"Name": "Prince Albert City"}}], "dependencies": ["Country[CANADA]", "District[Prince Albert City]", "Region[3 - Prince Albert]"]}

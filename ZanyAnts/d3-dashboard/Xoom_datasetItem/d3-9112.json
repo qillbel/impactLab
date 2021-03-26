@@ -1,1 +1,0 @@
-{"itemId": "TaskType[DP]", "identities": [{"id": "TaskType[DP]", "type": "TaskType", "fields": {"Name": "DP"}}], "dependencies": ["TaskTypeCategory[Trouble]"]}

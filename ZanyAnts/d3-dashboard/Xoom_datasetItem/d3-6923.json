@@ -1,1 +1,0 @@
-{"itemId": "RosterResourcePreference Property[AvailabilityType]", "identities": [{"id": "RosterResourcePreference Property[AvailabilityType]", "type": "RosterResourcePreference Property", "fields": {"IdName": "AvailabilityType"}}], "ownerItem": "Collection[RosterResourcePreference]", "dependencies": ["AvailabilityType Property[Name]", "Collection[AvailabilityType]"]}

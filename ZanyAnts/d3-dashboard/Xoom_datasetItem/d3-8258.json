@@ -1,1 +1,0 @@
-{"itemId": "ShiftsSwapRequestStatus Index[Name]", "identities": [{"id": "ShiftsSwapRequestStatus Index[Name]", "type": "ShiftsSwapRequestStatus Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[ShiftsSwapRequestStatus]", "dependencies": ["ShiftsSwapRequestStatus Property[Name]"]}

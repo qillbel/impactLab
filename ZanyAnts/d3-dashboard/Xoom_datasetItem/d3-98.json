@@ -1,1 +1,0 @@
-{"itemId": "Address Property[Region]", "identities": [{"id": "Address Property[Region]", "type": "Address Property", "fields": {"IdName": "Region"}}], "ownerItem": "Collection[Address]", "dependencies": ["Collection[Region]", "Region Property[Name]"]}

@@ -1,1 +1,0 @@
-{"itemId": "W6AB_PRMS_PARTITIONS Property[UnmovableResources]", "identities": [{"id": "W6AB_PRMS_PARTITIONS Property[UnmovableResources]", "type": "W6AB_PRMS_PARTITIONS Property", "fields": {"IdName": "UnmovableResources"}}], "ownerItem": "Collection[AppointmentBookingParameters]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

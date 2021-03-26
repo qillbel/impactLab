@@ -1,1 +1,0 @@
-{"itemId": "District[SWCR Dist MapleCreek]", "identities": [{"id": "District[SWCR Dist MapleCreek]", "type": "District", "fields": {"Name": "SWCR Dist MapleCreek"}}], "dependencies": ["Country[CANADA]", "District[SWCR Dist MapleCreek]", "Region[7 - Swift Current]"]}

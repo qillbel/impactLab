@@ -1,1 +1,0 @@
-{"itemId": "RosterShift Property[ShiftStatus]", "identities": [{"id": "RosterShift Property[ShiftStatus]", "type": "RosterShift Property", "fields": {"IdName": "ShiftStatus"}}], "ownerItem": "Collection[RosterShift]", "dependencies": ["Collection[ShiftStatus]", "ShiftStatus Property[Name]"]}

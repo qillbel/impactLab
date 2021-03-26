@@ -1,1 +1,0 @@
-{"itemId": "PlanScenario Index[RelatedPlan,Name]", "identities": [{"id": "PlanScenario Index[RelatedPlan,Name]", "type": "PlanScenario Index", "fields": {"IdName": "RelatedPlan,Name"}}], "ownerItem": "Collection[PlanScenario]", "dependencies": ["PlanScenario Property[Name]", "PlanScenario Property[RelatedPlan]"]}

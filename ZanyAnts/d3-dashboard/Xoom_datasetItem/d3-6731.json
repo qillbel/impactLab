@@ -1,1 +1,0 @@
-{"itemId": "RosterMeasurementSet Index[Key]", "identities": [{"id": "RosterMeasurementSet Index[Key]", "type": "RosterMeasurementSet Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[RosterMeasurementSet]", "dependencies": ["RosterMeasurementSet Property[Key]"]}

@@ -1,1 +1,0 @@
-{"itemId": "PriorityByPropertyObjective Property[RelevanceGroup]", "identities": [{"id": "PriorityByPropertyObjective Property[RelevanceGroup]", "type": "PriorityByPropertyObjective Property", "fields": {"IdName": "RelevanceGroup"}}], "ownerItem": "Collection[PriorityByPropertyObjective]", "dependencies": ["Collection[RelevanceGroup]", "RelevanceGroup Property[Name]"]}

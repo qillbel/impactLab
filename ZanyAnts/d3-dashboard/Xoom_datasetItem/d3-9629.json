@@ -1,1 +1,0 @@
-{"itemId": "VacationCalendarSetting Property[VCPausedStatus]", "identities": [{"id": "VacationCalendarSetting Property[VCPausedStatus]", "type": "VacationCalendarSetting Property", "fields": {"IdName": "VCPausedStatus"}}], "ownerItem": "Collection[VacationCalendarSetting]", "dependencies": ["Collection[VacationCalendarStatus]", "VacationCalendarStatus Property[Name]"]}

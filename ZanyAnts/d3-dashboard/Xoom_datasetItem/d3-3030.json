@@ -1,1 +1,0 @@
-{"itemId": "CrewAllocation Index[FinishTime]", "identities": [{"id": "CrewAllocation Index[FinishTime]", "type": "CrewAllocation Index", "fields": {"IdName": "FinishTime"}}], "ownerItem": "Collection[CrewAllocation]", "dependencies": ["CrewAllocation Property[FinishTime]"]}

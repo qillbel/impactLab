@@ -1,1 +1,0 @@
-{"itemId": "OperationalPosition Index[Region,District]", "identities": [{"id": "OperationalPosition Index[Region,District]", "type": "OperationalPosition Index", "fields": {"IdName": "Region,District"}}], "ownerItem": "Collection[OperationalPosition]", "dependencies": ["OperationalPosition Property[District]", "OperationalPosition Property[Region]"]}

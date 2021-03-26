@@ -1,1 +1,0 @@
-{"itemId": "PlanAction Property[ParentResource]", "identities": [{"id": "PlanAction Property[ParentResource]", "type": "PlanAction Property", "fields": {"IdName": "ParentResource"}}], "ownerItem": "Collection[PlanAction]", "dependencies": ["Collection[Engineer]", "Engineer Property[Name]"]}

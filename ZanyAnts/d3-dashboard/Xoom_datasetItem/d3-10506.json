@@ -1,1 +1,0 @@
-{"itemId": "W6CUSTOMER_ACCOUNTS_WOS Property[WorkOrderKey]", "identities": [{"id": "W6CUSTOMER_ACCOUNTS_WOS Property[WorkOrderKey]", "type": "W6CUSTOMER_ACCOUNTS_WOS Property", "fields": {"IdName": "WorkOrderKey"}}], "ownerItem": "Collection[CustomerAccount]", "dependencies": ["Collection[WorkOrder]", "WorkOrder Property[Name]"]}

@@ -1,1 +1,0 @@
-{"itemId": "Report Property[Key]", "identities": [{"id": "Report Property[Key]", "type": "Report Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[Report]", "dependencies": ["Collection[Report]", "Report Property[Name]"]}

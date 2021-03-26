@@ -1,1 +1,0 @@
-{"itemId": "W6ALERT_DMNDS_CVG_MSNG_RSRCES Property[ResourceKey]", "identities": [{"id": "W6ALERT_DMNDS_CVG_MSNG_RSRCES Property[ResourceKey]", "type": "W6ALERT_DMNDS_CVG_MSNG_RSRCES Property", "fields": {"IdName": "ResourceKey"}}], "ownerItem": "Collection[AlertDemandCoverageInfo]", "dependencies": ["Collection[Engineer]", "Engineer Property[Name]"]}

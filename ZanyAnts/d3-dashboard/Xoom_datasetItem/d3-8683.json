@@ -1,1 +1,0 @@
-{"itemId": "Step Property[RequiredTools]", "identities": [{"id": "Step Property[RequiredTools]", "type": "Step Property", "fields": {"IdName": "RequiredTools"}}], "ownerItem": "Collection[Step]", "dependencies": ["Collection[Tool]", "Tool Property[Name]"]}

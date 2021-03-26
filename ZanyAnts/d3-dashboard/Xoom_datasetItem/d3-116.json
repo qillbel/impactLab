@@ -1,1 +1,0 @@
-{"itemId": "Agent Instance[Audit Archive]", "identities": [{"id": "Agent Instance[Audit Archive]", "type": "Agent Instance", "fields": {"Name": "Audit Archive"}}], "ownerItem": "Setting[[Application]|Agents|AgentsManager|]", "dependencies": ["Agent[Audit Archive|Audit Archive Agent]", "Server[SWS00719]"]}

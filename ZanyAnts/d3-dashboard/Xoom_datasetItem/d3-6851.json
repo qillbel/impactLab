@@ -1,1 +1,0 @@
-{"itemId": "RosterOptimizers Property[Key]", "identities": [{"id": "RosterOptimizers Property[Key]", "type": "RosterOptimizers Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[RosterOptimizers]", "dependencies": ["Collection[RosterOptimizers]", "RosterOptimizers Property[SubCategory]"]}

@@ -1,1 +1,0 @@
-{"itemId": "Group[GE - Non Availability Assignments to be Locked]", "identities": [{"id": "Group[GE - Non Availability Assignments to be Locked]", "type": "Group", "fields": {"Name": "GE - Non Availability Assignments to be Locked", "GroupType": "Assignment"}}], "dependencies": ["Assignment Property[NonAvailabilityType]", "Collection[Assignment]"]}

@@ -1,1 +1,0 @@
-{"itemId": "District[Saskatoon City]", "identities": [{"id": "District[Saskatoon City]", "type": "District", "fields": {"Name": "Saskatoon City"}}], "dependencies": ["Country[CANADA]", "District[Saskatoon City]", "Region[2 - Saskatoon]"]}

@@ -1,1 +1,0 @@
-{"itemId": "CrewAllocationRule Property[RelevanceGroup]", "identities": [{"id": "CrewAllocationRule Property[RelevanceGroup]", "type": "CrewAllocationRule Property", "fields": {"IdName": "RelevanceGroup"}}], "ownerItem": "Collection[CrewAllocationRule]", "dependencies": ["Collection[RelevanceGroup]", "RelevanceGroup Property[Name]"]}

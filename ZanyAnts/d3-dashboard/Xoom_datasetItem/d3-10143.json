@@ -1,1 +1,0 @@
-{"itemId": "W6SO_VACATION_EMP_SELECTIONS Property[Status]", "identities": [{"id": "W6SO_VACATION_EMP_SELECTIONS Property[Status]", "type": "W6SO_VACATION_EMP_SELECTIONS Property", "fields": {"IdName": "Status"}}], "ownerItem": "Collection[VacationCalendar]", "dependencies": ["Collection[VacationCalendarRowStatus]", "VacationCalendarRowStatus Property[Name]"]}

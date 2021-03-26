@@ -1,1 +1,0 @@
-{"itemId": "WorkOrderItem Index[TaskCallID,TaskNumber]", "identities": [{"id": "WorkOrderItem Index[TaskCallID,TaskNumber]", "type": "WorkOrderItem Index", "fields": {"IdName": "TaskCallID,TaskNumber"}}], "ownerItem": "Collection[WorkOrderItem]", "dependencies": ["WorkOrderItem Property[TaskCallID]", "WorkOrderItem Property[TaskNumber]"]}

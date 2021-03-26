@@ -1,1 +1,0 @@
-{"itemId": "RosterOptimizers Property[PinnedShiftsCriteriaSettings_Group]", "identities": [{"id": "RosterOptimizers Property[PinnedShiftsCriteriaSettings_Group]", "type": "RosterOptimizers Property", "fields": {"IdName": "PinnedShiftsCriteriaSettings_Group"}}], "ownerItem": "Collection[RosterOptimizers]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

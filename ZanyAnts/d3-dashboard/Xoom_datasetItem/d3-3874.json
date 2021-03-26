@@ -1,1 +1,0 @@
-{"itemId": "ForecastUnit Property[JobType]", "identities": [{"id": "ForecastUnit Property[JobType]", "type": "ForecastUnit Property", "fields": {"IdName": "JobType"}}], "ownerItem": "Collection[ForecastUnit]", "dependencies": ["Collection[TaskType]", "TaskType Property[Name]"]}

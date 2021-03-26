@@ -1,1 +1,0 @@
-{"itemId": "District[Construction Swift Current]", "identities": [{"id": "District[Construction Swift Current]", "type": "District", "fields": {"Name": "Construction Swift Current"}}], "dependencies": ["Country[CANADA]", "District[Construction Swift Current]", "Region[8 - Long Cycle Construction]"]}

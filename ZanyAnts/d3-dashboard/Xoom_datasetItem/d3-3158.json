@@ -1,1 +1,0 @@
-{"itemId": "Decomposition Index[SubCategory]", "identities": [{"id": "Decomposition Index[SubCategory]", "type": "Decomposition Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[Decomposition]", "dependencies": ["Decomposition Property[SubCategory]"]}

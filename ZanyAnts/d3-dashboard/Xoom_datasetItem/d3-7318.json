@@ -1,1 +1,0 @@
-{"itemId": "Rule[Relocation Rule]", "identities": [{"id": "Rule[Relocation Rule]", "type": "Rule", "fields": {"Name": "Relocation Rule", "ProgID": "W6Rules.W6CrewAllocationRule, W6Rules"}}, {"id": "CrewAllocationRule[Relocation Rule]", "type": "CrewAllocationRule", "fields": {"Name": "Relocation Rule"}}], "dependencies": ["Collection[Engineer]"]}

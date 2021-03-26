@@ -1,1 +1,0 @@
-{"itemId": "ClickMobileAdvancedParameters Index[SubCategory]", "identities": [{"id": "ClickMobileAdvancedParameters Index[SubCategory]", "type": "ClickMobileAdvancedParameters Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[ClickMobileAdvancedParameters]", "dependencies": ["ClickMobileAdvancedParameters Property[SubCategory]"]}

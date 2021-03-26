@@ -1,1 +1,0 @@
-{"itemId": "W6ENGINEERS_TRAINERS Property[Trainer]", "identities": [{"id": "W6ENGINEERS_TRAINERS Property[Trainer]", "type": "W6ENGINEERS_TRAINERS Property", "fields": {"IdName": "Trainer"}}], "ownerItem": "Collection[Engineer]", "dependencies": ["Collection[Engineer]", "Engineer Property[Name]"]}

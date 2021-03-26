@@ -1,1 +1,0 @@
-{"itemId": "RosterDemand Property[Key]", "identities": [{"id": "RosterDemand Property[Key]", "type": "RosterDemand Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[RosterDemand]", "dependencies": ["Collection[RosterDemand]"]}

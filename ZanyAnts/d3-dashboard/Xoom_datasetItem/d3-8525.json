@@ -1,1 +1,0 @@
-{"itemId": "SpecialDaysType Index[Name]", "identities": [{"id": "SpecialDaysType Index[Name]", "type": "SpecialDaysType Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[SpecialDaysType]", "dependencies": ["SpecialDaysType Property[Name]"]}

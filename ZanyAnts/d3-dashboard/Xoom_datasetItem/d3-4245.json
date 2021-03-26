@@ -1,1 +1,0 @@
-{"itemId": "Group[Exclude Non-District Tech CSTs]", "identities": [{"id": "Group[Exclude Non-District Tech CSTs]", "type": "Group", "fields": {"Name": "Exclude Non-District Tech CSTs", "GroupType": "Engineer"}}], "dependencies": ["Collection[Engineer]", "Engineer Property[Active]", "Engineer Property[EngineerType]", "EngineerType[District Tech]"]}

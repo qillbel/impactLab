@@ -1,1 +1,0 @@
-{"itemId": "RosterRotation Property[Key]", "identities": [{"id": "RosterRotation Property[Key]", "type": "RosterRotation Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[RosterRotation]", "dependencies": ["Collection[RosterRotation]", "RosterRotation Property[RotationContext]"]}

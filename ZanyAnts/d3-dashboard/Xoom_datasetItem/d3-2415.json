@@ -1,1 +1,0 @@
-{"itemId": "ClockReportType Index[Key]", "identities": [{"id": "ClockReportType Index[Key]", "type": "ClockReportType Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ClockReportType]", "dependencies": ["ClockReportType Property[Key]"]}

@@ -1,1 +1,0 @@
-{"itemId": "ExtendedTimeDependencyRule Index[Name]", "identities": [{"id": "ExtendedTimeDependencyRule Index[Name]", "type": "ExtendedTimeDependencyRule Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[ExtendedTimeDependencyRule]", "dependencies": ["ExtendedTimeDependencyRule Property[Name]"]}

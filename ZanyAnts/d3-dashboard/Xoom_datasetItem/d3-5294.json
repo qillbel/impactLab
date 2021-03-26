@@ -1,1 +1,0 @@
-{"itemId": "PainType[Sundays]", "identities": [{"id": "PainType[Sundays]", "type": "PainType", "fields": {"Name": "Sundays"}}], "dependencies": ["AvailabilityType[Regular]", "Calendar[ClickRoster Pain Sundays]"]}

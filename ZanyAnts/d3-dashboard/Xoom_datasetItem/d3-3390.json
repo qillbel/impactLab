@@ -1,1 +1,0 @@
-{"itemId": "DurationRule Property[Key]", "identities": [{"id": "DurationRule Property[Key]", "type": "DurationRule Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[DurationRule]", "dependencies": ["Collection[DurationRule]", "DurationRule Property[Name]"]}

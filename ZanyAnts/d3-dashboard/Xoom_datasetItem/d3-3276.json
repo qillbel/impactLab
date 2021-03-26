@@ -1,1 +1,0 @@
-{"itemId": "District[Estevan City]", "identities": [{"id": "District[Estevan City]", "type": "District", "fields": {"Name": "Estevan City"}}], "dependencies": ["Country[CANADA]", "District[Estevan City]", "Region[5 - Yorkton - Estevan - Weyburn]"]}

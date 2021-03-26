@@ -1,1 +1,0 @@
-{"itemId": "Group[Band 8 - Business]", "identities": [{"id": "Group[Band 8 - Business]", "type": "Group", "fields": {"Name": "Band 8 - Business", "GroupType": "Task"}}], "dependencies": ["Collection[Task]", "EngineerType[Band 8 - Business]", "Task Property[EngineerType]"]}

@@ -1,1 +1,0 @@
-{"itemId": "RosterShiftPreferenceObjective Property[Key]", "identities": [{"id": "RosterShiftPreferenceObjective Property[Key]", "type": "RosterShiftPreferenceObjective Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[RosterShiftPreferenceObjective]", "dependencies": ["Collection[RosterShiftPreferenceObjective]", "RosterShiftPreferenceObjective Property[Name]"]}

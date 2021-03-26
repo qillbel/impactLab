@@ -1,1 +1,0 @@
-{"itemId": "W6BUSINESS_EVENTS_RANGES Property[JobType]", "identities": [{"id": "W6BUSINESS_EVENTS_RANGES Property[JobType]", "type": "W6BUSINESS_EVENTS_RANGES Property", "fields": {"IdName": "JobType"}}], "ownerItem": "Collection[BusinessEvent]", "dependencies": ["Collection[TaskType]", "TaskType Property[Name]"]}

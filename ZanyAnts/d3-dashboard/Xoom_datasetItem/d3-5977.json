@@ -1,1 +1,0 @@
-{"itemId": "Report[NA Details]", "identities": [{"id": "Report[NA Details]", "type": "Report", "fields": {"Name": "NA Details", "ProductType": "1"}}], "dependencies": ["Collection[Engineer]", "Engineer Property[Contractor]", "Engineer Property[Crew]", "Engineer Property[ID]", "Engineer Property[Internal]", "Engineer Property[Key]", "Engineer Property[Name]"]}

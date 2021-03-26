@@ -1,1 +1,0 @@
-{"itemId": "RosterSequenceRule Property[ResourceGroupKey]", "identities": [{"id": "RosterSequenceRule Property[ResourceGroupKey]", "type": "RosterSequenceRule Property", "fields": {"IdName": "ResourceGroupKey"}}], "ownerItem": "Collection[RosterSequenceRule]", "dependencies": ["Collection[RelevanceGroup]", "RelevanceGroup Property[Name]"]}

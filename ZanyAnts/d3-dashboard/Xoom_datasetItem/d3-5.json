@@ -1,1 +1,0 @@
-{"itemId": "ABCapacityLimits Property[Key]", "identities": [{"id": "ABCapacityLimits Property[Key]", "type": "ABCapacityLimits Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ABCapacityLimits]", "dependencies": ["ABCapacityLimits Property[Name]", "Collection[ABCapacityLimits]"]}

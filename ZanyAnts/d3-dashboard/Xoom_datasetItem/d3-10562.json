@@ -1,1 +1,0 @@
-{"itemId": "W6TASKS_ASSETS Property[AssetKey]", "identities": [{"id": "W6TASKS_ASSETS Property[AssetKey]", "type": "W6TASKS_ASSETS Property", "fields": {"IdName": "AssetKey"}}], "ownerItem": "Collection[Task]", "dependencies": ["Asset Property[Name]", "Collection[Asset]"]}

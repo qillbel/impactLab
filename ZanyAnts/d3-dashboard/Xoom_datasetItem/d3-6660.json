@@ -1,1 +1,0 @@
-{"itemId": "RosterMaxResourcePairingRule Property[ResourceGroupKey]", "identities": [{"id": "RosterMaxResourcePairingRule Property[ResourceGroupKey]", "type": "RosterMaxResourcePairingRule Property", "fields": {"IdName": "ResourceGroupKey"}}], "ownerItem": "Collection[RosterMaxResourcePairingRule]", "dependencies": ["Collection[RelevanceGroup]", "RelevanceGroup Property[Name]"]}

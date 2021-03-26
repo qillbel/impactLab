@@ -1,1 +1,0 @@
-{"itemId": "RosterMaxConsecutiveWorkRule Property[ResourceGroupKey]", "identities": [{"id": "RosterMaxConsecutiveWorkRule Property[ResourceGroupKey]", "type": "RosterMaxConsecutiveWorkRule Property", "fields": {"IdName": "ResourceGroupKey"}}], "ownerItem": "Collection[RosterMaxConsecutiveWorkRule]", "dependencies": ["Collection[RelevanceGroup]", "RelevanceGroup Property[Name]"]}

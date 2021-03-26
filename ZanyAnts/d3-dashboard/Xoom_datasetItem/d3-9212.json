@@ -1,1 +1,0 @@
-{"itemId": "TechnicalHistory Index[Key]", "identities": [{"id": "TechnicalHistory Index[Key]", "type": "TechnicalHistory Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[TechnicalHistory]", "dependencies": ["TechnicalHistory Property[Key]"]}

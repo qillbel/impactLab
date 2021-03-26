@@ -1,1 +1,0 @@
-{"itemId": "W6WORKFLOW_AGENT_CRITERIA Property[AssignmentGroupFilter]", "identities": [{"id": "W6WORKFLOW_AGENT_CRITERIA Property[AssignmentGroupFilter]", "type": "W6WORKFLOW_AGENT_CRITERIA Property", "fields": {"IdName": "AssignmentGroupFilter"}}], "ownerItem": "Collection[WorkflowAgent]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

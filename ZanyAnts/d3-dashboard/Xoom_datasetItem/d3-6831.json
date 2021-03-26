@@ -1,1 +1,0 @@
-{"itemId": "RosterNARule Property[ShiftsGroupReference]", "identities": [{"id": "RosterNARule Property[ShiftsGroupReference]", "type": "RosterNARule Property", "fields": {"IdName": "ShiftsGroupReference"}}], "ownerItem": "Collection[RosterNARule]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

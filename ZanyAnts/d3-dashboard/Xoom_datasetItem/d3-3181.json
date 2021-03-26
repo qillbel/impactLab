@@ -1,1 +1,0 @@
-{"itemId": "DefaultDomains Property[Key]", "identities": [{"id": "DefaultDomains Property[Key]", "type": "DefaultDomains Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[DefaultDomains]", "dependencies": ["Collection[DefaultDomains]"]}

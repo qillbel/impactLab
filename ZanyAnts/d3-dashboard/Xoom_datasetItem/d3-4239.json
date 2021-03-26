@@ -1,1 +1,0 @@
-{"itemId": "Group[Dummy Task to Check If the Bundler Ran]", "identities": [{"id": "Group[Dummy Task to Check If the Bundler Ran]", "type": "Group", "fields": {"Name": "Dummy Task to Check If the Bundler Ran", "GroupType": "Task"}}], "dependencies": ["Collection[Task]", "Task Property[OpenDate]", "Task Property[Status]", "TaskStatus[Open]"]}

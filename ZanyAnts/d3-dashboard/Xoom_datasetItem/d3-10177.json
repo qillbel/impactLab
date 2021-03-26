@@ -1,1 +1,0 @@
-{"itemId": "W6UPD_BY_INTG_LOGICITEMS Property[TaskGroup]", "identities": [{"id": "W6UPD_BY_INTG_LOGICITEMS Property[TaskGroup]", "type": "W6UPD_BY_INTG_LOGICITEMS Property", "fields": {"IdName": "TaskGroup"}}], "ownerItem": "Collection[UpdatesThroughIntegration]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

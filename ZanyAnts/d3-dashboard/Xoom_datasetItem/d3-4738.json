@@ -1,1 +1,0 @@
-{"itemId": "MatchBonusBVF Index[Key]", "identities": [{"id": "MatchBonusBVF Index[Key]", "type": "MatchBonusBVF Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[MatchBonusBVF]", "dependencies": ["MatchBonusBVF Property[Key]"]}

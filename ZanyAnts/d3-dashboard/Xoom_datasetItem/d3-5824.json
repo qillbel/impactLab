@@ -1,1 +1,0 @@
-{"itemId": "RecurrenceTask Property[Key]", "identities": [{"id": "RecurrenceTask Property[Key]", "type": "RecurrenceTask Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[RecurrenceTask]", "dependencies": ["Collection[RecurrenceTask]", "RecurrenceTask Property[Name]"]}

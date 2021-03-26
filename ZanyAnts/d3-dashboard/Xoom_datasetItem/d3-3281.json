@@ -1,1 +1,0 @@
-{"itemId": "District[EWY Dist Kipling]", "identities": [{"id": "District[EWY Dist Kipling]", "type": "District", "fields": {"Name": "EWY Dist Kipling"}}], "dependencies": ["Country[CANADA]", "District[EWY Dist Kipling]", "Region[5 - Yorkton - Estevan - Weyburn]"]}

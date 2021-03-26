@@ -1,1 +1,0 @@
-{"itemId": "DynamicPrioritySetting Property[Key]", "identities": [{"id": "DynamicPrioritySetting Property[Key]", "type": "DynamicPrioritySetting Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[DynamicPrioritySetting]", "dependencies": ["Collection[DynamicPrioritySetting]"]}

@@ -1,1 +1,0 @@
-{"itemId": "StatusTransition[Dispatched|Scheduled|0]", "identities": [{"id": "StatusTransition[Dispatched|Scheduled|0]", "type": "StatusTransition", "fields": {"StatusBefore": "Dispatched", "StatusAfter": "Scheduled", "StatusContext": "0"}}], "dependencies": ["TaskStatus[Dispatched]", "TaskStatus[Scheduled]"]}

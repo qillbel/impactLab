@@ -1,1 +1,0 @@
-{"itemId": "Route[Rosetown]", "identities": [{"id": "Route[Rosetown]", "type": "Route", "fields": {"Name": "Rosetown"}}], "dependencies": ["BookingArea[REGN]", "Region[2 - Saskatoon]", "WC[Rosetown]"]}

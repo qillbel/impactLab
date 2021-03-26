@@ -1,1 +1,0 @@
-{"itemId": "SchedulingStage Index[SubCategory]", "identities": [{"id": "SchedulingStage Index[SubCategory]", "type": "SchedulingStage Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[SchedulingStage]", "dependencies": ["SchedulingStage Property[SubCategory]"]}

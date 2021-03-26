@@ -1,1 +1,0 @@
-{"itemId": "W6APP_MODULES Property[MobileItemType]", "identities": [{"id": "W6APP_MODULES Property[MobileItemType]", "type": "W6APP_MODULES Property", "fields": {"IdName": "MobileItemType"}}], "ownerItem": "Collection[App]", "dependencies": ["Collection[MobileAppType]", "MobileAppType Property[Name]"]}

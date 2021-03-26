@@ -1,1 +1,0 @@
-{"itemId": "Group[GB Capacity Excluded]", "identities": [{"id": "Group[GB Capacity Excluded]", "type": "Group", "fields": {"Name": "GB Capacity Excluded", "GroupType": "Engineer"}}], "dependencies": ["Collection[Engineer]", "Engineer Property[Active]"]}

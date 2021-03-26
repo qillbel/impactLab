@@ -1,1 +1,0 @@
-{"itemId": "MobileMessage Property[Task]", "identities": [{"id": "MobileMessage Property[Task]", "type": "MobileMessage Property", "fields": {"IdName": "Task"}}], "ownerItem": "Collection[MobileMessage]", "dependencies": ["Collection[Task]", "Task Property[CallID]"]}

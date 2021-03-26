@@ -1,1 +1,0 @@
-{"itemId": "RosterActionRequest Index[Key]", "identities": [{"id": "RosterActionRequest Index[Key]", "type": "RosterActionRequest Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[RosterActionRequest]", "dependencies": ["RosterActionRequest Property[Key]"]}

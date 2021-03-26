@@ -1,1 +1,0 @@
-{"itemId": "WC Property[RegionParent]", "identities": [{"id": "WC Property[RegionParent]", "type": "WC Property", "fields": {"IdName": "RegionParent"}}], "ownerItem": "Collection[WC]", "dependencies": ["Collection[Region]", "Region Property[Name]"]}

@@ -1,1 +1,0 @@
-{"itemId": "ClickMobileDictionariesFiltersSettings Index[Key]", "identities": [{"id": "ClickMobileDictionariesFiltersSettings Index[Key]", "type": "ClickMobileDictionariesFiltersSettings Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ClickMobileDictionariesFiltersSettings]", "dependencies": ["ClickMobileDictionariesFiltersSettings Property[Key]"]}

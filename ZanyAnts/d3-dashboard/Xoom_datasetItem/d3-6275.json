@@ -1,1 +1,0 @@
-{"itemId": "RosterCrewType Index[Key]", "identities": [{"id": "RosterCrewType Index[Key]", "type": "RosterCrewType Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[RosterCrewType]", "dependencies": ["RosterCrewType Property[Key]"]}

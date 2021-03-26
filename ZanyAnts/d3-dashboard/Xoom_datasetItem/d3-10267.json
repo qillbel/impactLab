@@ -1,1 +1,0 @@
-{"itemId": "WC Index[Name]", "identities": [{"id": "WC Index[Name]", "type": "WC Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[WC]", "dependencies": ["WC Property[Name]"]}

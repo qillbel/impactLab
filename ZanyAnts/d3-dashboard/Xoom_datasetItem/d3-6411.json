@@ -1,1 +1,0 @@
-{"itemId": "RosterExtendedMatchRule Property[AvailabilityTypes]", "identities": [{"id": "RosterExtendedMatchRule Property[AvailabilityTypes]", "type": "RosterExtendedMatchRule Property", "fields": {"IdName": "AvailabilityTypes"}}], "ownerItem": "Collection[RosterExtendedMatchRule]", "dependencies": ["AvailabilityType Property[Name]", "Collection[AvailabilityType]"]}

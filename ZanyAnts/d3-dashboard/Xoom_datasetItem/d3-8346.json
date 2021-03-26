@@ -1,1 +1,0 @@
-{"itemId": "Skill[GPON Fibre Bus Assessment]", "identities": [{"id": "Skill[GPON Fibre Bus Assessment]", "type": "Skill", "fields": {"Name": "GPON Fibre Bus Assessment"}}], "dependencies": ["ServiceType[Bus]"]}

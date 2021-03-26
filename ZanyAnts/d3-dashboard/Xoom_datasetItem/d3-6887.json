@@ -1,1 +1,0 @@
-{"itemId": "RosterResourceAllocation Property[Key]", "identities": [{"id": "RosterResourceAllocation Property[Key]", "type": "RosterResourceAllocation Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[RosterResourceAllocation]", "dependencies": ["Collection[RosterResourceAllocation]"]}

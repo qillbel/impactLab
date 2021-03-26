@@ -1,1 +1,0 @@
-{"itemId": "IntegrationLock Index[Name]", "identities": [{"id": "IntegrationLock Index[Name]", "type": "IntegrationLock Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[IntegrationLock]", "dependencies": ["IntegrationLock Property[Name]"]}

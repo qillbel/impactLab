@@ -1,1 +1,0 @@
-{"itemId": "AuditRosterShift Property[RosterFinishTime]", "identities": [{"id": "AuditRosterShift Property[RosterFinishTime]", "type": "AuditRosterShift Property", "fields": {"IdName": "RosterFinishTime"}}], "ownerItem": "Collection[AuditRosterShift]"}

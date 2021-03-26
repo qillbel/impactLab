@@ -1,1 +1,0 @@
-{"itemId": "W6CONTRACTS_INFO_RESTRICTIONS Property[AvailabilityType]", "identities": [{"id": "W6CONTRACTS_INFO_RESTRICTIONS Property[AvailabilityType]", "type": "W6CONTRACTS_INFO_RESTRICTIONS Property", "fields": {"IdName": "AvailabilityType"}}], "ownerItem": "Collection[ContractInfo]", "dependencies": ["AvailabilityType Property[Name]", "Collection[AvailabilityType]"]}

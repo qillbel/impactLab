@@ -1,1 +1,0 @@
-{"itemId": "W6BGO_STEPS Property[AllowUnscheduleTasksGroup]", "identities": [{"id": "W6BGO_STEPS Property[AllowUnscheduleTasksGroup]", "type": "W6BGO_STEPS Property", "fields": {"IdName": "AllowUnscheduleTasksGroup"}}], "ownerItem": "Collection[BackgroundOptimization]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

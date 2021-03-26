@@ -1,1 +1,0 @@
-{"itemId": "RosterFairnessObjective Property[ResourcesGroupReference]", "identities": [{"id": "RosterFairnessObjective Property[ResourcesGroupReference]", "type": "RosterFairnessObjective Property", "fields": {"IdName": "ResourcesGroupReference"}}], "ownerItem": "Collection[RosterFairnessObjective]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

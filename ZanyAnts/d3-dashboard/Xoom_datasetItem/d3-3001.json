@@ -1,1 +1,0 @@
-{"itemId": "CoWLocations Property[LimitedAreaKeys]", "identities": [{"id": "CoWLocations Property[LimitedAreaKeys]", "type": "CoWLocations Property", "fields": {"IdName": "LimitedAreaKeys"}}], "ownerItem": "Collection[CoWLocations]", "dependencies": ["Collection[GeographicalBoundary]", "GeographicalBoundary Property[Name]"]}

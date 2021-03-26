@@ -1,1 +1,0 @@
-{"itemId": "Group[RRA2]", "identities": [{"id": "Group[RRA2]", "type": "Group", "fields": {"Name": "RRA2", "GroupType": "RosterResourceAllocation"}}], "dependencies": ["Collection[RosterResourceAllocation]", "RosterResourceAllocation Property[AllocationType]"]}

@@ -1,1 +1,0 @@
-{"itemId": "RosterGetCandidatesPolicies Index[SubCategory]", "identities": [{"id": "RosterGetCandidatesPolicies Index[SubCategory]", "type": "RosterGetCandidatesPolicies Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[RosterGetCandidatesPolicies]", "dependencies": ["RosterGetCandidatesPolicies Property[SubCategory]"]}

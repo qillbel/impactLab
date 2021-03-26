@@ -1,1 +1,0 @@
-{"itemId": "District Property[AdjacentDistricts]", "identities": [{"id": "District Property[AdjacentDistricts]", "type": "District Property", "fields": {"IdName": "AdjacentDistricts"}}], "ownerItem": "Collection[District]", "dependencies": ["Collection[DisplayStatus]", "DisplayStatus Property[Name]"]}

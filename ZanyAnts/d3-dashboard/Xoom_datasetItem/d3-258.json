@@ -1,1 +1,0 @@
-{"itemId": "App Index[Key]", "identities": [{"id": "App Index[Key]", "type": "App Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[App]", "dependencies": ["App Property[Key]"]}

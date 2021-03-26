@@ -1,1 +1,0 @@
-{"itemId": "AllowUpdateOfPinnedAssignments Property[Key]", "identities": [{"id": "AllowUpdateOfPinnedAssignments Property[Key]", "type": "AllowUpdateOfPinnedAssignments Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[AllowUpdateOfPinnedAssignments]", "dependencies": ["Collection[AllowUpdateOfPinnedAssignments]"]}

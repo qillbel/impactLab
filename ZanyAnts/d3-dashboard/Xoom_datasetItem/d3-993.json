@@ -1,1 +1,0 @@
-{"itemId": "ButlerActionType Property[ApplicableTriggerTypes]", "identities": [{"id": "ButlerActionType Property[ApplicableTriggerTypes]", "type": "ButlerActionType Property", "fields": {"IdName": "ApplicableTriggerTypes"}}], "ownerItem": "Collection[ButlerActionType]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

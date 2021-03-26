@@ -1,1 +1,0 @@
-{"itemId": "ClickMobileClassicUserSettings Index[Owner]", "identities": [{"id": "ClickMobileClassicUserSettings Index[Owner]", "type": "ClickMobileClassicUserSettings Index", "fields": {"IdName": "Owner"}}], "ownerItem": "Collection[ClickMobileClassicUserSettings]", "dependencies": ["ClickMobileClassicUserSettings Property[Owner]"]}

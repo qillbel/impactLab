@@ -1,1 +1,0 @@
-{"itemId": "Rule[Roster Location Rule]", "identities": [{"id": "Rule[Roster Location Rule]", "type": "Rule", "fields": {"Name": "Roster Location Rule", "ProgID": "W6RosterObjectModel.W6RosterLocationRule, W6RosterObjectModel"}}], "dependencies": ["Collection[Engineer]"]}

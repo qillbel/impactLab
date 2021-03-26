@@ -1,1 +1,0 @@
-{"itemId": "RosterGetCandidatesPolicies Property[ResourcesGroupReference]", "identities": [{"id": "RosterGetCandidatesPolicies Property[ResourcesGroupReference]", "type": "RosterGetCandidatesPolicies Property", "fields": {"IdName": "ResourcesGroupReference"}}], "ownerItem": "Collection[RosterGetCandidatesPolicies]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

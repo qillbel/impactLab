@@ -1,1 +1,0 @@
-{"itemId": "Skill[Air Pressure LC]", "identities": [{"id": "Skill[Air Pressure LC]", "type": "Skill", "fields": {"Name": "Air Pressure LC"}}], "dependencies": ["ServiceType[Con]"]}

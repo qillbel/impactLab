@@ -1,1 +1,0 @@
-{"itemId": "W6APP_PREREQUISITES Property[RequiredApp]", "identities": [{"id": "W6APP_PREREQUISITES Property[RequiredApp]", "type": "W6APP_PREREQUISITES Property", "fields": {"IdName": "RequiredApp"}}], "ownerItem": "Collection[App]", "dependencies": ["App Property[Name]", "Collection[App]"]}

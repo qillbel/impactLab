@@ -1,1 +1,0 @@
-{"itemId": "W6BUNDLEDITEM_PROBLEMKEYWORDS Property[Keyword]", "identities": [{"id": "W6BUNDLEDITEM_PROBLEMKEYWORDS Property[Keyword]", "type": "W6BUNDLEDITEM_PROBLEMKEYWORDS Property", "fields": {"IdName": "Keyword"}}], "ownerItem": "Collection[BundledItem]", "dependencies": ["Collection[ProblemKeyword]", "ProblemKeyword Property[Name]"]}

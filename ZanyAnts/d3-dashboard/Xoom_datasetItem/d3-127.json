@@ -1,1 +1,0 @@
-{"itemId": "Agent Instance[Closed Date Agent]", "identities": [{"id": "Agent Instance[Closed Date Agent]", "type": "Agent Instance", "fields": {"Name": "Closed Date Agent"}}], "ownerItem": "Setting[[Application]|Agents|AgentsManager|]", "dependencies": ["Agent[Workflow Agent|Closed Date Agent]", "Server[SWS00719]"]}

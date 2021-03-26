@@ -1,1 +1,0 @@
-{"itemId": "StatusTransition[Travel|Travel|6]", "identities": [{"id": "StatusTransition[Travel|Travel|6]", "type": "StatusTransition", "fields": {"StatusBefore": "Travel", "StatusAfter": "Travel", "StatusContext": "6"}}], "dependencies": ["TaskStatus[Travel]"]}

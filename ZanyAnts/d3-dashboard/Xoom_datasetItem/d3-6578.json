@@ -1,1 +1,0 @@
-{"itemId": "RosterMatchLocationRule Index[Key]", "identities": [{"id": "RosterMatchLocationRule Index[Key]", "type": "RosterMatchLocationRule Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[RosterMatchLocationRule]", "dependencies": ["RosterMatchLocationRule Property[Key]"]}

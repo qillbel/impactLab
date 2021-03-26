@@ -1,1 +1,0 @@
-{"itemId": "RosterMinRollingRestTimeRule Property[Key]", "identities": [{"id": "RosterMinRollingRestTimeRule Property[Key]", "type": "RosterMinRollingRestTimeRule Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[RosterMinRollingRestTimeRule]", "dependencies": ["Collection[RosterMinRollingRestTimeRule]", "RosterMinRollingRestTimeRule Property[Name]"]}

@@ -1,1 +1,0 @@
-{"itemId": "StandardSetting Index[Key]", "identities": [{"id": "StandardSetting Index[Key]", "type": "StandardSetting Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[StandardSetting]", "dependencies": ["StandardSetting Property[Key]"]}

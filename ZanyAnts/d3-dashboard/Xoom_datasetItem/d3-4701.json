@@ -1,1 +1,0 @@
-{"itemId": "LunchBreakException Index[AssignmentIncludingBreakKey]", "identities": [{"id": "LunchBreakException Index[AssignmentIncludingBreakKey]", "type": "LunchBreakException Index", "fields": {"IdName": "AssignmentIncludingBreakKey"}}], "ownerItem": "Collection[LunchBreakException]", "dependencies": ["LunchBreakException Property[AssignmentIncludingBreakKey]"]}

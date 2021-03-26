@@ -1,1 +1,0 @@
-{"itemId": "TimeAllocation Index[CallID,CallIDNumber]", "identities": [{"id": "TimeAllocation Index[CallID,CallIDNumber]", "type": "TimeAllocation Index", "fields": {"IdName": "CallID,CallIDNumber"}}], "ownerItem": "Collection[TimeAllocation]", "dependencies": ["TimeAllocation Property[CallID]", "TimeAllocation Property[CallIDNumber]"]}

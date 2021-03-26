@@ -1,1 +1,0 @@
-{"itemId": "Group[_Shift - Payphones]", "identities": [{"id": "Group[_Shift - Payphones]", "type": "Group", "fields": {"Name": "_Shift - Payphones", "GroupType": "Task"}}], "dependencies": ["Collection[Task]", "Task Property[TaskType]", "TaskType[CC]", "TaskType[PPT]"]}

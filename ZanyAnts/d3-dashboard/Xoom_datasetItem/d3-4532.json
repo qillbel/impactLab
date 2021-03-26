@@ -1,1 +1,0 @@
-{"itemId": "IntegrationPollingThreadStep Index[Name]", "identities": [{"id": "IntegrationPollingThreadStep Index[Name]", "type": "IntegrationPollingThreadStep Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[IntegrationPollingThreadStep]", "dependencies": ["IntegrationPollingThreadStep Property[Name]"]}

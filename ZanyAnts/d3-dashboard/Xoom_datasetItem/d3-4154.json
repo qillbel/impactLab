@@ -1,1 +1,0 @@
-{"itemId": "Group[500 Min]", "identities": [{"id": "Group[500 Min]", "type": "Group", "fields": {"Name": "500 Min", "GroupType": "Task"}}], "dependencies": ["Collection[Task]", "Region[3 - Prince Albert]", "Task Property[Duration]", "Task Property[IsMegatask]", "Task Property[Region]", "Task Property[Status]", "TaskStatus[Open]"]}

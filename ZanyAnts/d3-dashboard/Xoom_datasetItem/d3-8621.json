@@ -1,1 +1,0 @@
-{"itemId": "StatusTransition[Incomplete|Incomplete|4]", "identities": [{"id": "StatusTransition[Incomplete|Incomplete|4]", "type": "StatusTransition", "fields": {"StatusBefore": "Incomplete", "StatusAfter": "Incomplete", "StatusContext": "4"}}], "dependencies": ["TaskStatus[Incomplete]"]}

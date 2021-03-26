@@ -1,1 +1,0 @@
-{"itemId": "MarkIncorrectlyStaffedCrew Property[LogicDomain]", "identities": [{"id": "MarkIncorrectlyStaffedCrew Property[LogicDomain]", "type": "MarkIncorrectlyStaffedCrew Property", "fields": {"IdName": "LogicDomain"}}], "ownerItem": "Collection[MarkIncorrectlyStaffedCrew]", "dependencies": ["Collection[LogicDomainSetting]", "LogicDomainSetting Property[SubCategory]"]}

@@ -1,1 +1,0 @@
-{"itemId": "AssetCategory Index[Key]", "identities": [{"id": "AssetCategory Index[Key]", "type": "AssetCategory Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[AssetCategory]", "dependencies": ["AssetCategory Property[Key]"]}

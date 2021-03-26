@@ -1,1 +1,0 @@
-{"itemId": "BackReporting Property[CatalogProfile]", "identities": [{"id": "BackReporting Property[CatalogProfile]", "type": "BackReporting Property", "fields": {"IdName": "CatalogProfile"}}], "ownerItem": "Collection[BackReporting]", "dependencies": ["CatalogProfile Property[Name]", "Collection[CatalogProfile]"]}

@@ -1,1 +1,0 @@
-{"itemId": "CoWLocations Property[Key]", "identities": [{"id": "CoWLocations Property[Key]", "type": "CoWLocations Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[CoWLocations]", "dependencies": ["Collection[CoWLocations]", "CoWLocations Property[Name]"]}

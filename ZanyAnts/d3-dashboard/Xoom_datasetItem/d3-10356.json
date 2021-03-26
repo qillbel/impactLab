@@ -1,1 +1,0 @@
-{"itemId": "WorkOrderItem Property[WorkOrderItemNumber]", "identities": [{"id": "WorkOrderItem Property[WorkOrderItemNumber]", "type": "WorkOrderItem Property", "fields": {"IdName": "WorkOrderItemNumber"}}], "ownerItem": "Collection[WorkOrderItem]"}

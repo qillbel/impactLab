@@ -1,1 +1,0 @@
-{"itemId": "ActivityNonAvailabilityType Property[Key]", "identities": [{"id": "ActivityNonAvailabilityType Property[Key]", "type": "ActivityNonAvailabilityType Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ActivityNonAvailabilityType]", "dependencies": ["ActivityNonAvailabilityType Property[Name]", "Collection[ActivityNonAvailabilityType]"]}

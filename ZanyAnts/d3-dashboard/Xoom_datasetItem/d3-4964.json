@@ -1,1 +1,0 @@
-{"itemId": "MobileData Index[Key]", "identities": [{"id": "MobileData Index[Key]", "type": "MobileData Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[MobileData]", "dependencies": ["MobileData Property[Key]"]}

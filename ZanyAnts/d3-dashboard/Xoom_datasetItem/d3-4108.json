@@ -1,1 +1,0 @@
-{"itemId": "GISPreset Index[Key]", "identities": [{"id": "GISPreset Index[Key]", "type": "GISPreset Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[GISPreset]", "dependencies": ["GISPreset Property[Key]"]}

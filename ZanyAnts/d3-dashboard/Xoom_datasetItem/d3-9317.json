@@ -1,1 +1,0 @@
-{"itemId": "TimeZoneIdentifiers Property[Key]", "identities": [{"id": "TimeZoneIdentifiers Property[Key]", "type": "TimeZoneIdentifiers Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[TimeZoneIdentifiers]", "dependencies": ["Collection[TimeZoneIdentifiers]", "TimeZoneIdentifiers Property[Name]"]}

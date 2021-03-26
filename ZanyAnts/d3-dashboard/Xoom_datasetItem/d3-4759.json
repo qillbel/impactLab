@@ -1,1 +1,0 @@
-{"itemId": "MatchConstRule Index[Name]", "identities": [{"id": "MatchConstRule Index[Name]", "type": "MatchConstRule Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[MatchConstRule]", "dependencies": ["MatchConstRule Property[Name]"]}

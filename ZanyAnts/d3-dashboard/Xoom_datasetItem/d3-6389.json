@@ -1,1 +1,0 @@
-{"itemId": "RosterDemandType Property[Region]", "identities": [{"id": "RosterDemandType Property[Region]", "type": "RosterDemandType Property", "fields": {"IdName": "Region"}}], "ownerItem": "Collection[RosterDemandType]", "dependencies": ["Collection[Region]", "Region Property[Name]"]}

@@ -1,1 +1,0 @@
-{"itemId": "W6SERVICE_NOTIFICATIONS_DESTS Property[District]", "identities": [{"id": "W6SERVICE_NOTIFICATIONS_DESTS Property[District]", "type": "W6SERVICE_NOTIFICATIONS_DESTS Property", "fields": {"IdName": "District"}}], "ownerItem": "Collection[ServiceNotification]", "dependencies": ["Collection[District]", "District Property[Name]"]}

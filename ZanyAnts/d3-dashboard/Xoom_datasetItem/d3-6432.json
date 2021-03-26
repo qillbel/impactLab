@@ -1,1 +1,0 @@
-{"itemId": "RosterFairnessObjective Index[Name]", "identities": [{"id": "RosterFairnessObjective Index[Name]", "type": "RosterFairnessObjective Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[RosterFairnessObjective]", "dependencies": ["RosterFairnessObjective Property[Name]"]}

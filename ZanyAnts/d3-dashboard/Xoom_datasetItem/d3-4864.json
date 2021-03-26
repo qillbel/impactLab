@@ -1,1 +1,0 @@
-{"itemId": "MeasurementPointType Property[Category]", "identities": [{"id": "MeasurementPointType Property[Category]", "type": "MeasurementPointType Property", "fields": {"IdName": "Category"}}], "ownerItem": "Collection[MeasurementPointType]", "dependencies": ["Collection[MeasurementPointCategory]", "MeasurementPointCategory Property[Name]"]}

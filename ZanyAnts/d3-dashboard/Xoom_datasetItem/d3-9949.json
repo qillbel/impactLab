@@ -1,1 +1,0 @@
-{"itemId": "W6OPERATIONAL_POSITIONS_SKILLS Property[SkillKey]", "identities": [{"id": "W6OPERATIONAL_POSITIONS_SKILLS Property[SkillKey]", "type": "W6OPERATIONAL_POSITIONS_SKILLS Property", "fields": {"IdName": "SkillKey"}}], "ownerItem": "Collection[OperationalPosition]", "dependencies": ["Collection[Skill]", "Skill Property[Name]"]}

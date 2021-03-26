@@ -1,1 +1,0 @@
-{"itemId": "MultiDayTaskGroup Index[SubCategory]", "identities": [{"id": "MultiDayTaskGroup Index[SubCategory]", "type": "MultiDayTaskGroup Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[MultiDayTaskGroup]", "dependencies": ["MultiDayTaskGroup Property[SubCategory]"]}

@@ -1,1 +1,0 @@
-{"itemId": "ShiftTemplate Property[Team]", "identities": [{"id": "ShiftTemplate Property[Team]", "type": "ShiftTemplate Property", "fields": {"IdName": "Team"}}], "ownerItem": "Collection[ShiftTemplate]", "dependencies": ["Collection[Team]", "Team Property[Name]"]}

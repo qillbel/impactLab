@@ -1,1 +1,0 @@
-{"itemId": "PlanComment Property[Key]", "identities": [{"id": "PlanComment Property[Key]", "type": "PlanComment Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[PlanComment]", "dependencies": ["Collection[PlanComment]", "PlanComment Property[Name]"]}

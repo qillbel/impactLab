@@ -1,1 +1,0 @@
-{"itemId": "W6SO_VACATION_CALS_COUNTS Property[VacationCountName]", "identities": [{"id": "W6SO_VACATION_CALS_COUNTS Property[VacationCountName]", "type": "W6SO_VACATION_CALS_COUNTS Property", "fields": {"IdName": "VacationCountName"}}], "ownerItem": "Collection[VacationCalendar]", "dependencies": ["Collection[VacationCount]", "VacationCount Property[Name]"]}

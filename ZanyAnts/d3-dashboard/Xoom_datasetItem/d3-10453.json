@@ -1,1 +1,0 @@
-{"itemId": "ZLookupSkillTranslation Property[EngineerType]", "identities": [{"id": "ZLookupSkillTranslation Property[EngineerType]", "type": "ZLookupSkillTranslation Property", "fields": {"IdName": "EngineerType"}}], "ownerItem": "Collection[ZLookupSkillTranslation]", "dependencies": ["Collection[EngineerType]", "EngineerType Property[Name]"]}

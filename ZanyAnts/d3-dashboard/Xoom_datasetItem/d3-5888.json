@@ -1,1 +1,0 @@
-{"itemId": "RelevanceGroup[Contractors]", "identities": [{"id": "RelevanceGroup[Contractors]", "type": "RelevanceGroup", "fields": {"Name": "Contractors"}}], "dependencies": ["Group[Contractors]"]}

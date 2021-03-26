@@ -1,1 +1,0 @@
-{"itemId": "RosterActionRequest Property[TargetResource]", "identities": [{"id": "RosterActionRequest Property[TargetResource]", "type": "RosterActionRequest Property", "fields": {"IdName": "TargetResource"}}], "ownerItem": "Collection[RosterActionRequest]", "dependencies": ["Collection[Engineer]", "Engineer Property[Name]"]}

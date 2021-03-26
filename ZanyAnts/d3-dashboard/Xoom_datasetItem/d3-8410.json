@@ -1,1 +1,0 @@
-{"itemId": "SkillsObjective Index[Name]", "identities": [{"id": "SkillsObjective Index[Name]", "type": "SkillsObjective Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[SkillsObjective]", "dependencies": ["SkillsObjective Property[Name]"]}

@@ -1,1 +1,0 @@
-{"itemId": "OperationalPosition Index[RelatedActivity]", "identities": [{"id": "OperationalPosition Index[RelatedActivity]", "type": "OperationalPosition Index", "fields": {"IdName": "RelatedActivity"}}], "ownerItem": "Collection[OperationalPosition]", "dependencies": ["OperationalPosition Property[RelatedActivity]"]}

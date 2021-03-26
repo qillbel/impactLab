@@ -1,1 +1,0 @@
-{"itemId": "RosterDemand Index[Region,District,StartTime]", "identities": [{"id": "RosterDemand Index[Region,District,StartTime]", "type": "RosterDemand Index", "fields": {"IdName": "Region,District,StartTime"}}], "ownerItem": "Collection[RosterDemand]", "dependencies": ["RosterDemand Property[District]", "RosterDemand Property[Region]", "RosterDemand Property[StartTime]"]}

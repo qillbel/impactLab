@@ -1,1 +1,0 @@
-{"itemId": "StatusFlow[Bundled Item Status Flow]", "identities": [{"id": "StatusFlow[Bundled Item Status Flow]", "type": "StatusFlow", "fields": {"Name": "Bundled Item Status Flow"}}], "dependencies": ["BundledItem Property[Status]", "Collection[BundledItem]"]}

@@ -1,1 +1,0 @@
-{"itemId": "Engineer Property[RestrictWork]", "identities": [{"id": "Engineer Property[RestrictWork]", "type": "Engineer Property", "fields": {"IdName": "RestrictWork"}}], "ownerItem": "Collection[Engineer]", "dependencies": ["Collection[TaskTypeCategory]", "TaskTypeCategory Property[Name]"]}

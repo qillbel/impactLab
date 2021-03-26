@@ -1,1 +1,0 @@
-{"itemId": "W6TASKS_TIMEALLOCATIONS Property[TimeAllocation]", "identities": [{"id": "W6TASKS_TIMEALLOCATIONS Property[TimeAllocation]", "type": "W6TASKS_TIMEALLOCATIONS Property", "fields": {"IdName": "TimeAllocation"}}], "ownerItem": "Collection[Task]", "dependencies": ["Collection[TimeAllocation]", "TimeAllocation Property[TimeAllocationKey]"]}

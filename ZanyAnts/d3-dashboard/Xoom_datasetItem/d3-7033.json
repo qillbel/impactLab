@@ -1,1 +1,0 @@
-{"itemId": "RosterShift Property[OperationalPositions]", "identities": [{"id": "RosterShift Property[OperationalPositions]", "type": "RosterShift Property", "fields": {"IdName": "OperationalPositions"}}], "ownerItem": "Collection[RosterShift]", "dependencies": ["Collection[OperationalPosition]", "OperationalPosition Property[Name]"]}

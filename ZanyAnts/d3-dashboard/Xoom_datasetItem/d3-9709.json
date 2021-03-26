@@ -1,1 +1,0 @@
-{"itemId": "W6AB_PRMS_PARTITIONS Property[LogicDomainForDble]", "identities": [{"id": "W6AB_PRMS_PARTITIONS Property[LogicDomainForDble]", "type": "W6AB_PRMS_PARTITIONS Property", "fields": {"IdName": "LogicDomainForDble"}}], "ownerItem": "Collection[AppointmentBookingParameters]", "dependencies": ["Collection[LogicDomainSetting]", "LogicDomainSetting Property[SubCategory]"]}

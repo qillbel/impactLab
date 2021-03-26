@@ -1,1 +1,0 @@
-{"itemId": "CenterLog Index[Key]", "identities": [{"id": "CenterLog Index[Key]", "type": "CenterLog Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[CenterLog]", "dependencies": ["CenterLog Property[Key]"]}

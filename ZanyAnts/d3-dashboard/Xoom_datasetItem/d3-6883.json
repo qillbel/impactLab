@@ -1,1 +1,0 @@
-{"itemId": "RosterResourceAllocation Property[DestinationResource]", "identities": [{"id": "RosterResourceAllocation Property[DestinationResource]", "type": "RosterResourceAllocation Property", "fields": {"IdName": "DestinationResource"}}], "ownerItem": "Collection[RosterResourceAllocation]", "dependencies": ["Collection[Engineer]", "Engineer Property[Name]"]}

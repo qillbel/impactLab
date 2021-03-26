@@ -1,1 +1,0 @@
-{"itemId": "PartOrderStatus Index[Key]", "identities": [{"id": "PartOrderStatus Index[Key]", "type": "PartOrderStatus Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[PartOrderStatus]", "dependencies": ["PartOrderStatus Property[Key]"]}

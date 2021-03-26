@@ -1,1 +1,0 @@
-{"itemId": "Task Property[CustomerAccount]", "identities": [{"id": "Task Property[CustomerAccount]", "type": "Task Property", "fields": {"IdName": "CustomerAccount"}}], "ownerItem": "Collection[Task]", "dependencies": ["Collection[CustomerAccount]", "CustomerAccount Property[Name]"]}

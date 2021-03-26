@@ -1,1 +1,0 @@
-{"itemId": "CapacityReservationSettings Index[Key]", "identities": [{"id": "CapacityReservationSettings Index[Key]", "type": "CapacityReservationSettings Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[CapacityReservationSettings]", "dependencies": ["CapacityReservationSettings Property[Key]"]}

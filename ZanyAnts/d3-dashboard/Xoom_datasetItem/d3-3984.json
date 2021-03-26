@@ -1,1 +1,0 @@
-{"itemId": "GenericEventDefinition[[Engineer] OnDelete - Abort if Relocated Tech]", "identities": [{"id": "GenericEventDefinition[[Engineer] OnDelete - Abort if Relocated Tech]", "type": "GenericEventDefinition", "fields": {"Name": "[Engineer] OnDelete - Abort if Relocated Tech"}}], "dependencies": ["Action Type[Abort]", "Collection[Engineer]", "Group[Relocated Techs]"]}

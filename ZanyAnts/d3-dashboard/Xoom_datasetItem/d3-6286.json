@@ -1,1 +1,0 @@
-{"itemId": "RosterDateTimeType Index[DateTimeTypeMode,Offset]", "identities": [{"id": "RosterDateTimeType Index[DateTimeTypeMode,Offset]", "type": "RosterDateTimeType Index", "fields": {"IdName": "DateTimeTypeMode,Offset"}}], "ownerItem": "Collection[RosterDateTimeType]", "dependencies": ["RosterDateTimeType Property[DateTimeTypeMode]", "RosterDateTimeType Property[Offset]"]}

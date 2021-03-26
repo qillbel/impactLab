@@ -1,1 +1,0 @@
-{"itemId": "UpdatesThroughIntegration Property[Key]", "identities": [{"id": "UpdatesThroughIntegration Property[Key]", "type": "UpdatesThroughIntegration Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[UpdatesThroughIntegration]", "dependencies": ["Collection[UpdatesThroughIntegration]"]}

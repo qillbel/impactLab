@@ -1,1 +1,0 @@
-{"itemId": "Plan Index[TimeResolution]", "identities": [{"id": "Plan Index[TimeResolution]", "type": "Plan Index", "fields": {"IdName": "TimeResolution"}}], "ownerItem": "Collection[Plan]", "dependencies": ["Plan Property[TimeResolution]"]}

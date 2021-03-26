@@ -1,1 +1,0 @@
-{"itemId": "StatusTransition[On Site|End of Day MDT|0]", "identities": [{"id": "StatusTransition[On Site|End of Day MDT|0]", "type": "StatusTransition", "fields": {"StatusBefore": "On Site", "StatusAfter": "End of Day MDT", "StatusContext": "0"}}], "dependencies": ["TaskStatus[End of Day MDT]", "TaskStatus[On Site]"]}

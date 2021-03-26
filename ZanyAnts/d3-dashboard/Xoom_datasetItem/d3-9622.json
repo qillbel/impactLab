@@ -1,1 +1,0 @@
-{"itemId": "VacationCalendarSetting Property[RemainingAllotment]", "identities": [{"id": "VacationCalendarSetting Property[RemainingAllotment]", "type": "VacationCalendarSetting Property", "fields": {"IdName": "RemainingAllotment"}}], "ownerItem": "Collection[VacationCalendarSetting]", "dependencies": ["Collection[VacationCount]", "VacationCount Property[Name]"]}

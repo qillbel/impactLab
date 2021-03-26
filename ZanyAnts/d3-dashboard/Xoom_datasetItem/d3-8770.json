@@ -1,1 +1,0 @@
-{"itemId": "Task Index[Region,District]", "identities": [{"id": "Task Index[Region,District]", "type": "Task Index", "fields": {"IdName": "Region,District"}}], "ownerItem": "Collection[Task]", "dependencies": ["Task Property[District]", "Task Property[Region]"]}

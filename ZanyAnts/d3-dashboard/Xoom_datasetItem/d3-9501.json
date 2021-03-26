@@ -1,1 +1,0 @@
-{"itemId": "User_BundlerPolicy Property[Key]", "identities": [{"id": "User_BundlerPolicy Property[Key]", "type": "User_BundlerPolicy Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[User_BundlerPolicy]", "dependencies": ["Collection[User_BundlerPolicy]", "User_BundlerPolicy Property[Name]"]}

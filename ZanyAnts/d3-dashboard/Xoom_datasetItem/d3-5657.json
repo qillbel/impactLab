@@ -1,1 +1,0 @@
-{"itemId": "Polling Index[Name,Stamp.CreatedBy]", "identities": [{"id": "Polling Index[Name,Stamp.CreatedBy]", "type": "Polling Index", "fields": {"IdName": "Name,Stamp.CreatedBy"}}], "ownerItem": "Collection[Polling]", "dependencies": ["Polling Property[Name]", "Polling Property[Stamp]", "Polling.W6POLLING_STAMP Property[CreatedBy]"]}

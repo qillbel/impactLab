@@ -1,1 +1,0 @@
-{"itemId": "Metric[Jeopardy Tasks]", "identities": [{"id": "Metric[Jeopardy Tasks]", "type": "Metric", "fields": {"Name": "Jeopardy Tasks", "LogicProgID": "W6Metrics.W6DemandCounter,W6Metrics"}}], "dependencies": ["Group[Metrics In Jeopardy]"]}

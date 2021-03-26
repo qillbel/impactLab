@@ -1,1 +1,0 @@
-{"itemId": "PlanAction Index[Stamp.CreatedBy,Context]", "identities": [{"id": "PlanAction Index[Stamp.CreatedBy,Context]", "type": "PlanAction Index", "fields": {"IdName": "Stamp.CreatedBy,Context"}}], "ownerItem": "Collection[PlanAction]", "dependencies": ["PlanAction Property[Context]", "PlanAction Property[Stamp]", "PlanAction.W6PLAN_ACTION_STAMP Property[CreatedBy]"]}

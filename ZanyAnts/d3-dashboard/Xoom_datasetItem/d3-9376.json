@@ -1,1 +1,0 @@
-{"itemId": "TravelCostBVF Property[RelevanceGroup]", "identities": [{"id": "TravelCostBVF Property[RelevanceGroup]", "type": "TravelCostBVF Property", "fields": {"IdName": "RelevanceGroup"}}], "ownerItem": "Collection[TravelCostBVF]", "dependencies": ["Collection[RelevanceGroup]", "RelevanceGroup Property[Name]"]}

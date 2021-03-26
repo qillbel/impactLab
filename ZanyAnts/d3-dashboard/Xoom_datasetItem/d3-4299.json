@@ -1,1 +1,0 @@
-{"itemId": "Group[Multi Day Assignments]", "identities": [{"id": "Group[Multi Day Assignments]", "type": "Group", "fields": {"Name": "Multi Day Assignments", "GroupType": "Assignment"}}], "dependencies": ["Assignment Property[Task]", "Collection[Assignment]", "Task Property[IsMDT]"]}

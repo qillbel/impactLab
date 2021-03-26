@@ -1,1 +1,0 @@
-{"itemId": "UserSetting Index[Category]", "identities": [{"id": "UserSetting Index[Category]", "type": "UserSetting Index", "fields": {"IdName": "Category"}}], "ownerItem": "Collection[UserSetting]", "dependencies": ["UserSetting Property[Category]"]}

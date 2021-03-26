@@ -1,1 +1,0 @@
-{"itemId": "StatusFlow[Default ShiftStatus to Draft]", "identities": [{"id": "StatusFlow[Default ShiftStatus to Draft]", "type": "StatusFlow", "fields": {"Name": "Default ShiftStatus to Draft"}}], "dependencies": ["Collection[RosterShift]", "RosterShift Property[ShiftStatus]"]}

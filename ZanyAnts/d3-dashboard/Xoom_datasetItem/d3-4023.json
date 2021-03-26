@@ -1,1 +1,0 @@
-{"itemId": "GenericEventDefinition[Recurring Tasks Update Event]", "identities": [{"id": "GenericEventDefinition[Recurring Tasks Update Event]", "type": "GenericEventDefinition", "fields": {"Name": "Recurring Tasks Update Event"}}], "dependencies": ["Action Type[RecurringTasksEvent]", "Collection[Task]"]}

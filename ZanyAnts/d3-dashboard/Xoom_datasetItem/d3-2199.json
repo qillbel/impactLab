@@ -1,1 +1,0 @@
-{"itemId": "CenterOfWorkRule Property[RelevanceGroup]", "identities": [{"id": "CenterOfWorkRule Property[RelevanceGroup]", "type": "CenterOfWorkRule Property", "fields": {"IdName": "RelevanceGroup"}}], "ownerItem": "Collection[CenterOfWorkRule]", "dependencies": ["Collection[RelevanceGroup]", "RelevanceGroup Property[Name]"]}

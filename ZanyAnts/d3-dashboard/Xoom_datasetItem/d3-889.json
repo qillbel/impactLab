@@ -1,1 +1,0 @@
-{"itemId": "BundlerConfiguration Property[ParentArea]", "identities": [{"id": "BundlerConfiguration Property[ParentArea]", "type": "BundlerConfiguration Property", "fields": {"IdName": "ParentArea"}}], "ownerItem": "Collection[BundlerConfiguration]", "dependencies": ["Collection[District]", "District Property[Name]"]}

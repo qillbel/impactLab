@@ -1,1 +1,0 @@
-{"itemId": "PredictiveTravelByDistrict Property[DayOfWeek]", "identities": [{"id": "PredictiveTravelByDistrict Property[DayOfWeek]", "type": "PredictiveTravelByDistrict Property", "fields": {"IdName": "DayOfWeek"}}], "ownerItem": "Collection[PredictiveTravelByDistrict]", "dependencies": ["Collection[DaysOfWeek]", "DaysOfWeek Property[Name]"]}

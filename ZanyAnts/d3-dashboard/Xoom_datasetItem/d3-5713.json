@@ -1,1 +1,0 @@
-{"itemId": "PredictiveTaskDurationSettings Index[SubCategory]", "identities": [{"id": "PredictiveTaskDurationSettings Index[SubCategory]", "type": "PredictiveTaskDurationSettings Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[PredictiveTaskDurationSettings]", "dependencies": ["PredictiveTaskDurationSettings Property[SubCategory]"]}

@@ -1,1 +1,0 @@
-{"itemId": "Relocation Index[Key]", "identities": [{"id": "Relocation Index[Key]", "type": "Relocation Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[Relocation]", "dependencies": ["Relocation Property[Key]"]}

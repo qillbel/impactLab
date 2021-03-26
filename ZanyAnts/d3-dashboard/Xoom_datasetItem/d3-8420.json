@@ -1,1 +1,0 @@
-{"itemId": "SkillsObjective Property[RelevanceGroup]", "identities": [{"id": "SkillsObjective Property[RelevanceGroup]", "type": "SkillsObjective Property", "fields": {"IdName": "RelevanceGroup"}}], "ownerItem": "Collection[SkillsObjective]", "dependencies": ["Collection[RelevanceGroup]", "RelevanceGroup Property[Name]"]}

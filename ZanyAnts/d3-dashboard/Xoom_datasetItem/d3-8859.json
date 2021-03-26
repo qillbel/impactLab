@@ -1,1 +1,0 @@
-{"itemId": "Task Property[GB]", "identities": [{"id": "Task Property[GB]", "type": "Task Property", "fields": {"IdName": "GB"}}], "ownerItem": "Collection[Task]", "dependencies": ["Collection[GeographicalBoundary]", "GeographicalBoundary Property[Name]"]}

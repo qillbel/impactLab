@@ -1,1 +1,0 @@
-{"itemId": "PlanPath Property[District]", "identities": [{"id": "PlanPath Property[District]", "type": "PlanPath Property", "fields": {"IdName": "District"}}], "ownerItem": "Collection[PlanPath]", "dependencies": ["Collection[District]", "District Property[Name]"]}

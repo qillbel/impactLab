@@ -1,1 +1,0 @@
-{"itemId": "W6STEPS_REQUIRED_TOOLS Property[ToolKey]", "identities": [{"id": "W6STEPS_REQUIRED_TOOLS Property[ToolKey]", "type": "W6STEPS_REQUIRED_TOOLS Property", "fields": {"IdName": "ToolKey"}}], "ownerItem": "Collection[Step]", "dependencies": ["Collection[Tool]", "Tool Property[Name]"]}

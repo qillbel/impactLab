@@ -1,1 +1,0 @@
-{"itemId": "District[MSJW Dist Rural]", "identities": [{"id": "District[MSJW Dist Rural]", "type": "District", "fields": {"Name": "MSJW Dist Rural"}}], "dependencies": ["Country[CANADA]", "District[MSJW Dist Rural]", "Region[4 - Moose Jaw]"]}

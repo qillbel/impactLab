@@ -1,1 +1,0 @@
-{"itemId": "SourceSystem Index[Key]", "identities": [{"id": "SourceSystem Index[Key]", "type": "SourceSystem Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[SourceSystem]", "dependencies": ["SourceSystem Property[Key]"]}

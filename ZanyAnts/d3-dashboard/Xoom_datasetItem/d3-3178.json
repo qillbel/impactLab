@@ -1,1 +1,0 @@
-{"itemId": "DefaultDomains Index[SubCategory]", "identities": [{"id": "DefaultDomains Index[SubCategory]", "type": "DefaultDomains Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[DefaultDomains]", "dependencies": ["DefaultDomains Property[SubCategory]"]}

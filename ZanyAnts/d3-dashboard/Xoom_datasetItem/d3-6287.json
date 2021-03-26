@@ -1,1 +1,0 @@
-{"itemId": "RosterDateTimeType Index[DateTimeTypeMode,Weekday]", "identities": [{"id": "RosterDateTimeType Index[DateTimeTypeMode,Weekday]", "type": "RosterDateTimeType Index", "fields": {"IdName": "DateTimeTypeMode,Weekday"}}], "ownerItem": "Collection[RosterDateTimeType]", "dependencies": ["RosterDateTimeType Property[DateTimeTypeMode]", "RosterDateTimeType Property[Weekday]"]}

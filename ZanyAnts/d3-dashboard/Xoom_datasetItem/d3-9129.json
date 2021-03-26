@@ -1,1 +1,0 @@
-{"itemId": "TaskType[LDK]", "identities": [{"id": "TaskType[LDK]", "type": "TaskType", "fields": {"Name": "LDK"}}], "dependencies": ["TaskTypeCategory[Service Order]"]}

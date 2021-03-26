@@ -1,1 +1,0 @@
-{"itemId": "VehicleAndEquipmentResource Index[SubCategory]", "identities": [{"id": "VehicleAndEquipmentResource Index[SubCategory]", "type": "VehicleAndEquipmentResource Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[VehicleAndEquipmentResource]", "dependencies": ["VehicleAndEquipmentResource Property[SubCategory]"]}

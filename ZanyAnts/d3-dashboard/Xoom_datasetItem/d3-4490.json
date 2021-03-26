@@ -1,1 +1,0 @@
-{"itemId": "IntegrationLock Property[TransactionID]", "identities": [{"id": "IntegrationLock Property[TransactionID]", "type": "IntegrationLock Property", "fields": {"IdName": "TransactionID"}}], "ownerItem": "Collection[IntegrationLock]"}

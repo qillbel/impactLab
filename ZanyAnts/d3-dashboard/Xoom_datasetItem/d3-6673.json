@@ -1,1 +1,0 @@
-{"itemId": "RosterMaxWorkingDaysRule Index[Name]", "identities": [{"id": "RosterMaxWorkingDaysRule Index[Name]", "type": "RosterMaxWorkingDaysRule Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[RosterMaxWorkingDaysRule]", "dependencies": ["RosterMaxWorkingDaysRule Property[Name]"]}

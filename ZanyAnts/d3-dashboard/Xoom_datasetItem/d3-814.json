@@ -1,1 +1,0 @@
-{"itemId": "BookingArea Property[Key]", "identities": [{"id": "BookingArea Property[Key]", "type": "BookingArea Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[BookingArea]", "dependencies": ["BookingArea Property[Name]", "Collection[BookingArea]"]}

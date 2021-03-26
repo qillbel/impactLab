@@ -1,1 +1,0 @@
-{"itemId": "District[NBFR Dist MeadowLake]", "identities": [{"id": "District[NBFR Dist MeadowLake]", "type": "District", "fields": {"Name": "NBFR Dist MeadowLake"}}], "dependencies": ["Country[CANADA]", "District[NBFR Dist MeadowLake]", "Region[6 - North Battleford - Lloydminster]"]}

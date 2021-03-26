@@ -1,1 +1,0 @@
-{"itemId": "IntegrationDestination Property[Key]", "identities": [{"id": "IntegrationDestination Property[Key]", "type": "IntegrationDestination Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[IntegrationDestination]", "dependencies": ["Collection[IntegrationDestination]", "IntegrationDestination Property[Name]"]}

@@ -1,1 +1,0 @@
-{"itemId": "Metric[Total Travel Time]", "identities": [{"id": "Metric[Total Travel Time]", "type": "Metric", "fields": {"Name": "Total Travel Time", "LogicProgID": "W6Metrics.W6SingleBVF,W6Metrics"}}], "dependencies": ["Assignment Property[Finish]", "Objective[Metrics Travel Time]"]}

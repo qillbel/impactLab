@@ -1,1 +1,0 @@
-{"itemId": "SOUser Index[UserName]", "identities": [{"id": "SOUser Index[UserName]", "type": "SOUser Index", "fields": {"IdName": "UserName"}}], "ownerItem": "Collection[SOUser]", "dependencies": ["SOUser Property[UserName]"]}

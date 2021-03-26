@@ -1,1 +1,0 @@
-{"itemId": "RosterMaxResourcePairingRule Index[Key]", "identities": [{"id": "RosterMaxResourcePairingRule Index[Key]", "type": "RosterMaxResourcePairingRule Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[RosterMaxResourcePairingRule]", "dependencies": ["RosterMaxResourcePairingRule Property[Key]"]}

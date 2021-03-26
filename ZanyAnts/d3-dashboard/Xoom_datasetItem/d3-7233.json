@@ -1,1 +1,0 @@
-{"itemId": "Route[Swift Current City]", "identities": [{"id": "Route[Swift Current City]", "type": "Route", "fields": {"Name": "Swift Current City"}}], "dependencies": ["Region[7 - Swift Current]", "WC[Swift Current]"]}

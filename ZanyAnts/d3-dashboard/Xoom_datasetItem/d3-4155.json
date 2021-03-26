@@ -1,1 +1,0 @@
-{"itemId": "Group[8FR Class of Service Tasks]", "identities": [{"id": "Group[8FR Class of Service Tasks]", "type": "Group", "fields": {"Name": "8FR Class of Service Tasks", "GroupType": "Task"}}], "dependencies": ["Collection[Task]", "Task Property[ClassOfService]"]}

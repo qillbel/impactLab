@@ -1,1 +1,0 @@
-{"itemId": "ABCapacityLimits Index[District,TaskType]", "identities": [{"id": "ABCapacityLimits Index[District,TaskType]", "type": "ABCapacityLimits Index", "fields": {"IdName": "District,TaskType"}}], "ownerItem": "Collection[ABCapacityLimits]", "dependencies": ["ABCapacityLimits Property[District]", "ABCapacityLimits Property[TaskType]"]}

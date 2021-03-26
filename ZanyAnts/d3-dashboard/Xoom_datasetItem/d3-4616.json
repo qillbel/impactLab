@@ -1,1 +1,0 @@
-{"itemId": "Location Property[RequiredTechnicians]", "identities": [{"id": "Location Property[RequiredTechnicians]", "type": "Location Property", "fields": {"IdName": "RequiredTechnicians"}}], "ownerItem": "Collection[Location]", "dependencies": ["Collection[Engineer]", "Engineer Property[Name]"]}

@@ -1,1 +1,0 @@
-{"itemId": "SameSiteRadius Index[SubCategory]", "identities": [{"id": "SameSiteRadius Index[SubCategory]", "type": "SameSiteRadius Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[SameSiteRadius]", "dependencies": ["SameSiteRadius Property[SubCategory]"]}

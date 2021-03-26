@@ -1,1 +1,0 @@
-{"itemId": "MultiDayTaskGroup Property[TaskGroup]", "identities": [{"id": "MultiDayTaskGroup Property[TaskGroup]", "type": "MultiDayTaskGroup Property", "fields": {"IdName": "TaskGroup"}}], "ownerItem": "Collection[MultiDayTaskGroup]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

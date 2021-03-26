@@ -1,1 +1,0 @@
-{"itemId": "W6LOCATIONS_ADDRESSES Property[AddressKey]", "identities": [{"id": "W6LOCATIONS_ADDRESSES Property[AddressKey]", "type": "W6LOCATIONS_ADDRESSES Property", "fields": {"IdName": "AddressKey"}}], "ownerItem": "Collection[Location]", "dependencies": ["Address Property[Name]", "Collection[Address]"]}

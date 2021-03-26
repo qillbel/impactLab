@@ -1,1 +1,0 @@
-{"itemId": "LookupAssureTaskTypePriority Property[Key]", "identities": [{"id": "LookupAssureTaskTypePriority Property[Key]", "type": "LookupAssureTaskTypePriority Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[LookupAssureTaskTypePriority]", "dependencies": ["Collection[LookupAssureTaskTypePriority]", "LookupAssureTaskTypePriority Property[Name]"]}

@@ -1,1 +1,0 @@
-{"itemId": "RosterWorkingRestrictionsRule Property[ResourceGroup]", "identities": [{"id": "RosterWorkingRestrictionsRule Property[ResourceGroup]", "type": "RosterWorkingRestrictionsRule Property", "fields": {"IdName": "ResourceGroup"}}], "ownerItem": "Collection[RosterWorkingRestrictionsRule]", "dependencies": ["Collection[RelevanceGroup]", "RelevanceGroup Property[Name]"]}

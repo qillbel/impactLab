@@ -1,1 +1,0 @@
-{"itemId": "Task Property[BundlerConfiguration]", "identities": [{"id": "Task Property[BundlerConfiguration]", "type": "Task Property", "fields": {"IdName": "BundlerConfiguration"}}], "ownerItem": "Collection[Task]", "dependencies": ["BundlerConfiguration Property[Name]", "Collection[BundlerConfiguration]"]}

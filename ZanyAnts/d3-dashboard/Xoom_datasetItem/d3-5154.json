@@ -1,1 +1,0 @@
-{"itemId": "OneAssignmentPerTaskRule Index[Name]", "identities": [{"id": "OneAssignmentPerTaskRule Index[Name]", "type": "OneAssignmentPerTaskRule Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[OneAssignmentPerTaskRule]", "dependencies": ["OneAssignmentPerTaskRule Property[Name]"]}

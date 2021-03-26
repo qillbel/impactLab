@@ -1,1 +1,0 @@
-{"itemId": "District[Construction Weyburn - Estevan]", "identities": [{"id": "District[Construction Weyburn - Estevan]", "type": "District", "fields": {"Name": "Construction Weyburn - Estevan"}}], "dependencies": ["Country[CANADA]", "District[Construction Weyburn - Estevan]", "Region[8 - Long Cycle Construction]"]}

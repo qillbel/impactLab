@@ -1,1 +1,0 @@
-{"itemId": "ServiceAlert Property[RelatedRosterShift]", "identities": [{"id": "ServiceAlert Property[RelatedRosterShift]", "type": "ServiceAlert Property", "fields": {"IdName": "RelatedRosterShift"}}], "ownerItem": "Collection[ServiceAlert]", "dependencies": ["Collection[RosterShift]", "RosterShift Property[Name]"]}

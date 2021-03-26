@@ -1,1 +1,0 @@
-{"itemId": "Calendar Index[Key]", "identities": [{"id": "Calendar Index[Key]", "type": "Calendar Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[Calendar]", "dependencies": ["Calendar Property[Key]"]}

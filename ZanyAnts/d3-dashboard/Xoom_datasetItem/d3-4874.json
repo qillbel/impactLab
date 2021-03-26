@@ -1,1 +1,0 @@
-{"itemId": "Metric Index[Category,LogicProgID]", "identities": [{"id": "Metric Index[Category,LogicProgID]", "type": "Metric Index", "fields": {"IdName": "Category,LogicProgID"}}], "ownerItem": "Collection[Metric]", "dependencies": ["Metric Property[Category]", "Metric Property[LogicProgID]"]}

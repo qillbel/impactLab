@@ -1,1 +1,0 @@
-{"itemId": "ProjectStatus Index[Name]", "identities": [{"id": "ProjectStatus Index[Name]", "type": "ProjectStatus Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[ProjectStatus]", "dependencies": ["ProjectStatus Property[Name]"]}

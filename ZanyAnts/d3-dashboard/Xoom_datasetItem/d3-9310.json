@@ -1,1 +1,0 @@
-{"itemId": "TimesheetStatus Index[Name]", "identities": [{"id": "TimesheetStatus Index[Name]", "type": "TimesheetStatus Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[TimesheetStatus]", "dependencies": ["TimesheetStatus Property[Name]"]}

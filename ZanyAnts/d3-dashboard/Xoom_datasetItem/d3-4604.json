@@ -1,1 +1,0 @@
-{"itemId": "Location Index[Assets.All.AssetsKey]", "identities": [{"id": "Location Index[Assets.All.AssetsKey]", "type": "Location Index", "fields": {"IdName": "Assets.All.AssetsKey"}}], "ownerItem": "Collection[Location]", "dependencies": ["Location Property[Assets]", "W6LOCATIONS_ASSETS Property[AssetsKey]"]}

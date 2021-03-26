@@ -1,1 +1,0 @@
-{"itemId": "SystemTimeRule Index[Key]", "identities": [{"id": "SystemTimeRule Index[Key]", "type": "SystemTimeRule Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[SystemTimeRule]", "dependencies": ["SystemTimeRule Property[Key]"]}

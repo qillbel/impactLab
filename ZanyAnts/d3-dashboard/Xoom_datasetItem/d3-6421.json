@@ -1,1 +1,0 @@
-{"itemId": "RosterExtendedMatchRule Property[ShiftGroupKey]", "identities": [{"id": "RosterExtendedMatchRule Property[ShiftGroupKey]", "type": "RosterExtendedMatchRule Property", "fields": {"IdName": "ShiftGroupKey"}}], "ownerItem": "Collection[RosterExtendedMatchRule]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

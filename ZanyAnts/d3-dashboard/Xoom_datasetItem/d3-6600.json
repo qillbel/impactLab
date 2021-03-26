@@ -1,1 +1,0 @@
-{"itemId": "RosterMaxConsecutiveWorkRule Index[Key]", "identities": [{"id": "RosterMaxConsecutiveWorkRule Index[Key]", "type": "RosterMaxConsecutiveWorkRule Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[RosterMaxConsecutiveWorkRule]", "dependencies": ["RosterMaxConsecutiveWorkRule Property[Key]"]}

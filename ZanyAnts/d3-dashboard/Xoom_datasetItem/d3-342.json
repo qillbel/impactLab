@@ -1,1 +1,0 @@
-{"itemId": "AppointmentBookingParameters Property[UnmovableTasks]", "identities": [{"id": "AppointmentBookingParameters Property[UnmovableTasks]", "type": "AppointmentBookingParameters Property", "fields": {"IdName": "UnmovableTasks"}}], "ownerItem": "Collection[AppointmentBookingParameters]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

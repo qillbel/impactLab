@@ -1,1 +1,0 @@
-{"itemId": "Group[SubTask Status - Completed]", "identities": [{"id": "Group[SubTask Status - Completed]", "type": "Group", "fields": {"Name": "SubTask Status - Completed", "GroupType": "Task"}}], "dependencies": ["Collection[Task]", "Task Property[Status]", "TaskStatus[Completed]"]}

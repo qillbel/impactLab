@@ -1,1 +1,0 @@
-{"itemId": "SameSiteRadius Property[Key]", "identities": [{"id": "SameSiteRadius Property[Key]", "type": "SameSiteRadius Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[SameSiteRadius]", "dependencies": ["Collection[SameSiteRadius]"]}

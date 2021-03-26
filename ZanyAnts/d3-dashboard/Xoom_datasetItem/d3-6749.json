@@ -1,1 +1,0 @@
-{"itemId": "RosterMinRestPeriodRule Property[AvailabilityTypes]", "identities": [{"id": "RosterMinRestPeriodRule Property[AvailabilityTypes]", "type": "RosterMinRestPeriodRule Property", "fields": {"IdName": "AvailabilityTypes"}}], "ownerItem": "Collection[RosterMinRestPeriodRule]", "dependencies": ["AvailabilityType Property[Name]", "Collection[AvailabilityType]"]}

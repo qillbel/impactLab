@@ -1,1 +1,0 @@
-{"itemId": "MatchTimeRule Property[RelevanceGroup]", "identities": [{"id": "MatchTimeRule Property[RelevanceGroup]", "type": "MatchTimeRule Property", "fields": {"IdName": "RelevanceGroup"}}], "ownerItem": "Collection[MatchTimeRule]", "dependencies": ["Collection[RelevanceGroup]", "RelevanceGroup Property[Name]"]}

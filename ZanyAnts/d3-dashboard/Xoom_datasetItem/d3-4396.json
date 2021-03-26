@@ -1,1 +1,0 @@
-{"itemId": "GroupsCustomCondition Index[Name]", "identities": [{"id": "GroupsCustomCondition Index[Name]", "type": "GroupsCustomCondition Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[GroupsCustomCondition]", "dependencies": ["GroupsCustomCondition Property[Name]"]}

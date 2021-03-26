@@ -1,1 +1,0 @@
-{"itemId": "RosterEmployeePortalSettings Property[Key]", "identities": [{"id": "RosterEmployeePortalSettings Property[Key]", "type": "RosterEmployeePortalSettings Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[RosterEmployeePortalSettings]", "dependencies": ["Collection[RosterEmployeePortalSettings]"]}

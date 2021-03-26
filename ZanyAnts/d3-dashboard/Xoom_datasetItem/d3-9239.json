@@ -1,1 +1,0 @@
-{"itemId": "TimeAllocation Property[StatusFrom]", "identities": [{"id": "TimeAllocation Property[StatusFrom]", "type": "TimeAllocation Property", "fields": {"IdName": "StatusFrom"}}], "ownerItem": "Collection[TimeAllocation]", "dependencies": ["Collection[TaskStatus]", "TaskStatus Property[Name]"]}

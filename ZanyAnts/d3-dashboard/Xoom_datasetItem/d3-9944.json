@@ -1,1 +1,0 @@
-{"itemId": "W6OPERATIONAL_ACTIVS_POS_TPS Property[MaximumCapacity]", "identities": [{"id": "W6OPERATIONAL_ACTIVS_POS_TPS Property[MaximumCapacity]", "type": "W6OPERATIONAL_ACTIVS_POS_TPS Property", "fields": {"IdName": "MaximumCapacity"}}], "ownerItem": "Collection[OperationalActivity]"}

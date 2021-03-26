@@ -1,1 +1,0 @@
-{"itemId": "GenericEventDefinition Property[PostConditionGroup]", "identities": [{"id": "GenericEventDefinition Property[PostConditionGroup]", "type": "GenericEventDefinition Property", "fields": {"IdName": "PostConditionGroup"}}], "ownerItem": "Collection[GenericEventDefinition]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

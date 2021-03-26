@@ -1,1 +1,0 @@
-{"itemId": "EngineerCostBVF Property[Key]", "identities": [{"id": "EngineerCostBVF Property[Key]", "type": "EngineerCostBVF Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[EngineerCostBVF]", "dependencies": ["Collection[EngineerCostBVF]", "EngineerCostBVF Property[Name]"]}

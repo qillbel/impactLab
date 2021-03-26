@@ -1,1 +1,0 @@
-{"itemId": "Report Property[TargetConnection]", "identities": [{"id": "Report Property[TargetConnection]", "type": "Report Property", "fields": {"IdName": "TargetConnection"}}], "ownerItem": "Collection[Report]", "dependencies": ["Collection[Connection]", "Connection Property[Name]"]}

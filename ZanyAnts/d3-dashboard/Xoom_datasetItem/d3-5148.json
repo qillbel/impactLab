@@ -1,1 +1,0 @@
-{"itemId": "OfflineOperationSetType Index[Key]", "identities": [{"id": "OfflineOperationSetType Index[Key]", "type": "OfflineOperationSetType Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[OfflineOperationSetType]", "dependencies": ["OfflineOperationSetType Property[Key]"]}

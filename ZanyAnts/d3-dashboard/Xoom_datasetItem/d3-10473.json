@@ -1,1 +1,0 @@
-{"itemId": "OutgoingMessage Index[Key]", "identities": [{"id": "OutgoingMessage Index[Key]", "type": "OutgoingMessage Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[OutgoingMessage]", "dependencies": ["OutgoingMessage Property[Key]"]}

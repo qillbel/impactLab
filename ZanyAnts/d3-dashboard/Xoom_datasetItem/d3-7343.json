@@ -1,1 +1,0 @@
-{"itemId": "Rule Property[Key]", "identities": [{"id": "Rule Property[Key]", "type": "Rule Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[Rule]", "dependencies": ["Collection[Rule]", "Rule Property[Name]"]}

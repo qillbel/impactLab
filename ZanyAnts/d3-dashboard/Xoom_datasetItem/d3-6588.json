@@ -1,1 +1,0 @@
-{"itemId": "RosterMatchLocationRule Property[ResourceGroupKey]", "identities": [{"id": "RosterMatchLocationRule Property[ResourceGroupKey]", "type": "RosterMatchLocationRule Property", "fields": {"IdName": "ResourceGroupKey"}}], "ownerItem": "Collection[RosterMatchLocationRule]", "dependencies": ["Collection[RelevanceGroup]", "RelevanceGroup Property[Name]"]}

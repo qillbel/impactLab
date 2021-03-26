@@ -1,1 +1,0 @@
-{"itemId": "SORole Property[Key]", "identities": [{"id": "SORole Property[Key]", "type": "SORole Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[SORole]", "dependencies": ["Collection[SORole]", "SORole Property[Name]"]}

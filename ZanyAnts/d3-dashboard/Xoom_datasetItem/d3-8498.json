@@ -1,1 +1,0 @@
-{"itemId": "SOUserGroup Property[CSWebClientSetting]", "identities": [{"id": "SOUserGroup Property[CSWebClientSetting]", "type": "SOUserGroup Property", "fields": {"IdName": "CSWebClientSetting"}}], "ownerItem": "Collection[SOUserGroup]", "dependencies": ["Collection[UserSetting]", "UserSetting Property[Owner]"]}

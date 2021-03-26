@@ -1,1 +1,0 @@
-{"itemId": "ServiceAlert Property[RelatedOperationalActivity]", "identities": [{"id": "ServiceAlert Property[RelatedOperationalActivity]", "type": "ServiceAlert Property", "fields": {"IdName": "RelatedOperationalActivity"}}], "ownerItem": "Collection[ServiceAlert]", "dependencies": ["Collection[OperationalActivity]", "OperationalActivity Property[Name]"]}

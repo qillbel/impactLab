@@ -1,1 +1,0 @@
-{"itemId": "Route Property[WC]", "identities": [{"id": "Route Property[WC]", "type": "Route Property", "fields": {"IdName": "WC"}}], "ownerItem": "Collection[Route]", "dependencies": ["Collection[WC]", "WC Property[Name]"]}

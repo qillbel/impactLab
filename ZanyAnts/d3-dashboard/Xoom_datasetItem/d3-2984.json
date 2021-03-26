@@ -1,1 +1,0 @@
-{"itemId": "Country Index[Name]", "identities": [{"id": "Country Index[Name]", "type": "Country Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[Country]", "dependencies": ["Country Property[Name]"]}

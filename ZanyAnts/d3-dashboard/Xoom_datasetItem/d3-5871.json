@@ -1,1 +1,0 @@
-{"itemId": "RejectedStatus Property[Status]", "identities": [{"id": "RejectedStatus Property[Status]", "type": "RejectedStatus Property", "fields": {"IdName": "Status"}}], "ownerItem": "Collection[RejectedStatus]", "dependencies": ["Collection[TaskStatus]", "TaskStatus Property[Name]"]}

@@ -1,1 +1,0 @@
-{"itemId": "ExtendedMatchRule Property[Key]", "identities": [{"id": "ExtendedMatchRule Property[Key]", "type": "ExtendedMatchRule Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ExtendedMatchRule]", "dependencies": ["Collection[ExtendedMatchRule]", "ExtendedMatchRule Property[Name]"]}

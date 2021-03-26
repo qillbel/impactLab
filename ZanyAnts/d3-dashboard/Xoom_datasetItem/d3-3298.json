@@ -1,1 +1,0 @@
-{"itemId": "District[NBFR Dist Kindersley]", "identities": [{"id": "District[NBFR Dist Kindersley]", "type": "District", "fields": {"Name": "NBFR Dist Kindersley"}}], "dependencies": ["Country[CANADA]", "District[NBFR Dist Kindersley]", "Region[6 - North Battleford - Lloydminster]"]}

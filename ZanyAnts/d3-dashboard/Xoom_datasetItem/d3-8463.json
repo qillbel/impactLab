@@ -1,1 +1,0 @@
-{"itemId": "SOUser Property[Permissions]", "identities": [{"id": "SOUser Property[Permissions]", "type": "SOUser Property", "fields": {"IdName": "Permissions"}}], "ownerItem": "Collection[SOUser]", "dependencies": ["Collection[SOUserFilter]", "SOUserFilter Property[FilterID]"]}

@@ -1,1 +1,0 @@
-{"itemId": "AuditCapacityDynamic Property[EnforceReason]", "identities": [{"id": "AuditCapacityDynamic Property[EnforceReason]", "type": "AuditCapacityDynamic Property", "fields": {"IdName": "EnforceReason"}}], "ownerItem": "Collection[AuditCapacityDynamic]", "dependencies": ["CapacityLimitsEnforceReason Property[Name]", "Collection[CapacityLimitsEnforceReason]"]}

@@ -1,1 +1,0 @@
-{"itemId": "IntegrationPollingThread Property[Key]", "identities": [{"id": "IntegrationPollingThread Property[Key]", "type": "IntegrationPollingThread Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[IntegrationPollingThread]", "dependencies": ["Collection[IntegrationPollingThread]", "IntegrationPollingThread Property[Name]"]}

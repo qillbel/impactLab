@@ -1,1 +1,0 @@
-{"itemId": "ScheduleIdleResourceWorkflow Index[SubCategory]", "identities": [{"id": "ScheduleIdleResourceWorkflow Index[SubCategory]", "type": "ScheduleIdleResourceWorkflow Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[ScheduleIdleResourceWorkflow]", "dependencies": ["ScheduleIdleResourceWorkflow Property[SubCategory]"]}

@@ -1,1 +1,0 @@
-{"itemId": "Group[SubTask Status - Open]", "identities": [{"id": "Group[SubTask Status - Open]", "type": "Group", "fields": {"Name": "SubTask Status - Open", "GroupType": "Task"}}], "dependencies": ["Collection[Task]", "Task Property[Status]", "TaskStatus[Open]"]}

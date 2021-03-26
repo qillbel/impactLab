@@ -1,1 +1,0 @@
-{"itemId": "Group[Ready to be Closed]", "identities": [{"id": "Group[Ready to be Closed]", "type": "Group", "fields": {"Name": "Ready to be Closed", "GroupType": "RosterShift"}}], "dependencies": ["Collection[RosterShift]", "RosterShift Property[ShiftStatus]", "ShiftStatus[Published]"]}

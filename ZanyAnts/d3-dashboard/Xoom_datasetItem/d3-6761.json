@@ -1,1 +1,0 @@
-{"itemId": "RosterMinRestPeriodRule Property[ResourceGroupKey]", "identities": [{"id": "RosterMinRestPeriodRule Property[ResourceGroupKey]", "type": "RosterMinRestPeriodRule Property", "fields": {"IdName": "ResourceGroupKey"}}], "ownerItem": "Collection[RosterMinRestPeriodRule]", "dependencies": ["Collection[RelevanceGroup]", "RelevanceGroup Property[Name]"]}

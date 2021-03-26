@@ -1,1 +1,0 @@
-{"itemId": "SchedulingWorkflow Index[Key]", "identities": [{"id": "SchedulingWorkflow Index[Key]", "type": "SchedulingWorkflow Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[SchedulingWorkflow]", "dependencies": ["SchedulingWorkflow Property[Key]"]}

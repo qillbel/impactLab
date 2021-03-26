@@ -1,1 +1,0 @@
-{"itemId": "District[PRNA Dist Melfort]", "identities": [{"id": "District[PRNA Dist Melfort]", "type": "District", "fields": {"Name": "PRNA Dist Melfort"}}], "dependencies": ["Country[CANADA]", "District[PRNA Dist Melfort]", "Region[3 - Prince Albert]"]}

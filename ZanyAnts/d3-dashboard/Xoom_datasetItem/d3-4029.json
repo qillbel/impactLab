@@ -1,1 +1,0 @@
-{"itemId": "GenericEventDefinition[Set DurationCurrent]", "identities": [{"id": "GenericEventDefinition[Set DurationCurrent]", "type": "GenericEventDefinition", "fields": {"Name": "Set DurationCurrent"}}], "dependencies": ["Action Type[Copy property]", "Collection[Task]", "Task Property[Duration]", "Task Property[DurationCurrent]"]}

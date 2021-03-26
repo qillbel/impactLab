@@ -1,1 +1,0 @@
-{"itemId": "StatusTransition[Completed|Open|3]", "identities": [{"id": "StatusTransition[Completed|Open|3]", "type": "StatusTransition", "fields": {"StatusBefore": "Completed", "StatusAfter": "Open", "StatusContext": "3"}}], "dependencies": ["TaskStatus[Completed]", "TaskStatus[Open]"]}

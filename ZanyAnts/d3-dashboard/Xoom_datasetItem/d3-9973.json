@@ -1,1 +1,0 @@
-{"itemId": "W6ROSTER_CREW_TP_CONSTRAINTS Property[EngineerGroup]", "identities": [{"id": "W6ROSTER_CREW_TP_CONSTRAINTS Property[EngineerGroup]", "type": "W6ROSTER_CREW_TP_CONSTRAINTS Property", "fields": {"IdName": "EngineerGroup"}}], "ownerItem": "Collection[RosterCrewType]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

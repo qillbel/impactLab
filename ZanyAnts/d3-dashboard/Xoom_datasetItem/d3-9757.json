@@ -1,1 +1,0 @@
-{"itemId": "W6BGO_STEPS Property[OptimizableTasksGroup]", "identities": [{"id": "W6BGO_STEPS Property[OptimizableTasksGroup]", "type": "W6BGO_STEPS Property", "fields": {"IdName": "OptimizableTasksGroup"}}], "ownerItem": "Collection[BackgroundOptimization]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

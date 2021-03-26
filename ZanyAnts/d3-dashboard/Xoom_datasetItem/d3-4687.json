@@ -1,1 +1,0 @@
-{"itemId": "LookupSAPSkill Index[Name]", "identities": [{"id": "LookupSAPSkill Index[Name]", "type": "LookupSAPSkill Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[LookupSAPSkill]", "dependencies": ["LookupSAPSkill Property[Name]"]}

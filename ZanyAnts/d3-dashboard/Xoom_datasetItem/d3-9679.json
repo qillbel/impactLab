@@ -1,1 +1,0 @@
-{"itemId": "VehicleAndEquipmentResource Property[Key]", "identities": [{"id": "VehicleAndEquipmentResource Property[Key]", "type": "VehicleAndEquipmentResource Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[VehicleAndEquipmentResource]", "dependencies": ["Collection[VehicleAndEquipmentResource]"]}

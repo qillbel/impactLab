@@ -1,1 +1,0 @@
-{"itemId": "District Index[RegionParent]", "identities": [{"id": "District Index[RegionParent]", "type": "District Index", "fields": {"IdName": "RegionParent"}}], "ownerItem": "Collection[District]", "dependencies": ["District Property[RegionParent]"]}

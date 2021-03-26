@@ -1,1 +1,0 @@
-{"itemId": "Objective Index[Category]", "identities": [{"id": "Objective Index[Category]", "type": "Objective Index", "fields": {"IdName": "Category"}}], "ownerItem": "Collection[Objective]", "dependencies": ["Objective Property[Category]"]}

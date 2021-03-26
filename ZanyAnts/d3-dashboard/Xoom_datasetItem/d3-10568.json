@@ -1,1 +1,0 @@
-{"itemId": "W6TASKS_HAZARDS Property[Hazard]", "identities": [{"id": "W6TASKS_HAZARDS Property[Hazard]", "type": "W6TASKS_HAZARDS Property", "fields": {"IdName": "Hazard"}}], "ownerItem": "Collection[Task]", "dependencies": ["Collection[Hazards]", "Hazards Property[Name]"]}

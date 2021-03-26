@@ -1,1 +1,0 @@
-{"itemId": "Agent Instance[Day BGO \u2013 Regina Region]", "identities": [{"id": "Agent Instance[Day BGO \u2013 Regina Region]", "type": "Agent Instance", "fields": {"Name": "Day BGO \u2013 Regina Region"}}], "ownerItem": "Setting[[Application]|Agents|AgentsManager|]", "dependencies": ["Agent[Schedule|Day BGO - Regina Region]", "Server[SWS00719]"]}

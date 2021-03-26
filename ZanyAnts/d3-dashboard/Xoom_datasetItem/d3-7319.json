@@ -1,1 +1,0 @@
-{"itemId": "Rule[Reserve Capacity in Appointment Booking]", "identities": [{"id": "Rule[Reserve Capacity in Appointment Booking]", "type": "Rule", "fields": {"Name": "Reserve Capacity in Appointment Booking", "ProgID": "W6Rules.W6ABCapacityRule,W6Rules"}}], "dependencies": ["Collection[Engineer]"]}

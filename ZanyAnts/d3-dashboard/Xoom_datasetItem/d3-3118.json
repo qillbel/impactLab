@@ -1,1 +1,0 @@
-{"itemId": "DataDomain Index[SubCategory]", "identities": [{"id": "DataDomain Index[SubCategory]", "type": "DataDomain Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[DataDomain]", "dependencies": ["DataDomain Property[SubCategory]"]}

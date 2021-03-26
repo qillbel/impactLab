@@ -1,1 +1,0 @@
-{"itemId": "RelevanceGroup[Required Tech]", "identities": [{"id": "RelevanceGroup[Required Tech]", "type": "RelevanceGroup", "fields": {"Name": "Required Tech"}}], "dependencies": ["Group[Required Tech]"]}

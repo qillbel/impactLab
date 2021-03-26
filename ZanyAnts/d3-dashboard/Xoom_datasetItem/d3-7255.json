@@ -1,1 +1,0 @@
-{"itemId": "Route Property[BookingArea]", "identities": [{"id": "Route Property[BookingArea]", "type": "Route Property", "fields": {"IdName": "BookingArea"}}], "ownerItem": "Collection[Route]", "dependencies": ["BookingArea Property[Name]", "Collection[BookingArea]"]}

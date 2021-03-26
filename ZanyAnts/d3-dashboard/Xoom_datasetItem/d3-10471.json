@@ -1,1 +1,0 @@
-{"itemId": "Hazards Index[Key]", "identities": [{"id": "Hazards Index[Key]", "type": "Hazards Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[Hazards]", "dependencies": ["Hazards Property[Key]"]}

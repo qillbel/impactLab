@@ -1,1 +1,0 @@
-{"itemId": "CapacityLimitsWizardTemplate Property[Districts]", "identities": [{"id": "CapacityLimitsWizardTemplate Property[Districts]", "type": "CapacityLimitsWizardTemplate Property", "fields": {"IdName": "Districts"}}], "ownerItem": "Collection[CapacityLimitsWizardTemplate]", "dependencies": ["Collection[District]", "District Property[Name]"]}

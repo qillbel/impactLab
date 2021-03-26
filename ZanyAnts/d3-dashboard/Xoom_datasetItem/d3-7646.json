@@ -1,1 +1,0 @@
-{"itemId": "ServiceNotification Property[CountryID]", "identities": [{"id": "ServiceNotification Property[CountryID]", "type": "ServiceNotification Property", "fields": {"IdName": "CountryID"}}], "ownerItem": "Collection[ServiceNotification]", "dependencies": ["Collection[Country]", "Country Property[Name]"]}

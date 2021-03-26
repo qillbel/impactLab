@@ -1,1 +1,0 @@
-{"itemId": "RosterMinRestPeriodRule Index[Key]", "identities": [{"id": "RosterMinRestPeriodRule Index[Key]", "type": "RosterMinRestPeriodRule Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[RosterMinRestPeriodRule]", "dependencies": ["RosterMinRestPeriodRule Property[Key]"]}

@@ -1,1 +1,0 @@
-{"itemId": "District[PRNA Dist Nipawin]", "identities": [{"id": "District[PRNA Dist Nipawin]", "type": "District", "fields": {"Name": "PRNA Dist Nipawin"}}], "dependencies": ["Country[CANADA]", "District[PRNA Dist Nipawin]", "Region[3 - Prince Albert]"]}

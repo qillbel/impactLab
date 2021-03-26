@@ -1,1 +1,0 @@
-{"itemId": "Group[_Shift Pay Phones Only]", "identities": [{"id": "Group[_Shift Pay Phones Only]", "type": "Group", "fields": {"Name": "_Shift Pay Phones Only", "GroupType": "Task"}}], "dependencies": ["Collection[Task]", "Skill[Pay Phone]", "Task Property[RequiredSkills1]", "W6TASKS_REQUIRED_SKILLS1 Property[Key]"]}

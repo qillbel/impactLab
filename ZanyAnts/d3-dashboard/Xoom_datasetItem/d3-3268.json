@@ -1,1 +1,0 @@
-{"itemId": "District[Construction Moose Jaw]", "identities": [{"id": "District[Construction Moose Jaw]", "type": "District", "fields": {"Name": "Construction Moose Jaw"}}], "dependencies": ["Country[CANADA]", "District[Construction Moose Jaw]", "Region[8 - Long Cycle Construction]"]}

@@ -1,1 +1,0 @@
-{"itemId": "ContractorInvoiceCode Index[Key]", "identities": [{"id": "ContractorInvoiceCode Index[Key]", "type": "ContractorInvoiceCode Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ContractorInvoiceCode]", "dependencies": ["ContractorInvoiceCode Property[Key]"]}

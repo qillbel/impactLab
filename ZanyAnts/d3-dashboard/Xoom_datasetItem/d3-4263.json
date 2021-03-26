@@ -1,1 +1,0 @@
-{"itemId": "Group[Integration \u2013 SAP TimeAllocation]", "identities": [{"id": "Group[Integration \u2013 SAP TimeAllocation]", "type": "Group", "fields": {"Name": "Integration \u2013 SAP TimeAllocation", "GroupType": "TimeAllocation"}}], "dependencies": ["Collection[TimeAllocation]", "SourceSystem[SAPCONSTRUCTION]", "TimeAllocation Property[SourceSystem]"]}

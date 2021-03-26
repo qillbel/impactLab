@@ -1,1 +1,0 @@
-{"itemId": "TaskType[MAX]", "identities": [{"id": "TaskType[MAX]", "type": "TaskType", "fields": {"Name": "MAX"}}], "dependencies": ["TaskTypeCategory[Service Order]"]}

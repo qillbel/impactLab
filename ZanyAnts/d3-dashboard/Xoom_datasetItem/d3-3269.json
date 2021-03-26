@@ -1,1 +1,0 @@
-{"itemId": "District[Construction North Battleford]", "identities": [{"id": "District[Construction North Battleford]", "type": "District", "fields": {"Name": "Construction North Battleford"}}], "dependencies": ["Country[CANADA]", "District[Construction North Battleford]", "Region[8 - Long Cycle Construction]"]}

@@ -1,1 +1,0 @@
-{"itemId": "Timesheet Property[ClockReports]", "identities": [{"id": "Timesheet Property[ClockReports]", "type": "Timesheet Property", "fields": {"IdName": "ClockReports"}}], "ownerItem": "Collection[Timesheet]", "dependencies": ["ClockReportType Property[Name]", "Collection[ClockReportType]"]}

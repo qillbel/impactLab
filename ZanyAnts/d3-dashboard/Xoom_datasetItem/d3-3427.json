@@ -1,1 +1,0 @@
-{"itemId": "EmployeeSubgroup Property[Key]", "identities": [{"id": "EmployeeSubgroup Property[Key]", "type": "EmployeeSubgroup Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[EmployeeSubgroup]", "dependencies": ["Collection[EmployeeSubgroup]"]}

@@ -1,1 +1,0 @@
-{"itemId": "Group[Auto Accept Bundles]", "identities": [{"id": "Group[Auto Accept Bundles]", "type": "Group", "fields": {"Name": "Auto Accept Bundles", "GroupType": "Assignment"}}], "dependencies": ["Assignment Property[Task]", "Collection[Assignment]", "Task Property[IsMegatask]", "Task Property[Status]", "TaskStatus[Dispatched]"]}

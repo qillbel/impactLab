@@ -1,1 +1,0 @@
-{"itemId": "ClickMobileTouchUserSettings Property[ParentUserSetting]", "identities": [{"id": "ClickMobileTouchUserSettings Property[ParentUserSetting]", "type": "ClickMobileTouchUserSettings Property", "fields": {"IdName": "ParentUserSetting"}}], "ownerItem": "Collection[ClickMobileTouchUserSettings]", "dependencies": ["Collection[UserSetting]"]}

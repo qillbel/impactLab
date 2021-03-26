@@ -1,1 +1,0 @@
-{"itemId": "TaskIndexRule Property[TaskGroup]", "identities": [{"id": "TaskIndexRule Property[TaskGroup]", "type": "TaskIndexRule Property", "fields": {"IdName": "TaskGroup"}}], "ownerItem": "Collection[TaskIndexRule]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

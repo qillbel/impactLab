@@ -1,1 +1,0 @@
-{"itemId": "EnhancedCalendarRule Property[Key]", "identities": [{"id": "EnhancedCalendarRule Property[Key]", "type": "EnhancedCalendarRule Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[EnhancedCalendarRule]", "dependencies": ["Collection[EnhancedCalendarRule]", "EnhancedCalendarRule Property[Name]"]}

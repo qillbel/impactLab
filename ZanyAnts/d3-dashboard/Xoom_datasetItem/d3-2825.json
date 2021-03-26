@@ -1,1 +1,0 @@
-{"itemId": "CompletionReason Index[Name]", "identities": [{"id": "CompletionReason Index[Name]", "type": "CompletionReason Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[CompletionReason]", "dependencies": ["CompletionReason Property[Name]"]}

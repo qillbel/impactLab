@@ -1,1 +1,0 @@
-{"itemId": "W6CAPACITYLIMITSWI_117_1170001 Property[Bucket]", "identities": [{"id": "W6CAPACITYLIMITSWI_117_1170001 Property[Bucket]", "type": "W6CAPACITYLIMITSWI_117_1170001 Property", "fields": {"IdName": "Bucket"}}], "ownerItem": "Collection[CapacityLimitsWizardTemplate]", "dependencies": ["CapacityBucket Property[Name]", "Collection[CapacityBucket]"]}

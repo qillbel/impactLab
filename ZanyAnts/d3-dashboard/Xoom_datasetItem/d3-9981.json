@@ -1,1 +1,0 @@
-{"itemId": "W6ROSTER_DEMANDS_REQ_SKILLS Property[SkillKey]", "identities": [{"id": "W6ROSTER_DEMANDS_REQ_SKILLS Property[SkillKey]", "type": "W6ROSTER_DEMANDS_REQ_SKILLS Property", "fields": {"IdName": "SkillKey"}}], "ownerItem": "Collection[RosterDemand]", "dependencies": ["Collection[Skill]", "Skill Property[Name]"]}

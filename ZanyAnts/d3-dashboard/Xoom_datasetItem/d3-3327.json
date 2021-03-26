@@ -1,1 +1,0 @@
-{"itemId": "District[PRNA Dist Tisdale]", "identities": [{"id": "District[PRNA Dist Tisdale]", "type": "District", "fields": {"Name": "PRNA Dist Tisdale"}}], "dependencies": ["Country[CANADA]", "District[PRNA Dist Tisdale]", "Region[3 - Prince Albert]"]}

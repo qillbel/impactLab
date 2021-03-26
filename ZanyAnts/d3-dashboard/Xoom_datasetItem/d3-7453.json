@@ -1,1 +1,0 @@
-{"itemId": "ScheduleUpdateJeopardy Property[JeopardyState]", "identities": [{"id": "ScheduleUpdateJeopardy Property[JeopardyState]", "type": "ScheduleUpdateJeopardy Property", "fields": {"IdName": "JeopardyState"}}], "ownerItem": "Collection[ScheduleUpdateJeopardy]", "dependencies": ["Collection[JeopardyState]", "JeopardyState Property[Name]"]}

@@ -1,1 +1,0 @@
-{"itemId": "RosterAutomaticSchedulingPolicy Index[Key]", "identities": [{"id": "RosterAutomaticSchedulingPolicy Index[Key]", "type": "RosterAutomaticSchedulingPolicy Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[RosterAutomaticSchedulingPolicy]", "dependencies": ["RosterAutomaticSchedulingPolicy Property[Key]"]}

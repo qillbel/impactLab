@@ -1,1 +1,0 @@
-{"itemId": "Objective[Distance Cost]", "identities": [{"id": "Objective[Distance Cost]", "type": "Objective", "fields": {"Name": "Distance Cost", "ProgID": "W6Objectives.W6TravelBusinessObjective, W6Objectives"}}, {"id": "TravelCostBVF[Distance Cost]", "type": "TravelCostBVF", "fields": {"Name": "Distance Cost"}}]}

@@ -1,1 +1,0 @@
-{"itemId": "W6ROSTERMAXN_40000020_50000289 Property[Item]", "identities": [{"id": "W6ROSTERMAXN_40000020_50000289 Property[Item]", "type": "W6ROSTERMAXN_40000020_50000289 Property", "fields": {"IdName": "Item"}}], "ownerItem": "Collection[RosterMaxNumberOfPainShiftsRule]", "dependencies": ["AvailabilityType Property[Name]", "Collection[AvailabilityType]"]}

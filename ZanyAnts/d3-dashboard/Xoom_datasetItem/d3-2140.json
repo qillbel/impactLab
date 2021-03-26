@@ -1,1 +1,0 @@
-{"itemId": "CatalogProfile Index[Name]", "identities": [{"id": "CatalogProfile Index[Name]", "type": "CatalogProfile Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[CatalogProfile]", "dependencies": ["CatalogProfile Property[Name]"]}

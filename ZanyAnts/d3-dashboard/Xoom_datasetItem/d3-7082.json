@@ -1,1 +1,0 @@
-{"itemId": "RosterShiftRequest Property[RosterResource]", "identities": [{"id": "RosterShiftRequest Property[RosterResource]", "type": "RosterShiftRequest Property", "fields": {"IdName": "RosterResource"}}], "ownerItem": "Collection[RosterShiftRequest]", "dependencies": ["Collection[Engineer]", "Engineer Property[Name]"]}

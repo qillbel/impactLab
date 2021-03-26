@@ -1,1 +1,0 @@
-{"itemId": "W6UPD_BY_INTG_LOGICITEMS Property[ScheduleUpdate]", "identities": [{"id": "W6UPD_BY_INTG_LOGICITEMS Property[ScheduleUpdate]", "type": "W6UPD_BY_INTG_LOGICITEMS Property", "fields": {"IdName": "ScheduleUpdate"}}], "ownerItem": "Collection[UpdatesThroughIntegration]", "dependencies": ["Collection[ScheduleUpdate]", "ScheduleUpdate Property[SubCategory]"]}

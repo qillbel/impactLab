@@ -1,1 +1,0 @@
-{"itemId": "RosterGetCandidatesPolicies Property[Key]", "identities": [{"id": "RosterGetCandidatesPolicies Property[Key]", "type": "RosterGetCandidatesPolicies Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[RosterGetCandidatesPolicies]", "dependencies": ["Collection[RosterGetCandidatesPolicies]", "RosterGetCandidatesPolicies Property[SubCategory]"]}

@@ -1,1 +1,0 @@
-{"itemId": "Polling Index[Name,Stamp.TimeModified]", "identities": [{"id": "Polling Index[Name,Stamp.TimeModified]", "type": "Polling Index", "fields": {"IdName": "Name,Stamp.TimeModified"}}], "ownerItem": "Collection[Polling]", "dependencies": ["Polling Property[Name]", "Polling Property[Stamp]", "Polling.W6POLLING_STAMP Property[TimeModified]"]}

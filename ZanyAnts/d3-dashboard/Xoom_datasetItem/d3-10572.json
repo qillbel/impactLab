@@ -1,1 +1,0 @@
-{"itemId": "W6TASKS_REQUIRED_ENG_TOOLS Property[RequiredEngineerTool]", "identities": [{"id": "W6TASKS_REQUIRED_ENG_TOOLS Property[RequiredEngineerTool]", "type": "W6TASKS_REQUIRED_ENG_TOOLS Property", "fields": {"IdName": "RequiredEngineerTool"}}], "ownerItem": "Collection[Task]", "dependencies": ["Collection[Tool]", "Tool Property[Name]"]}

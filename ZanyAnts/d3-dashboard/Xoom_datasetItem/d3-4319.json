@@ -1,1 +1,0 @@
-{"itemId": "Group[Published to Portal]", "identities": [{"id": "Group[Published to Portal]", "type": "Group", "fields": {"Name": "Published to Portal", "GroupType": "RosterShift"}}], "dependencies": ["Collection[RosterShift]", "RosterShift Property[Name]", "RosterShift Property[ShiftStatus]", "ShiftStatus[Locked]", "ShiftStatus[Portal]", "ShiftStatus[Published]"]}

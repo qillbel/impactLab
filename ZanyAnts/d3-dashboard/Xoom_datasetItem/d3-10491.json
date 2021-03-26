@@ -1,1 +1,0 @@
-{"itemId": "W6ASSETS_MEASUREMENT_POINTS Property[MeasurementPointKey]", "identities": [{"id": "W6ASSETS_MEASUREMENT_POINTS Property[MeasurementPointKey]", "type": "W6ASSETS_MEASUREMENT_POINTS Property", "fields": {"IdName": "MeasurementPointKey"}}], "ownerItem": "Collection[Asset]", "dependencies": ["Collection[MeasurementPoint]", "MeasurementPoint Property[Name]"]}

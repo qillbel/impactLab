@@ -1,1 +1,0 @@
-{"itemId": "RosterLogicDomains Index[SubCategory]", "identities": [{"id": "RosterLogicDomains Index[SubCategory]", "type": "RosterLogicDomains Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[RosterLogicDomains]", "dependencies": ["RosterLogicDomains Property[SubCategory]"]}

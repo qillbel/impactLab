@@ -1,1 +1,0 @@
-{"itemId": "DatePropertyForClientQuery Index[SubCategory]", "identities": [{"id": "DatePropertyForClientQuery Index[SubCategory]", "type": "DatePropertyForClientQuery Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[DatePropertyForClientQuery]", "dependencies": ["DatePropertyForClientQuery Property[SubCategory]"]}

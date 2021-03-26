@@ -1,1 +1,0 @@
-{"itemId": "W6APP_IMAGES Property[AttachedImage]", "identities": [{"id": "W6APP_IMAGES Property[AttachedImage]", "type": "W6APP_IMAGES Property", "fields": {"IdName": "AttachedImage"}}], "ownerItem": "Collection[App]", "dependencies": ["Attachment Property[FileName]", "Collection[Attachment]"]}

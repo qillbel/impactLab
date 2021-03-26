@@ -1,1 +1,0 @@
-{"itemId": "RosterDemandType Index[Name]", "identities": [{"id": "RosterDemandType Index[Name]", "type": "RosterDemandType Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[RosterDemandType]", "dependencies": ["RosterDemandType Property[Name]"]}

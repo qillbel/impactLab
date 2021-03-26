@@ -1,1 +1,0 @@
-{"itemId": "ScheduleIdleResourceStage Property[RelevantTaskGroup]", "identities": [{"id": "ScheduleIdleResourceStage Property[RelevantTaskGroup]", "type": "ScheduleIdleResourceStage Property", "fields": {"IdName": "RelevantTaskGroup"}}], "ownerItem": "Collection[ScheduleIdleResourceStage]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

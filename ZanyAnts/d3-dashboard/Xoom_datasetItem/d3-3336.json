@@ -1,1 +1,0 @@
-{"itemId": "District[REGN Dist Strasbourg]", "identities": [{"id": "District[REGN Dist Strasbourg]", "type": "District", "fields": {"Name": "REGN Dist Strasbourg"}}], "dependencies": ["Country[CANADA]", "District[REGN Dist Strasbourg]", "Region[1 - Regina]"]}

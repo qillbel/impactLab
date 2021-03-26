@@ -1,1 +1,0 @@
-{"itemId": "TravelFromHomeBaseRule Property[RelevanceGroup]", "identities": [{"id": "TravelFromHomeBaseRule Property[RelevanceGroup]", "type": "TravelFromHomeBaseRule Property", "fields": {"IdName": "RelevanceGroup"}}], "ownerItem": "Collection[TravelFromHomeBaseRule]", "dependencies": ["Collection[RelevanceGroup]", "RelevanceGroup Property[Name]"]}

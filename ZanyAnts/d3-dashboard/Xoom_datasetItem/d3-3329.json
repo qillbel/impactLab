@@ -1,1 +1,0 @@
-{"itemId": "District[Regina City Bus]", "identities": [{"id": "District[Regina City Bus]", "type": "District", "fields": {"Name": "Regina City Bus"}}], "dependencies": ["District[Regina City Bus]", "Region[1 - Regina]"]}

@@ -1,1 +1,0 @@
-{"itemId": "Group[new]", "identities": [{"id": "Group[new]", "type": "Group", "fields": {"Name": "new", "GroupType": "Task"}}], "dependencies": ["Collection[Task]", "District[SKTN Dist Humboldt]", "Task Property[District]", "Task Property[Stamp]", "Task.W6TASKS_STAMP Property[TimeCreated]"]}

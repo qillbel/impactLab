@@ -1,1 +1,0 @@
-{"itemId": "Engineer Property[Skills]", "identities": [{"id": "Engineer Property[Skills]", "type": "Engineer Property", "fields": {"IdName": "Skills"}}], "ownerItem": "Collection[Engineer]", "dependencies": ["Collection[Skill]", "Skill Property[Name]"]}

@@ -1,1 +1,0 @@
-{"itemId": "ScheduleIdleResourceStage Property[LogicDomain]", "identities": [{"id": "ScheduleIdleResourceStage Property[LogicDomain]", "type": "ScheduleIdleResourceStage Property", "fields": {"IdName": "LogicDomain"}}], "ownerItem": "Collection[ScheduleIdleResourceStage]", "dependencies": ["Collection[LogicDomainSetting]", "LogicDomainSetting Property[SubCategory]"]}

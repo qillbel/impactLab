@@ -1,1 +1,0 @@
-{"itemId": "PartiallyCreatedObject Index[Key]", "identities": [{"id": "PartiallyCreatedObject Index[Key]", "type": "PartiallyCreatedObject Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[PartiallyCreatedObject]", "dependencies": ["PartiallyCreatedObject Property[Key]"]}

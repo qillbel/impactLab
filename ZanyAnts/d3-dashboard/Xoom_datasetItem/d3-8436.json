@@ -1,1 +1,0 @@
-{"itemId": "SORole Index[Name]", "identities": [{"id": "SORole Index[Name]", "type": "SORole Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[SORole]", "dependencies": ["SORole Property[Name]"]}

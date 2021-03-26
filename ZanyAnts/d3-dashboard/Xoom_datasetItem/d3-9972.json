@@ -1,1 +1,0 @@
-{"itemId": "W6ROSTER_CREW_TP_CONSTRAINTS Property[DemandType]", "identities": [{"id": "W6ROSTER_CREW_TP_CONSTRAINTS Property[DemandType]", "type": "W6ROSTER_CREW_TP_CONSTRAINTS Property", "fields": {"IdName": "DemandType"}}], "ownerItem": "Collection[RosterCrewType]", "dependencies": ["Collection[RosterDemandType]", "RosterDemandType Property[Name]"]}

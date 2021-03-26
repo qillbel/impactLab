@@ -1,1 +1,0 @@
-{"itemId": "W6ROSTER_DMND_PTRNS_TEMPLATES Property[DateTimeType]", "identities": [{"id": "W6ROSTER_DMND_PTRNS_TEMPLATES Property[DateTimeType]", "type": "W6ROSTER_DMND_PTRNS_TEMPLATES Property", "fields": {"IdName": "DateTimeType"}}], "ownerItem": "Collection[RosterDemandPattern]", "dependencies": ["Collection[RosterDateTimeType]", "RosterDateTimeType Property[Name]"]}

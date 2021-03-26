@@ -1,1 +1,0 @@
-{"itemId": "Group[Low Priority]", "identities": [{"id": "Group[Low Priority]", "type": "Group", "fields": {"Name": "Low Priority", "GroupType": "Task"}}], "dependencies": ["Collection[Task]", "Task Property[Priority]"]}

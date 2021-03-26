@@ -1,1 +1,0 @@
-{"itemId": "VacationCalendarSetting Index[SubCategory]", "identities": [{"id": "VacationCalendarSetting Index[SubCategory]", "type": "VacationCalendarSetting Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[VacationCalendarSetting]", "dependencies": ["VacationCalendarSetting Property[SubCategory]"]}

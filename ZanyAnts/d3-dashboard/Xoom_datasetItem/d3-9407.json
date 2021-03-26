@@ -1,1 +1,0 @@
-{"itemId": "TravelFromHomeBaseRule Index[Name]", "identities": [{"id": "TravelFromHomeBaseRule Index[Name]", "type": "TravelFromHomeBaseRule Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[TravelFromHomeBaseRule]", "dependencies": ["TravelFromHomeBaseRule Property[Name]"]}

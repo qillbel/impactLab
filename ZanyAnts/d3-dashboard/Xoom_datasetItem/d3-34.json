@@ -1,1 +1,0 @@
-{"itemId": "AbsenceRequest Property[AbsenceType]", "identities": [{"id": "AbsenceRequest Property[AbsenceType]", "type": "AbsenceRequest Property", "fields": {"IdName": "AbsenceType"}}], "ownerItem": "Collection[AbsenceRequest]", "dependencies": ["AbsenceType Property[Name]", "Collection[AbsenceType]"]}

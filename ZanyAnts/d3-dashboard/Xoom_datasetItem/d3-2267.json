@@ -1,1 +1,0 @@
-{"itemId": "ClickMobileGeneralSettings Index[SubCategory]", "identities": [{"id": "ClickMobileGeneralSettings Index[SubCategory]", "type": "ClickMobileGeneralSettings Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[ClickMobileGeneralSettings]", "dependencies": ["ClickMobileGeneralSettings Property[SubCategory]"]}

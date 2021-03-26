@@ -1,1 +1,0 @@
-{"itemId": "User_BundlerConfiguration Property[SelectionGroup]", "identities": [{"id": "User_BundlerConfiguration Property[SelectionGroup]", "type": "User_BundlerConfiguration Property", "fields": {"IdName": "SelectionGroup"}}], "ownerItem": "Collection[User_BundlerConfiguration]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

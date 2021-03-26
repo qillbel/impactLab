@@ -1,1 +1,0 @@
-{"itemId": "DisplayStatus Index[Name]", "identities": [{"id": "DisplayStatus Index[Name]", "type": "DisplayStatus Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[DisplayStatus]", "dependencies": ["DisplayStatus Property[Name]"]}

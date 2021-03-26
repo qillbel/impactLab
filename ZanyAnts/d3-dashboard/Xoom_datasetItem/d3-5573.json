@@ -1,1 +1,0 @@
-{"itemId": "PlanDemand Index[Region,District,LatestFinish]", "identities": [{"id": "PlanDemand Index[Region,District,LatestFinish]", "type": "PlanDemand Index", "fields": {"IdName": "Region,District,LatestFinish"}}], "ownerItem": "Collection[PlanDemand]", "dependencies": ["PlanDemand Property[District]", "PlanDemand Property[LatestFinish]", "PlanDemand Property[Region]"]}

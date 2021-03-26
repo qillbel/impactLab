@@ -1,1 +1,0 @@
-{"itemId": "AuditCapacityDynamic Property[BookingArea]", "identities": [{"id": "AuditCapacityDynamic Property[BookingArea]", "type": "AuditCapacityDynamic Property", "fields": {"IdName": "BookingArea"}}], "ownerItem": "Collection[AuditCapacityDynamic]", "dependencies": ["Collection[District]", "District Property[Name]"]}

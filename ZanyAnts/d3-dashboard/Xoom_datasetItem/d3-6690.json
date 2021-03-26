@@ -1,1 +1,0 @@
-{"itemId": "RosterMaxWorkingDaysRule Property[ResourceGroupKey]", "identities": [{"id": "RosterMaxWorkingDaysRule Property[ResourceGroupKey]", "type": "RosterMaxWorkingDaysRule Property", "fields": {"IdName": "ResourceGroupKey"}}], "ownerItem": "Collection[RosterMaxWorkingDaysRule]", "dependencies": ["Collection[RelevanceGroup]", "RelevanceGroup Property[Name]"]}

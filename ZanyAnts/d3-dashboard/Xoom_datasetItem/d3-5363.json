@@ -1,1 +1,0 @@
-{"itemId": "PartsInStock Index[MobileKey]", "identities": [{"id": "PartsInStock Index[MobileKey]", "type": "PartsInStock Index", "fields": {"IdName": "MobileKey"}}], "ownerItem": "Collection[PartsInStock]", "dependencies": ["PartsInStock Property[MobileKey]"]}

@@ -1,1 +1,0 @@
-{"itemId": "Group[Unswitchable Resources]", "identities": [{"id": "Group[Unswitchable Resources]", "type": "Group", "fields": {"Name": "Unswitchable Resources", "GroupType": "Engineer"}}], "dependencies": ["Collection[Engineer]", "District[Regina City]", "District[Saskatoon City]", "Engineer Property[Active]", "Engineer Property[District]"]}

@@ -1,1 +1,0 @@
-{"itemId": "RosterAutomaticSchedulingPolicy Index[SubCategory]", "identities": [{"id": "RosterAutomaticSchedulingPolicy Index[SubCategory]", "type": "RosterAutomaticSchedulingPolicy Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[RosterAutomaticSchedulingPolicy]", "dependencies": ["RosterAutomaticSchedulingPolicy Property[SubCategory]"]}

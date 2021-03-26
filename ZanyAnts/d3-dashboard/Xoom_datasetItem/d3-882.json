@@ -1,1 +1,0 @@
-{"itemId": "BundlerConfiguration Index[Key]", "identities": [{"id": "BundlerConfiguration Index[Key]", "type": "BundlerConfiguration Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[BundlerConfiguration]", "dependencies": ["BundlerConfiguration Property[Key]"]}

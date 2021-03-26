@@ -1,1 +1,0 @@
-{"itemId": "RosterShiftPreferenceObjective Property[ShiftRelevancyGroup]", "identities": [{"id": "RosterShiftPreferenceObjective Property[ShiftRelevancyGroup]", "type": "RosterShiftPreferenceObjective Property", "fields": {"IdName": "ShiftRelevancyGroup"}}], "ownerItem": "Collection[RosterShiftPreferenceObjective]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

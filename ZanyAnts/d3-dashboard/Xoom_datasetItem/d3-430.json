@@ -1,1 +1,0 @@
-{"itemId": "Assignment Property[ArchiveStatus]", "identities": [{"id": "Assignment Property[ArchiveStatus]", "type": "Assignment Property", "fields": {"IdName": "ArchiveStatus"}}], "ownerItem": "Collection[Assignment]", "dependencies": ["ArchiveStatus Property[Name]", "Collection[ArchiveStatus]"]}

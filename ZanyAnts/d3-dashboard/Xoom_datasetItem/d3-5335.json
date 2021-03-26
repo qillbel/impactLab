@@ -1,1 +1,0 @@
-{"itemId": "PartOrder Index[MobileKey]", "identities": [{"id": "PartOrder Index[MobileKey]", "type": "PartOrder Index", "fields": {"IdName": "MobileKey"}}], "ownerItem": "Collection[PartOrder]", "dependencies": ["PartOrder Property[MobileKey]"]}

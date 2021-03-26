@@ -1,1 +1,0 @@
-{"itemId": "PartsInStock Index[ExternalRefID]", "identities": [{"id": "PartsInStock Index[ExternalRefID]", "type": "PartsInStock Index", "fields": {"IdName": "ExternalRefID"}}], "ownerItem": "Collection[PartsInStock]", "dependencies": ["PartsInStock Property[ExternalRefID]"]}

@@ -1,1 +1,0 @@
-{"itemId": "W6ROSTERRESO_40000030_50000297 Property[GroupReference]", "identities": [{"id": "W6ROSTERRESO_40000030_50000297 Property[GroupReference]", "type": "W6ROSTERRESO_40000030_50000297 Property", "fields": {"IdName": "GroupReference"}}], "ownerItem": "Collection[RosterResourcePriorityEnumerators]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

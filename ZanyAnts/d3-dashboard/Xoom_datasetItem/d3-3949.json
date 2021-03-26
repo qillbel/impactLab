@@ -1,1 +1,0 @@
-{"itemId": "GapRule Property[Key]", "identities": [{"id": "GapRule Property[Key]", "type": "GapRule Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[GapRule]", "dependencies": ["Collection[GapRule]", "GapRule Property[Name]"]}

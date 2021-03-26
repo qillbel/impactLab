@@ -1,1 +1,0 @@
-{"itemId": "AgentOperation Index[AgentName,Status]", "identities": [{"id": "AgentOperation Index[AgentName,Status]", "type": "AgentOperation Index", "fields": {"IdName": "AgentName,Status"}}], "ownerItem": "Collection[AgentOperation]", "dependencies": ["AgentOperation Property[AgentName]", "AgentOperation Property[Status]"]}

@@ -1,1 +1,0 @@
-{"itemId": "ServiceAlert Index[MobileKey]", "identities": [{"id": "ServiceAlert Index[MobileKey]", "type": "ServiceAlert Index", "fields": {"IdName": "MobileKey"}}], "ownerItem": "Collection[ServiceAlert]", "dependencies": ["ServiceAlert Property[MobileKey]"]}

@@ -1,1 +1,0 @@
-{"itemId": "LookupGroupProfilePolicy Property[Key]", "identities": [{"id": "LookupGroupProfilePolicy Property[Key]", "type": "LookupGroupProfilePolicy Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[LookupGroupProfilePolicy]", "dependencies": ["Collection[LookupGroupProfilePolicy]", "LookupGroupProfilePolicy Property[Name]"]}

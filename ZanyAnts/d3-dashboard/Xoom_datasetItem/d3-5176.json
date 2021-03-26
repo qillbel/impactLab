@@ -1,1 +1,0 @@
-{"itemId": "OperationalActivity Property[Key]", "identities": [{"id": "OperationalActivity Property[Key]", "type": "OperationalActivity Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[OperationalActivity]", "dependencies": ["Collection[OperationalActivity]", "OperationalActivity Property[Name]"]}

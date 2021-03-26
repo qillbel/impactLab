@@ -1,1 +1,0 @@
-{"itemId": "SchedulingStage Property[UnswitchableTasksGroup]", "identities": [{"id": "SchedulingStage Property[UnswitchableTasksGroup]", "type": "SchedulingStage Property", "fields": {"IdName": "UnswitchableTasksGroup"}}], "ownerItem": "Collection[SchedulingStage]", "dependencies": ["Collection[Group]", "Group Property[Name]"]}

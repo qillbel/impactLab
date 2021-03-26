@@ -1,1 +1,0 @@
-{"itemId": "DurationChangeReason Property[Key]", "identities": [{"id": "DurationChangeReason Property[Key]", "type": "DurationChangeReason Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[DurationChangeReason]", "dependencies": ["Collection[DurationChangeReason]", "DurationChangeReason Property[Name]"]}

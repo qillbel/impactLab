@@ -1,1 +1,0 @@
-{"itemId": "PlanAllocation Index[AllocatedResource,PlanDemand]", "identities": [{"id": "PlanAllocation Index[AllocatedResource,PlanDemand]", "type": "PlanAllocation Index", "fields": {"IdName": "AllocatedResource,PlanDemand"}}], "ownerItem": "Collection[PlanAllocation]", "dependencies": ["PlanAllocation Property[AllocatedResource]", "PlanAllocation Property[PlanDemand]"]}

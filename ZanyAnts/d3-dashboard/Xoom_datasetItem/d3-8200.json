@@ -1,1 +1,0 @@
-{"itemId": "ShiftPattern Index[Region]", "identities": [{"id": "ShiftPattern Index[Region]", "type": "ShiftPattern Index", "fields": {"IdName": "Region"}}], "ownerItem": "Collection[ShiftPattern]", "dependencies": ["ShiftPattern Property[Region]"]}

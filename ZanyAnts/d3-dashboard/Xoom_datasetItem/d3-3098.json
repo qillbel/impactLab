@@ -1,1 +1,0 @@
-{"itemId": "CustomerAccount Property[SLAProfile]", "identities": [{"id": "CustomerAccount Property[SLAProfile]", "type": "CustomerAccount Property", "fields": {"IdName": "SLAProfile"}}], "ownerItem": "Collection[CustomerAccount]", "dependencies": ["Collection[SLAProfile]", "SLAProfile Property[Name]"]}

@@ -1,1 +1,0 @@
-{"itemId": "ClickRosterWebClientAdminSettings Index[Owner]", "identities": [{"id": "ClickRosterWebClientAdminSettings Index[Owner]", "type": "ClickRosterWebClientAdminSettings Index", "fields": {"IdName": "Owner"}}], "ownerItem": "Collection[ClickRosterWebClientAdminSettings]", "dependencies": ["ClickRosterWebClientAdminSettings Property[Owner]"]}

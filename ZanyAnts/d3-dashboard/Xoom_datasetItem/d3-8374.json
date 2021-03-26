@@ -1,1 +1,0 @@
-{"itemId": "Skill[Pole]", "identities": [{"id": "Skill[Pole]", "type": "Skill", "fields": {"Name": "Pole"}}], "dependencies": ["ServiceType[Bus]"]}

@@ -1,1 +1,0 @@
-{"itemId": "W6ASSETS_ASSETS_HISTORY Property[TechnicalHistoryKey]", "identities": [{"id": "W6ASSETS_ASSETS_HISTORY Property[TechnicalHistoryKey]", "type": "W6ASSETS_ASSETS_HISTORY Property", "fields": {"IdName": "TechnicalHistoryKey"}}], "ownerItem": "Collection[Asset]", "dependencies": ["Collection[TechnicalHistory]", "TechnicalHistory Property[Name]"]}

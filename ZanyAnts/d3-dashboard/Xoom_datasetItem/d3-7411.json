@@ -1,1 +1,0 @@
-{"itemId": "ScheduleIdleResourceWorkflow Property[Key]", "identities": [{"id": "ScheduleIdleResourceWorkflow Property[Key]", "type": "ScheduleIdleResourceWorkflow Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ScheduleIdleResourceWorkflow]", "dependencies": ["Collection[ScheduleIdleResourceWorkflow]", "ScheduleIdleResourceWorkflow Property[SubCategory]"]}

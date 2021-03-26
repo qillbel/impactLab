@@ -1,1 +1,0 @@
-{"itemId": "LogicDomainSetting Index[SubCategory]", "identities": [{"id": "LogicDomainSetting Index[SubCategory]", "type": "LogicDomainSetting Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[LogicDomainSetting]", "dependencies": ["LogicDomainSetting Property[SubCategory]"]}

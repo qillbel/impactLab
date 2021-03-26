@@ -1,1 +1,0 @@
-{"itemId": "TaskPriorityObjective Property[Key]", "identities": [{"id": "TaskPriorityObjective Property[Key]", "type": "TaskPriorityObjective Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[TaskPriorityObjective]", "dependencies": ["Collection[TaskPriorityObjective]", "TaskPriorityObjective Property[Name]"]}

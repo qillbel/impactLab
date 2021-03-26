@@ -1,1 +1,0 @@
-{"itemId": "W6TASKS_REQUIREDCERTIFICATIONS Property[RequiredCertification]", "identities": [{"id": "W6TASKS_REQUIREDCERTIFICATIONS Property[RequiredCertification]", "type": "W6TASKS_REQUIREDCERTIFICATIONS Property", "fields": {"IdName": "RequiredCertification"}}], "ownerItem": "Collection[Task]", "dependencies": ["Certification Property[Name]", "Collection[Certification]"]}

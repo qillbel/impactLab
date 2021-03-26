@@ -1,1 +1,0 @@
-{"itemId": "RosterCrewType Property[CrewConstraints]", "identities": [{"id": "RosterCrewType Property[CrewConstraints]", "type": "RosterCrewType Property", "fields": {"IdName": "CrewConstraints"}}], "ownerItem": "Collection[RosterCrewType]", "dependencies": ["Collection[Group]", "Collection[RosterDemandType]", "Group Property[Name]", "RosterDemandType Property[Name]"]}

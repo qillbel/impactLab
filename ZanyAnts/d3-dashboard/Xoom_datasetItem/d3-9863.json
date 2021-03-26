@@ -1,1 +1,0 @@
-{"itemId": "W6ENG_DYNAMIC_LOG_LOCATION Property[State]", "identities": [{"id": "W6ENG_DYNAMIC_LOG_LOCATION Property[State]", "type": "W6ENG_DYNAMIC_LOG_LOCATION Property", "fields": {"IdName": "State"}}], "ownerItem": "Collection[EngineerDynamicDataLog]", "dependencies": ["Collection[EngineerLocationState]", "EngineerLocationState Property[Name]"]}

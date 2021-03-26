@@ -1,1 +1,0 @@
-{"itemId": "LookupFulfilTaskTypePriority Index[Name]", "identities": [{"id": "LookupFulfilTaskTypePriority Index[Name]", "type": "LookupFulfilTaskTypePriority Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[LookupFulfilTaskTypePriority]", "dependencies": ["LookupFulfilTaskTypePriority Property[Name]"]}

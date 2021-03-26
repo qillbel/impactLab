@@ -1,1 +1,0 @@
-{"itemId": "ButlerService Index[MobileKey]", "identities": [{"id": "ButlerService Index[MobileKey]", "type": "ButlerService Index", "fields": {"IdName": "MobileKey"}}], "ownerItem": "Collection[ButlerService]", "dependencies": ["ButlerService Property[MobileKey]"]}

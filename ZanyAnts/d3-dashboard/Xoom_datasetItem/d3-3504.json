@@ -1,1 +1,0 @@
-{"itemId": "Engineer Property[MobileClientSettings]", "identities": [{"id": "Engineer Property[MobileClientSettings]", "type": "Engineer Property", "fields": {"IdName": "MobileClientSettings"}}], "ownerItem": "Collection[Engineer]", "dependencies": ["Collection[UserSetting]", "UserSetting Property[Owner]"]}

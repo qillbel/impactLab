@@ -1,1 +1,0 @@
-{"itemId": "W6WORKFLOW_AGENT_CRITERIA Property[ScheduleUpdate]", "identities": [{"id": "W6WORKFLOW_AGENT_CRITERIA Property[ScheduleUpdate]", "type": "W6WORKFLOW_AGENT_CRITERIA Property", "fields": {"IdName": "ScheduleUpdate"}}], "ownerItem": "Collection[WorkflowAgent]", "dependencies": ["Collection[ScheduleUpdate]", "ScheduleUpdate Property[SubCategory]"]}

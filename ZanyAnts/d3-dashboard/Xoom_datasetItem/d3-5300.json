@@ -1,1 +1,0 @@
-{"itemId": "PainType Property[Key]", "identities": [{"id": "PainType Property[Key]", "type": "PainType Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[PainType]", "dependencies": ["Collection[PainType]", "PainType Property[Name]"]}

@@ -1,1 +1,0 @@
-{"itemId": "GenericEventDefinition[Update IsMDT to True]", "identities": [{"id": "GenericEventDefinition[Update IsMDT to True]", "type": "GenericEventDefinition", "fields": {"Name": "Update IsMDT to True"}}], "dependencies": ["Action Type[Set property]", "Collection[Task]", "Group[Multi Day Tasks]", "Group[Non Multi Day Tasks]", "Task Property[Duration]", "Task Property[IsMDT]"]}

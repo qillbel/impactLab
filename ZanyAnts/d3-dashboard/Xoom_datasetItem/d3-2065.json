@@ -1,1 +1,0 @@
-{"itemId": "CapacityLimitsDynamic Property[CapacityType]", "identities": [{"id": "CapacityLimitsDynamic Property[CapacityType]", "type": "CapacityLimitsDynamic Property", "fields": {"IdName": "CapacityType"}}], "ownerItem": "Collection[CapacityLimitsDynamic]", "dependencies": ["Collection[EngineerType]", "EngineerType Property[Name]"]}

@@ -1,1 +1,0 @@
-{"itemId": "RosterResourcePreference Property[Key]", "identities": [{"id": "RosterResourcePreference Property[Key]", "type": "RosterResourcePreference Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[RosterResourcePreference]", "dependencies": ["Collection[RosterResourcePreference]"]}

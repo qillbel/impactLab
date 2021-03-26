@@ -1,1 +1,0 @@
-{"itemId": "ClickRosterWebClientAdminSettings Property[ParentUserSetting]", "identities": [{"id": "ClickRosterWebClientAdminSettings Property[ParentUserSetting]", "type": "ClickRosterWebClientAdminSettings Property", "fields": {"IdName": "ParentUserSetting"}}], "ownerItem": "Collection[ClickRosterWebClientAdminSettings]", "dependencies": ["Collection[UserSetting]"]}

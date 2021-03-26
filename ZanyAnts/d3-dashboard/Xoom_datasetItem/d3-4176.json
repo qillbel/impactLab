@@ -1,1 +1,0 @@
-{"itemId": "Group[Band 6 CSTs]", "identities": [{"id": "Group[Band 6 CSTs]", "type": "Group", "fields": {"Name": "Band 6 CSTs", "GroupType": "Engineer"}}], "dependencies": ["Collection[Engineer]", "Engineer Property[EngineerType]", "EngineerType[Band 6]"]}

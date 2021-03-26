@@ -1,1 +1,0 @@
-{"itemId": "Group Index[Key]", "identities": [{"id": "Group Index[Key]", "type": "Group Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[Group]", "dependencies": ["Group Property[Key]"]}

@@ -1,1 +1,0 @@
-{"itemId": "ClickMobileSignalFrequency Index[SubCategory]", "identities": [{"id": "ClickMobileSignalFrequency Index[SubCategory]", "type": "ClickMobileSignalFrequency Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[ClickMobileSignalFrequency]", "dependencies": ["ClickMobileSignalFrequency Property[SubCategory]"]}

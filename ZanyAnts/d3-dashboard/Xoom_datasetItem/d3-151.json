@@ -1,1 +1,0 @@
-{"itemId": "Agent Instance[Purge Incomplete Tasks]", "identities": [{"id": "Agent Instance[Purge Incomplete Tasks]", "type": "Agent Instance", "fields": {"Name": "Purge Incomplete Tasks"}}], "ownerItem": "Setting[[Application]|Agents|AgentsManager|]", "dependencies": ["Agent[PurgeAgent|Purge Incomplete Tasks]", "Agent Instance[Purge Objects - Others]", "Server[SWS00719]"]}

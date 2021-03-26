@@ -1,1 +1,0 @@
-{"itemId": "Group[_Shift - I/O Install]", "identities": [{"id": "Group[_Shift - I/O Install]", "type": "Group", "fields": {"Name": "_Shift - I/O Install", "GroupType": "Task"}}], "dependencies": ["Collection[Task]", "Skill[I/O Install]", "Task Property[RequiredSkills1]", "W6TASKS_REQUIRED_SKILLS1 Property[Key]"]}

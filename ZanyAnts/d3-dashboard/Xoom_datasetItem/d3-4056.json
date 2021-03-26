@@ -1,1 +1,0 @@
-{"itemId": "GenericEventDefinition[Update DurationCurrent]", "identities": [{"id": "GenericEventDefinition[Update DurationCurrent]", "type": "GenericEventDefinition", "fields": {"Name": "Update DurationCurrent"}}], "dependencies": ["Action Type[Copy property]", "Collection[Task]", "Task Property[Duration]", "Task Property[DurationChangeReason]", "Task Property[DurationCurrent]"]}

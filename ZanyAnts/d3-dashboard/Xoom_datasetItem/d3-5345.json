@@ -1,1 +1,0 @@
-{"itemId": "PartOrder Property[PartOrderID]", "identities": [{"id": "PartOrder Property[PartOrderID]", "type": "PartOrder Property", "fields": {"IdName": "PartOrderID"}}], "ownerItem": "Collection[PartOrder]"}

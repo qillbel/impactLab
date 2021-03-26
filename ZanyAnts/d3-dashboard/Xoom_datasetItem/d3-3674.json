@@ -1,1 +1,0 @@
-{"itemId": "EngineerType Index[Name]", "identities": [{"id": "EngineerType Index[Name]", "type": "EngineerType Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[EngineerType]", "dependencies": ["EngineerType Property[Name]"]}

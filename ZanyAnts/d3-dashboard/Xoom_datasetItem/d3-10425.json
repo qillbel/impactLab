@@ -1,1 +1,0 @@
-{"itemId": "ZLookupDuration Index[Name]", "identities": [{"id": "ZLookupDuration Index[Name]", "type": "ZLookupDuration Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[ZLookupDuration]", "dependencies": ["ZLookupDuration Property[Name]"]}

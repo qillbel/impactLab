@@ -1,1 +1,0 @@
-{"itemId": "RosterMaxNumberOfPainShiftsRule Index[Key]", "identities": [{"id": "RosterMaxNumberOfPainShiftsRule Index[Key]", "type": "RosterMaxNumberOfPainShiftsRule Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[RosterMaxNumberOfPainShiftsRule]", "dependencies": ["RosterMaxNumberOfPainShiftsRule Property[Key]"]}

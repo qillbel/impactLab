@@ -1,1 +1,0 @@
-{"itemId": "Route[North Battleford City]", "identities": [{"id": "Route[North Battleford City]", "type": "Route", "fields": {"Name": "North Battleford City"}}], "dependencies": ["BookingArea[NORTHBAT]", "Region[6 - North Battleford - Lloydminster]", "WC[North Battleford]"]}

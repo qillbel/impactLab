@@ -1,1 +1,0 @@
-{"itemId": "StatusTransition[Rejected|Cancelled|3]", "identities": [{"id": "StatusTransition[Rejected|Cancelled|3]", "type": "StatusTransition", "fields": {"StatusBefore": "Rejected", "StatusAfter": "Cancelled", "StatusContext": "3"}}], "dependencies": ["TaskStatus[Cancelled]", "TaskStatus[Rejected]"]}

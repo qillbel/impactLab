@@ -1,1 +1,0 @@
-{"itemId": "Setting Index[Category,SubCategory,Name]", "identities": [{"id": "Setting Index[Category,SubCategory,Name]", "type": "Setting Index", "fields": {"IdName": "Category,SubCategory,Name"}}], "ownerItem": "Collection[Setting]", "dependencies": ["Setting Property[Category]", "Setting Property[Name]", "Setting Property[SubCategory]"]}

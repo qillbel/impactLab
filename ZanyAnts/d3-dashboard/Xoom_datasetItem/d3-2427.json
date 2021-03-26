@@ -1,1 +1,0 @@
-{"itemId": "CodingGroup Index[Key]", "identities": [{"id": "CodingGroup Index[Key]", "type": "CodingGroup Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[CodingGroup]", "dependencies": ["CodingGroup Property[Key]"]}

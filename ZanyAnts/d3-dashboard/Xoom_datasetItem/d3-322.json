@@ -1,1 +1,0 @@
-{"itemId": "AppointmentBookingParameters Property[Key]", "identities": [{"id": "AppointmentBookingParameters Property[Key]", "type": "AppointmentBookingParameters Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[AppointmentBookingParameters]", "dependencies": ["AppointmentBookingParameters Property[SubCategory]", "Collection[AppointmentBookingParameters]"]}

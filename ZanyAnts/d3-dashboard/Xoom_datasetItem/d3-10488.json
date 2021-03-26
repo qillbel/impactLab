@@ -1,1 +1,0 @@
-{"itemId": "W6ASSETS_ASN_TO_PARTNERS Property[AddressKey]", "identities": [{"id": "W6ASSETS_ASN_TO_PARTNERS Property[AddressKey]", "type": "W6ASSETS_ASN_TO_PARTNERS Property", "fields": {"IdName": "AddressKey"}}], "ownerItem": "Collection[Asset]", "dependencies": ["Address Property[Name]", "Collection[Address]"]}

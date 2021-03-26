@@ -1,1 +1,0 @@
-{"itemId": "SOUserGroup Property[ClickMobileClassicSetting]", "identities": [{"id": "SOUserGroup Property[ClickMobileClassicSetting]", "type": "SOUserGroup Property", "fields": {"IdName": "ClickMobileClassicSetting"}}], "ownerItem": "Collection[SOUserGroup]", "dependencies": ["Collection[UserSetting]", "UserSetting Property[Owner]"]}

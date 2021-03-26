@@ -1,1 +1,0 @@
-{"itemId": "RosterNARule Property[ResourceGroupKey]", "identities": [{"id": "RosterNARule Property[ResourceGroupKey]", "type": "RosterNARule Property", "fields": {"IdName": "ResourceGroupKey"}}], "ownerItem": "Collection[RosterNARule]", "dependencies": ["Collection[RelevanceGroup]", "RelevanceGroup Property[Name]"]}

@@ -1,1 +1,0 @@
-{"itemId": "ZLookupSkillTranslation Index[Key]", "identities": [{"id": "ZLookupSkillTranslation Index[Key]", "type": "ZLookupSkillTranslation Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ZLookupSkillTranslation]", "dependencies": ["ZLookupSkillTranslation Property[Key]"]}

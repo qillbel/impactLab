@@ -1,1 +1,0 @@
-{"itemId": "CustomerAccount Index[Locations.All.LocationKey]", "identities": [{"id": "CustomerAccount Index[Locations.All.LocationKey]", "type": "CustomerAccount Index", "fields": {"IdName": "Locations.All.LocationKey"}}], "ownerItem": "Collection[CustomerAccount]", "dependencies": ["CustomerAccount Property[Locations]", "W6CUSTOMER_ACCOUNTS_LOCATIONS Property[LocationKey]"]}

@@ -1,1 +1,0 @@
-{"itemId": "Contract Index[Region,District,Team]", "identities": [{"id": "Contract Index[Region,District,Team]", "type": "Contract Index", "fields": {"IdName": "Region,District,Team"}}], "ownerItem": "Collection[Contract]", "dependencies": ["Contract Property[District]", "Contract Property[Region]", "Contract Property[Team]"]}

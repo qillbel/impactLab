@@ -1,1 +1,0 @@
-{"itemId": "WorkCenterStart Property[Key]", "identities": [{"id": "WorkCenterStart Property[Key]", "type": "WorkCenterStart Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[WorkCenterStart]", "dependencies": ["Collection[WorkCenterStart]", "WorkCenterStart Property[Name]"]}

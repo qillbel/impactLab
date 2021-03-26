@@ -1,1 +1,0 @@
-{"itemId": "SystemTimeRule Property[RelevanceGroup]", "identities": [{"id": "SystemTimeRule Property[RelevanceGroup]", "type": "SystemTimeRule Property", "fields": {"IdName": "RelevanceGroup"}}], "ownerItem": "Collection[SystemTimeRule]", "dependencies": ["Collection[RelevanceGroup]", "RelevanceGroup Property[Name]"]}

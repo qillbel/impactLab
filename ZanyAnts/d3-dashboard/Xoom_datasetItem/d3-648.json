@@ -1,1 +1,0 @@
-{"itemId": "BackgroundOptimization Property[Key]", "identities": [{"id": "BackgroundOptimization Property[Key]", "type": "BackgroundOptimization Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[BackgroundOptimization]", "dependencies": ["BackgroundOptimization Property[SubCategory]", "Collection[BackgroundOptimization]"]}

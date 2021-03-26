@@ -1,1 +1,0 @@
-{"itemId": "StreetSmartPollingManagerGeneralSettings Index[Name]", "identities": [{"id": "StreetSmartPollingManagerGeneralSettings Index[Name]", "type": "StreetSmartPollingManagerGeneralSettings Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[StreetSmartPollingManagerGeneralSettings]", "dependencies": ["StreetSmartPollingManagerGeneralSettings Property[Name]"]}

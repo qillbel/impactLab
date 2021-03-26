@@ -1,1 +1,0 @@
-{"itemId": "TimeCostBVF Index[Key]", "identities": [{"id": "TimeCostBVF Index[Key]", "type": "TimeCostBVF Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[TimeCostBVF]", "dependencies": ["TimeCostBVF Property[Key]"]}

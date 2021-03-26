@@ -1,1 +1,0 @@
-{"itemId": "EnhancedSkillsBVF Property[RelevanceGroup]", "identities": [{"id": "EnhancedSkillsBVF Property[RelevanceGroup]", "type": "EnhancedSkillsBVF Property", "fields": {"IdName": "RelevanceGroup"}}], "ownerItem": "Collection[EnhancedSkillsBVF]", "dependencies": ["Collection[RelevanceGroup]", "RelevanceGroup Property[Name]"]}

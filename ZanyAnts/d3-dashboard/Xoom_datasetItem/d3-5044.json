@@ -1,1 +1,0 @@
-{"itemId": "NonAvailabilityType Property[Key]", "identities": [{"id": "NonAvailabilityType Property[Key]", "type": "NonAvailabilityType Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[NonAvailabilityType]", "dependencies": ["Collection[NonAvailabilityType]", "NonAvailabilityType Property[Name]"]}

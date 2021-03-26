@@ -1,1 +1,0 @@
-{"itemId": "SOUserGroup Property[ControlCenterSetting]", "identities": [{"id": "SOUserGroup Property[ControlCenterSetting]", "type": "SOUserGroup Property", "fields": {"IdName": "ControlCenterSetting"}}], "ownerItem": "Collection[SOUserGroup]", "dependencies": ["Collection[UserSetting]", "UserSetting Property[Owner]"]}

@@ -1,1 +1,0 @@
-{"itemId": "UserSetting Property[ParentUserSetting]", "identities": [{"id": "UserSetting Property[ParentUserSetting]", "type": "UserSetting Property", "fields": {"IdName": "ParentUserSetting"}}], "ownerItem": "Collection[UserSetting]", "dependencies": ["Collection[UserSetting]"]}

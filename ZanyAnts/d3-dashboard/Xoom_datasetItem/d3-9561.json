@@ -1,1 +1,0 @@
-{"itemId": "UserSetting Index[Key]", "identities": [{"id": "UserSetting Index[Key]", "type": "UserSetting Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[UserSetting]", "dependencies": ["UserSetting Property[Key]"]}
