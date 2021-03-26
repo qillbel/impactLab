@@ -1,0 +1,1 @@
+[{"itemId": "AppState Property[Key]", "identities": [{"id": "AppState Property[Key]", "type": "AppState Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[AppState]", "dependencies": ["AppState Property[Name]", "Collection[AppState]"]}]

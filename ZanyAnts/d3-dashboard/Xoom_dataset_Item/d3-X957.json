@@ -1,0 +1,1 @@
+[{"itemId": "ButlerAction Property[Key]", "identities": [{"id": "ButlerAction Property[Key]", "type": "ButlerAction Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ButlerAction]", "dependencies": ["ButlerAction Property[Name]", "Collection[ButlerAction]"]}]

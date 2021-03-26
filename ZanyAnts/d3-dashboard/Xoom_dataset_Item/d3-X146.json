@@ -1,0 +1,1 @@
+[{"itemId": "Agent Instance[Night BGO - MT Only]", "identities": [{"id": "Agent Instance[Night BGO - MT Only]", "type": "Agent Instance", "fields": {"Name": "Night BGO - MT Only"}}], "ownerItem": "Setting[[Application]|Agents|AgentsManager|]", "dependencies": ["Agent[Schedule|Night BGO - MT Only]", "Server[SWS00719]"]}]

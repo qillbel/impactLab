@@ -1,0 +1,1 @@
+[{"itemId": "ClickScheduleWebClientUserSettings Index[Owner]", "identities": [{"id": "ClickScheduleWebClientUserSettings Index[Owner]", "type": "ClickScheduleWebClientUserSettings Index", "fields": {"IdName": "Owner"}}], "ownerItem": "Collection[ClickScheduleWebClientUserSettings]", "dependencies": ["ClickScheduleWebClientUserSettings Property[Owner]"]}]

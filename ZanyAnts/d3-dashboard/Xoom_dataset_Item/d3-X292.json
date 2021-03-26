@@ -1,0 +1,1 @@
+[{"itemId": "AppointmentBookingCapacitySettings Index[SubCategory]", "identities": [{"id": "AppointmentBookingCapacitySettings Index[SubCategory]", "type": "AppointmentBookingCapacitySettings Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[AppointmentBookingCapacitySettings]", "dependencies": ["AppointmentBookingCapacitySettings Property[SubCategory]"]}]

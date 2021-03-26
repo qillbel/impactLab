@@ -227,8 +227,8 @@ d3.json(catJSON).then(function (graph) {
         .enter()
         .append("path")
         .attr("stroke", "#aaa")
-        .attr("stroke-width", function (d, i) { return path_scale(d.value); })
-        //.attr("stroke-width", function (d) { return d.value; })
+        //.attr("stroke-width", function (d, i) { return path_scale(d.value); })
+        .attr("stroke-width", function (d) { return d.value; })
         .attr("fill", "none")
         .attr("marker-end", "url(#end)");
 

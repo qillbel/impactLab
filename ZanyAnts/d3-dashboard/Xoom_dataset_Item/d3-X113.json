@@ -1,0 +1,1 @@
+[{"itemId": "AddressType Property[Key]", "identities": [{"id": "AddressType Property[Key]", "type": "AddressType Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[AddressType]", "dependencies": ["AddressType Property[Name]", "Collection[AddressType]"]}]

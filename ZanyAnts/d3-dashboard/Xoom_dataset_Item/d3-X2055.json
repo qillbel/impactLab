@@ -1,0 +1,1 @@
+[{"itemId": "CapacityLimits Property[BookingArea]", "identities": [{"id": "CapacityLimits Property[BookingArea]", "type": "CapacityLimits Property", "fields": {"IdName": "BookingArea"}}], "ownerItem": "Collection[CapacityLimits]", "dependencies": ["Collection[District]", "District Property[Name]"]}]

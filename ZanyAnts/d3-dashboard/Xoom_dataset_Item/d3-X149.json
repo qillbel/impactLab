@@ -1,0 +1,1 @@
+[{"itemId": "Agent Instance[Night BGO \u2013 Saskatoon Region]", "identities": [{"id": "Agent Instance[Night BGO \u2013 Saskatoon Region]", "type": "Agent Instance", "fields": {"Name": "Night BGO \u2013 Saskatoon Region"}}], "ownerItem": "Setting[[Application]|Agents|AgentsManager|]", "dependencies": ["Agent[Schedule|Night BGO - Saskatoon Region]", "Server[SWS00717]"]}]

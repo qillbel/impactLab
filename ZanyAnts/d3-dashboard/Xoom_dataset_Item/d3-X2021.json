@@ -1,0 +1,1 @@
+[{"itemId": "Calendar Index[Stamp.TimeModified]", "identities": [{"id": "Calendar Index[Stamp.TimeModified]", "type": "Calendar Index", "fields": {"IdName": "Stamp.TimeModified"}}], "ownerItem": "Collection[Calendar]", "dependencies": ["Calendar Property[Stamp]", "Calendar.W6CALENDAR_AGG_STAMPS Property[TimeModified]"]}]

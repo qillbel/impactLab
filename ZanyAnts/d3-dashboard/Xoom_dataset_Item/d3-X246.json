@@ -1,0 +1,1 @@
+[{"itemId": "AllowUpdateOfPinnedAssignments Index[SubCategory]", "identities": [{"id": "AllowUpdateOfPinnedAssignments Index[SubCategory]", "type": "AllowUpdateOfPinnedAssignments Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[AllowUpdateOfPinnedAssignments]", "dependencies": ["AllowUpdateOfPinnedAssignments Property[SubCategory]"]}]

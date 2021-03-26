@@ -1,0 +1,1 @@
+[{"itemId": "ArchiveStatus Property[Key]", "identities": [{"id": "ArchiveStatus Property[Key]", "type": "ArchiveStatus Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ArchiveStatus]", "dependencies": ["ArchiveStatus Property[Name]", "Collection[ArchiveStatus]"]}]

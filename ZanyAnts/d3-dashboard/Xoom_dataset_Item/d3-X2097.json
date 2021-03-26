@@ -1,0 +1,1 @@
+[{"itemId": "CapacityReservationRule Index[Name]", "identities": [{"id": "CapacityReservationRule Index[Name]", "type": "CapacityReservationRule Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[CapacityReservationRule]", "dependencies": ["CapacityReservationRule Property[Name]"]}]

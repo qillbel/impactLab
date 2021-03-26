@@ -1,0 +1,1 @@
+[{"itemId": "ClickMobileTranslatorMapping Property[Key]", "identities": [{"id": "ClickMobileTranslatorMapping Property[Key]", "type": "ClickMobileTranslatorMapping Property", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[ClickMobileTranslatorMapping]", "dependencies": ["Collection[ClickMobileTranslatorMapping]"]}]

@@ -1,0 +1,1 @@
+[{"itemId": "Agent Instance[MT Reassign - Daily]", "identities": [{"id": "Agent Instance[MT Reassign - Daily]", "type": "Agent Instance", "fields": {"Name": "MT Reassign - Daily"}}], "ownerItem": "Setting[[Application]|Agents|AgentsManager|]", "dependencies": ["Agent[Workflow Agent|MegaTask Reassign]", "Server[SWS00719]"]}]

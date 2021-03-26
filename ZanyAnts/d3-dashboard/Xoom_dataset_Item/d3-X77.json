@@ -1,0 +1,1 @@
+[{"itemId": "AbsenceType Index[Name]", "identities": [{"id": "AbsenceType Index[Name]", "type": "AbsenceType Index", "fields": {"IdName": "Name"}}], "ownerItem": "Collection[AbsenceType]", "dependencies": ["AbsenceType Property[Name]"]}]

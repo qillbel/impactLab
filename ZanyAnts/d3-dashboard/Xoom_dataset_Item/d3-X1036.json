@@ -1,0 +1,1 @@
+[{"itemId": "ButlerCondition Index[MobileKey]", "identities": [{"id": "ButlerCondition Index[MobileKey]", "type": "ButlerCondition Index", "fields": {"IdName": "MobileKey"}}], "ownerItem": "Collection[ButlerCondition]", "dependencies": ["ButlerCondition Property[MobileKey]"]}]

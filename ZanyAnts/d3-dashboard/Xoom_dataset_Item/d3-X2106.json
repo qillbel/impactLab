@@ -1,0 +1,1 @@
+[{"itemId": "CapacityReservationRule Property[OverCapacityPercentage]", "identities": [{"id": "CapacityReservationRule Property[OverCapacityPercentage]", "type": "CapacityReservationRule Property", "fields": {"IdName": "OverCapacityPercentage"}}], "ownerItem": "Collection[CapacityReservationRule]"}]

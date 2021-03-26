@@ -1,0 +1,1 @@
+[{"itemId": "ClickMobileTranslatorMapping Index[SubCategory]", "identities": [{"id": "ClickMobileTranslatorMapping Index[SubCategory]", "type": "ClickMobileTranslatorMapping Index", "fields": {"IdName": "SubCategory"}}], "ownerItem": "Collection[ClickMobileTranslatorMapping]", "dependencies": ["ClickMobileTranslatorMapping Property[SubCategory]"]}]

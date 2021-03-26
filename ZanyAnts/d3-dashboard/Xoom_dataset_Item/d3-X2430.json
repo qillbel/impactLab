@@ -1,0 +1,1 @@
+[{"itemId": "CodingCode Property[ParentCodingGroup]", "identities": [{"id": "CodingCode Property[ParentCodingGroup]", "type": "CodingCode Property", "fields": {"IdName": "ParentCodingGroup"}}], "ownerItem": "Collection[CodingCode]", "dependencies": ["CodingGroup Property[Name]", "Collection[CodingGroup]"]}]

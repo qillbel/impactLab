@@ -1,0 +1,1 @@
+[{"itemId": "CapacityReservationRule Property[RelevanceGroup]", "identities": [{"id": "CapacityReservationRule Property[RelevanceGroup]", "type": "CapacityReservationRule Property", "fields": {"IdName": "RelevanceGroup"}}], "ownerItem": "Collection[CapacityReservationRule]", "dependencies": ["Collection[RelevanceGroup]", "RelevanceGroup Property[Name]"]}]

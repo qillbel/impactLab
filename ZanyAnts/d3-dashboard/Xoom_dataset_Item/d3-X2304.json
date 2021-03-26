@@ -1,0 +1,1 @@
+[{"itemId": "ClickMobileTouchUserSettings Index[Owner]", "identities": [{"id": "ClickMobileTouchUserSettings Index[Owner]", "type": "ClickMobileTouchUserSettings Index", "fields": {"IdName": "Owner"}}], "ownerItem": "Collection[ClickMobileTouchUserSettings]", "dependencies": ["ClickMobileTouchUserSettings Property[Owner]"]}]

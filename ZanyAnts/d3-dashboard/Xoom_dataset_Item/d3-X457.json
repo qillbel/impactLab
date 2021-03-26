@@ -1,0 +1,1 @@
+[{"itemId": "Assignment Property[NonAvailabilityType]", "identities": [{"id": "Assignment Property[NonAvailabilityType]", "type": "Assignment Property", "fields": {"IdName": "NonAvailabilityType"}}], "ownerItem": "Collection[Assignment]", "dependencies": ["Collection[NonAvailabilityType]", "NonAvailabilityType Property[Name]"]}]

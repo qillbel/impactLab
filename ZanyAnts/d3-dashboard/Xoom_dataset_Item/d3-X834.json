@@ -1,0 +1,1 @@
+[{"itemId": "BundledItem Index[Key]", "identities": [{"id": "BundledItem Index[Key]", "type": "BundledItem Index", "fields": {"IdName": "Key"}}], "ownerItem": "Collection[BundledItem]", "dependencies": ["BundledItem Property[Key]"]}]

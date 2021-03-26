@@ -1,0 +1,1 @@
+[{"itemId": "CapacityLimitsWizardTemplate Property[Buckets]", "identities": [{"id": "CapacityLimitsWizardTemplate Property[Buckets]", "type": "CapacityLimitsWizardTemplate Property", "fields": {"IdName": "Buckets"}}], "ownerItem": "Collection[CapacityLimitsWizardTemplate]", "dependencies": ["CapacityBucket Property[Name]", "Collection[CapacityBucket]"]}]

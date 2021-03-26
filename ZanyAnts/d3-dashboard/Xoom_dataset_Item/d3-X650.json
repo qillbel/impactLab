@@ -1,0 +1,1 @@
+[{"itemId": "BackgroundOptimization Property[Decomposition]", "identities": [{"id": "BackgroundOptimization Property[Decomposition]", "type": "BackgroundOptimization Property", "fields": {"IdName": "Decomposition"}}], "ownerItem": "Collection[BackgroundOptimization]", "dependencies": ["Collection[Decomposition]", "Decomposition Property[SubCategory]"]}]

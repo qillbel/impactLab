@@ -1,0 +1,1 @@
+[{"itemId": "CodingGroup Property[ParentCatalogProfile]", "identities": [{"id": "CodingGroup Property[ParentCatalogProfile]", "type": "CodingGroup Property", "fields": {"IdName": "ParentCatalogProfile"}}], "ownerItem": "Collection[CodingGroup]", "dependencies": ["CatalogProfile Property[Name]", "Collection[CatalogProfile]"]}]

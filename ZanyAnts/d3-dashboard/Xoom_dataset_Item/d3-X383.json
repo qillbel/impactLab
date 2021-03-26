@@ -1,0 +1,1 @@
+[{"itemId": "Asset Index[ExternalRefID]", "identities": [{"id": "Asset Index[ExternalRefID]", "type": "Asset Index", "fields": {"IdName": "ExternalRefID"}}], "ownerItem": "Collection[Asset]", "dependencies": ["Asset Property[ExternalRefID]"]}]
