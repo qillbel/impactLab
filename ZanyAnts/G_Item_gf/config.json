@@ -5,26 +5,26 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": "Belfrit Victor Batlajery"
+    "text": "bel"
   },
   "text": {
-    "more": "",
-    "intro": "This is Item visualization",
-    "title": "G_Item"
+    "more": "G_Item_gf",
+    "intro": "G_Item_gf",
+    "title": "G_Item_gf"
   },
   "legend": {
-    "edgeLabel": "depends on",
-    "colorLabel": "Cluster",
-    "nodeLabel": "Item"
+    "edgeLabel": "dependency",
+    "colorLabel": "",
+    "nodeLabel": "item"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "hasType",
+    "groupSelectorAttribute": "Modularity Class",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": true,
-    "imageAttribute": "hasNumId"
+    "imageAttribute": false
   },
   "sigma": {
     "drawingProperties": {
